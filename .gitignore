@@ -1,3 +1,5 @@
+# Default .gitignore for python project. Add/remove as needed.
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
