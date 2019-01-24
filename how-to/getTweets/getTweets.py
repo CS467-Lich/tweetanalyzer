@@ -11,13 +11,12 @@ with open('twitter_credentials.json', 'r') as file:
 print('CONSUMER_KEY = ' + creds['CONSUMER_KEY'])
 print('CONSUMER_SECRET = ' + creds['CONSUMER_SECRET'])
 
-
 # Get access token
 twitter = Twython(creds['CONSUMER_KEY'], creds['CONSUMER_SECRET'], oauth_version=2)
 ACCESS_TOKEN = twitter.obtain_access_token()
 twitter = Twython(creds['CONSUMER_KEY'], access_token=ACCESS_TOKEN)
 
-# Make search
+# Send search request to Twitter
 results = twitter.search(q='doggos', result_type='popular')
 
 # Take only what we want from the results (just a couple attributes for now)
@@ -29,14 +28,18 @@ for status in results['statuses']:
 
 # Use pandas to structure data as a DataFrame. This isn't necessary for
 # just viewing the data, but would likely be necessary for any sort of 
-# analysis with pandas.
+# analysis with pandas. Plus pandas has a nifty to_csv() function for
+# DataFrames.
 df = pd.DataFrame.from_dict(dict_)
 df.sort_values(by='date', inplace=True, ascending=False)
 
-# Peek at results -- this doesn't show everything, but enough just to check.
+# Results to console
 print("Results Preview:")
-print(df.head(10))
+print(df)
 
+# Results to CSV ('index=False' means don't save the dataframe line index--
+# it's useless to us)
+df.to_csv('test_output.csv', index=False)
 
 # References:
 # https://stackabuse.com/accessing-the-twitter-api-with-python/
