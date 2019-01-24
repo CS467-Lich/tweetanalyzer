@@ -1,7 +1,7 @@
 # Default .gitignore for python project. Add/remove as needed.
 
 # Project Files
-how-to/twitter_credentials.json
+how-to/getTweets/twitter_credentials.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
