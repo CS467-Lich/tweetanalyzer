@@ -3,6 +3,10 @@
 # Project Files
 how-to/getTweets/twitter_credentials.json
 
+# For now, ignore csv files-- we may want to remove this rule later or
+# stick all CSV files with data we want to keep in a certain directory.
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
