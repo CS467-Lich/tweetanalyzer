@@ -1,7 +1,7 @@
 # Default .gitignore for python project. Add/remove as needed.
 
 # Project Files
-how-to/getTweets/twitter_credentials.json
+twitter_credentials.json
 
 # For now, ignore csv files-- we may want to remove this rule later or
 # stick all CSV files with data we want to keep in a certain directory.

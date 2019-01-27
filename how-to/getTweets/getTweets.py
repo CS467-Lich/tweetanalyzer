@@ -6,7 +6,7 @@ import json
 import pandas as pd
 
 # Load credentials from JSON file
-with open('twitter_credentials.json', 'r') as file:
+with open('../../twitter_credentials.json', 'r') as file:
     creds = json.load(file)
 print('CONSUMER_KEY = ' + creds['CONSUMER_KEY'])
 print('CONSUMER_SECRET = ' + creds['CONSUMER_SECRET'])
