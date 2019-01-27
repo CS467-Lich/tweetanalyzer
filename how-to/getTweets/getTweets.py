@@ -7,7 +7,7 @@ import pandas as pd
 
 # Load credentials from JSON file
 with open('twitter_credentials.json', 'r') as file:
-	creds = json.load(file)
+    creds = json.load(file)
 print('CONSUMER_KEY = ' + creds['CONSUMER_KEY'])
 print('CONSUMER_SECRET = ' + creds['CONSUMER_SECRET'])
 
@@ -17,14 +17,19 @@ ACCESS_TOKEN = twitter.obtain_access_token()
 twitter = Twython(creds['CONSUMER_KEY'], access_token=ACCESS_TOKEN)
 
 # Send search request to Twitter
-results = twitter.search(q='doggos', result_type='popular')
+results = twitter.search(q='dogs', result_type='popular')
 
 # Take only what we want from the results (just a couple attributes for now)
-dict_ = {'user': [], 'date': [], 'text': []}
+dict_ = {'user': [], 'date': [], 'text': [], 'source': [], 'coordinates': [], 'language': [], 'hashtags': []}
 for status in results['statuses']:
-	dict_['user'].append(status['user']['screen_name'])
-	dict_['date'].append(status['created_at'])
-	dict_['text'].append(status['text'])
+    dict_['user'].append(status['user']['screen_name'])
+    dict_['date'].append(status['created_at'])
+    dict_['text'].append(status['text'])
+    dict_['source'].append(status['source'])
+    dict_['coordinates'].append(status['coordinates'])
+    dict_['language'].append(status['lang'])
+    dict_['hashtags'].append(status['entities']['hashtags'])
+
 
 # Use pandas to structure data as a DataFrame. This isn't necessary for
 # just viewing the data, but would likely be necessary for any sort of 
