@@ -5,6 +5,8 @@ from twython import Twython
 import json
 import pandas as pd
 
+from helperFunctions import writeAsJSON
+
 # Load credentials from JSON file
 with open('../../twitter_credentials.json', 'r') as file:
     creds = json.load(file)
@@ -29,6 +31,10 @@ for status in results['statuses']:
     dict_['coordinates'].append(status['coordinates'])
     dict_['language'].append(status['lang'])
     dict_['hashtags'].append(status['entities']['hashtags'])
+
+
+# save data in json form to json file
+writeAsJSON(dict_)
 
 
 # Use pandas to structure data as a DataFrame. This isn't necessary for
