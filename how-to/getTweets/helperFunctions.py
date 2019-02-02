@@ -15,7 +15,7 @@ myDataFile = 'data.json'
 # write data as JSON to file
 def writeAsJSON(data):
     with open(myDataFile, 'w') as outfile:
-        json.dump(data, outfile)
+        json.dump(data, outfile, indent=4)
 
 
 
