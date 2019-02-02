@@ -23,7 +23,7 @@ $ python3 --version
 Make sure the requirements in 'requirements.txt' have been installed.
 
 ```
-$ pip3 insall -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 ### twitter_credentials.json
@@ -39,7 +39,7 @@ credentialsPath = ...
 
 There is one main method with a command line interface to guide you through collecting raw tweet data.
 
-(Note: If you are working on flip, replace any command to 'python' with 'python3'.)
+*(Note: If you are working on flip, replace any command to 'python' with 'python3'.)*
 
 ```
 $ python main.py
@@ -108,6 +108,4 @@ outputJSON = 'data.json'
 outputCSV = 'data.csv'
 ```
 
-**
-The code is currently set to overwrite any existing files.
-**
+**The code is currently set to overwrite any existing files.**
