@@ -81,11 +81,14 @@ Would you like to import a complex query from a
 plaintext file? (Enter Y or N) 
 ```
 
-For very long or complicated queries, it may be easier to save them to a text file. To improve readability, you may break up your query onto multiple lines. The program will remove line breaks and replace them with spaces.
+For very long or complicated queries, it may be easier to save the query as a text file and enter the file name at the command line. To improve readability, you may break up your query onto multiple lines in this file. When reading the file, the program will remove line breaks and replace them with spaces.
 
 If your query is simple, like "dogs" or "@cats", entering your query at the command line may be more convenient.
 
 ##### Result Type
+
+Twitter will return the most recent tweets resulting from your query, the most popular, or a mix of the two. However, note that requesting 'popular' tweets often results in Twitter returning fewer tweets than requested. Requesting 'recent' or 'mixed' tweets tends to result in more tweets.
+
 ```
 Twitter can provide one of three types of results.
 1 - recent
@@ -94,8 +97,6 @@ Twitter can provide one of three types of results.
 ```
 
 To make a selection, enter either the number (e.g. '1') or the type (e.g. 'recent').
-
-Twitter will return the most recent tweets resulting from your query, the most popular, or a mix of the two. However, note that requesting 'popular' tweets often results in Twitter returning fewer tweets than requested. Requesting 'recent' or 'mixed' tweets tends to result in more tweets.
 
 After specifying the max count, query, and result type, the program will retrieve the tweets and save them to JSON and CSV.
  
