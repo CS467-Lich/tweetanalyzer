@@ -19,7 +19,7 @@ ACCESS_TOKEN = twitter.obtain_access_token()
 twitter = Twython(creds['CONSUMER_KEY'], access_token=ACCESS_TOKEN)
 
 # Send search request to Twitter
-results = twitter.search(q='dogs', result_type='popular')
+results = twitter.search(q='dogs', result_type='mixed', count='50')
 
 # Take only what we want from the results (just a couple attributes for now)
 dict_ = {'user': [], 'date': [], 'text': [], 'source': [], 'coordinates': [], 'language': [], 'hashtags': []}
