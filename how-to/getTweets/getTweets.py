@@ -7,8 +7,11 @@ import pandas as pd
 
 from helperFunctions import writeAsJSON
 
+TWITTER_SEARCH = 'alexandria ocasio-cortez'
+JSON_SAVE_FILE = 'joinJSON/Political/data7.json'
+
 # Load credentials from JSON file
-with open('../../twitter_credentials.json', 'r') as file:
+with open('twitter_credentials.json', 'r') as file:
     creds = json.load(file)
 print('CONSUMER_KEY = ' + creds['CONSUMER_KEY'])
 print('CONSUMER_SECRET = ' + creds['CONSUMER_SECRET'])
@@ -19,7 +22,7 @@ ACCESS_TOKEN = twitter.obtain_access_token()
 twitter = Twython(creds['CONSUMER_KEY'], access_token=ACCESS_TOKEN)
 
 # Send search request to Twitter
-results = twitter.search(q='dogs', result_type='mixed', count='50')
+results = twitter.search(q=TWITTER_SEARCH, result_type='mixed', lang='en', count='25')
 
 # Take only what we want from the results (just a couple attributes for now)
 dict_ = {'user': [], 'date': [], 'text': [], 'source': [], 'coordinates': [], 'language': [], 'hashtags': []}
@@ -34,7 +37,7 @@ for status in results['statuses']:
 
 
 # save data in json form to json file
-writeAsJSON(dict_)
+writeAsJSON(dict_, JSON_SAVE_FILE)
 
 
 # Use pandas to structure data as a DataFrame. This isn't necessary for
@@ -45,12 +48,12 @@ df = pd.DataFrame.from_dict(dict_)
 df.sort_values(by='date', inplace=True, ascending=False)
 
 # Results to console
-print("Results Preview:")
-print(df)
+# print("Results Preview:")
+# print(df)
 
 # Results to CSV ('index=False' means don't save the dataframe line index--
 # it's useless to us)
-df.to_csv('test_output.csv', index=False)
+# df.to_csv('test_output.csv', index=False)
 
 # References:
 # https://stackabuse.com/accessing-the-twitter-api-with-python/

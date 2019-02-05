@@ -4,23 +4,26 @@ CS467 Lich
 Cord Meados 2019
 '''
 
+#####################################################
+# imports
 import json
 
+
+#####################################################
 # CONSTANTS
-# file we want to write to. This could be updated to reference an outside file.
-myDataFile = 'data.json'
 
 
+#####################################################
 #HELPER FUNCTIONS
-# write data as JSON to file
-def writeAsJSON(data):
-    with open(myDataFile, 'w') as outfile:
+"""
+write data as JSON to file.
+Parameters:
+data: data you want written to the file
+filename: the filepath the data will be written to
+"""
+def writeAsJSON(data, filename):
+    with open(filename, 'w') as outfile:
         json.dump(data, outfile, indent=4)
-
-
-
-
-
 
 
 
