@@ -39,7 +39,7 @@ for filename in os.listdir(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER):
     finalJSON = merger.merge(finalJSON, tempJSONData)
 
 # store final json data
-writeAsJSON(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER + '/' + MY_FINAL_DATA, finalJSON)
+writeAsJSON(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER + '/' + MY_FINAL_DATA + ".json", finalJSON)
 
 
 # References
