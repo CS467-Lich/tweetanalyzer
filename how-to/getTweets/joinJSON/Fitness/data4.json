@@ -1,0 +1,400 @@
+{
+    "source": [
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"https://socialrabbitplugin.com\" rel=\"nofollow\">SocialRabbit Plugin</a>",
+        "<a href=\"http://www.edgetheory.com\" rel=\"nofollow\">EdgeTheory</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://www.frugl.com\" rel=\"nofollow\">Frugl Deals and Offers</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://www.solomofy.com\" rel=\"nofollow\">Solomofy</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://www.artfine.net\" rel=\"nofollow\">MyApp210562</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>"
+    ],
+    "hashtags": [
+        [],
+        [],
+        [],
+        [
+            {
+                "indices": [
+                    43,
+                    50
+                ],
+                "text": "sports"
+            },
+            {
+                "indices": [
+                    51,
+                    59
+                ],
+                "text": "fitness"
+            },
+            {
+                "indices": [
+                    60,
+                    64
+                ],
+                "text": "gym"
+            },
+            {
+                "indices": [
+                    65,
+                    73
+                ],
+                "text": "workout"
+            },
+            {
+                "indices": [
+                    74,
+                    83
+                ],
+                "text": "training"
+            },
+            {
+                "indices": [
+                    84,
+                    95
+                ],
+                "text": "motivation"
+            },
+            {
+                "indices": [
+                    96,
+                    109
+                ],
+                "text": "bodybuilding"
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "indices": [
+                    30,
+                    38
+                ],
+                "text": "fitlife"
+            },
+            {
+                "indices": [
+                    44,
+                    50
+                ],
+                "text": "fitpo"
+            },
+            {
+                "indices": [
+                    51,
+                    58
+                ],
+                "text": "fitfam"
+            },
+            {
+                "indices": [
+                    59,
+                    67
+                ],
+                "text": "gymlife"
+            },
+            {
+                "indices": [
+                    68,
+                    73
+                ],
+                "text": "yoga"
+            },
+            {
+                "indices": [
+                    74,
+                    88
+                ],
+                "text": "yogachallenge"
+            },
+            {
+                "indices": [
+                    89,
+                    98
+                ],
+                "text": "yogagirl"
+            },
+            {
+                "indices": [
+                    99,
+                    107
+                ],
+                "text": "yogafun"
+            }
+        ],
+        [],
+        [
+            {
+                "indices": [
+                    85,
+                    94
+                ],
+                "text": "vitamins"
+            },
+            {
+                "indices": [
+                    95,
+                    102
+                ],
+                "text": "muscle"
+            },
+            {
+                "indices": [
+                    103,
+                    111
+                ],
+                "text": "fitness"
+            },
+            {
+                "indices": [
+                    112,
+                    119
+                ],
+                "text": "health"
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "indices": [
+                    62,
+                    70
+                ],
+                "text": "homebiz"
+            },
+            {
+                "indices": [
+                    71,
+                    87
+                ],
+                "text": "workfromhomemom"
+            },
+            {
+                "indices": [
+                    88,
+                    105
+                ],
+                "text": "workfromanywhere"
+            },
+            {
+                "indices": [
+                    106,
+                    119
+                ],
+                "text": "WorkFromHome"
+            },
+            {
+                "indices": [
+                    120,
+                    127
+                ],
+                "text": "momof5"
+            },
+            {
+                "indices": [
+                    128,
+                    139
+                ],
+                "text": "momsover40"
+            }
+        ],
+        [],
+        [
+            {
+                "indices": [
+                    89,
+                    97
+                ],
+                "text": "fitness"
+            },
+            {
+                "indices": [
+                    98,
+                    106
+                ],
+                "text": "workout"
+            }
+        ],
+        [
+            {
+                "indices": [
+                    33,
+                    42
+                ],
+                "text": "JustDoIt"
+            },
+            {
+                "indices": [
+                    43,
+                    48
+                ],
+                "text": "NIKE"
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "user": [
+        "JacobAWohl",
+        "primalpoly",
+        "JudicialWatch",
+        "Epic_Sporting",
+        "txurbanfarmgirl",
+        "emilzabazso",
+        "mayamcbride14",
+        "NwandoWoman",
+        "mplewer",
+        "fitmama_in",
+        "jakewaytweetswb",
+        "workttech",
+        "frugl",
+        "DeepakHooda5555",
+        "manwasfat",
+        "IsaOnMain",
+        "Pete_Neumann",
+        "Hurt_Alert",
+        "SpikeReeds",
+        "FlLakers",
+        "subhiksh_monet",
+        "liljeffhiphop",
+        "wash_cloth",
+        "1stGV",
+        "boyintrunks97"
+    ],
+    "coordinates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "language": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "date": [
+        "Mon Feb 04 13:48:37 +0000 2019",
+        "Mon Feb 04 14:17:03 +0000 2019",
+        "Tue Feb 05 07:45:00 +0000 2019",
+        "Wed Feb 06 04:25:15 +0000 2019",
+        "Wed Feb 06 04:25:12 +0000 2019",
+        "Wed Feb 06 04:25:08 +0000 2019",
+        "Wed Feb 06 04:25:05 +0000 2019",
+        "Wed Feb 06 04:25:01 +0000 2019",
+        "Wed Feb 06 04:24:58 +0000 2019",
+        "Wed Feb 06 04:24:53 +0000 2019",
+        "Wed Feb 06 04:24:53 +0000 2019",
+        "Wed Feb 06 04:24:52 +0000 2019",
+        "Wed Feb 06 04:24:46 +0000 2019",
+        "Wed Feb 06 04:24:43 +0000 2019",
+        "Wed Feb 06 04:24:41 +0000 2019",
+        "Wed Feb 06 04:24:40 +0000 2019",
+        "Wed Feb 06 04:24:38 +0000 2019",
+        "Wed Feb 06 04:24:36 +0000 2019",
+        "Wed Feb 06 04:24:33 +0000 2019",
+        "Wed Feb 06 04:24:32 +0000 2019",
+        "Wed Feb 06 04:24:31 +0000 2019",
+        "Wed Feb 06 04:24:21 +0000 2019",
+        "Wed Feb 06 04:24:20 +0000 2019",
+        "Wed Feb 06 04:24:20 +0000 2019",
+        "Wed Feb 06 04:24:16 +0000 2019"
+    ],
+    "text": [
+        "Justice Ruth Bader Ginsburg has been absent from the Supreme Court for weeks \n\nEnough is enough. \n\nIt\u2019s time for RB\u2026 https://t.co/tNGwB3XKYr",
+        "Why don't men wear jackets when it's cold?\n\nEvolutionary psych: 'Maybe they're signaling health, stoicism, and fitn\u2026 https://t.co/rvxCH2yaQv",
+        "Considering her record &amp; her documented history of poor ethical + moral fitness, it\u2019s outrageous that Maxine Waters\u2026 https://t.co/Pb72k5UrfD",
+        "Alpha Flag Athleti-Fit&amp;#x2122; T-Shirt #sports #fitness #gym #workout #training #motivation #bodybuilding\u2026 https://t.co/yuj4neQ7yY",
+        "Healthy habits start earlier than you think. Get your kids moving with these tips: https://t.co/uYqy2e45cU\u2026 https://t.co/oNQNZeur47",
+        "@paige94babe I used to have a membership with Idaho fitness but there isn\u2019t one that\u2019s close by crunch is right dow\u2026 https://t.co/ptqX6iKWNu",
+        "does anyone know of any local programs for kids, teens and young adults with disabilities.. whether it may be a sen\u2026 https://t.co/yd8vmgc2kH",
+        "RT @KBEP: CALLING ALL TEENS!!! Join us on Friday Feb 22nd at 1pm at @GFRRec for a hip hop dance fitness class! Come dressed to sweat!! Chec\u2026",
+        "The look that says \"Please can we run now\".. \n\nOff to keep the fur kid happy and me from getting fat.\nBack for the\u2026 https://t.co/I2AgYVQuO3",
+        "Be stronger then your excuses #fitlife \n.\n.\n#fitpo #fitfam #gymlife #yoga #yogachallenge #yogagirl #yogafun\u2026 https://t.co/R8UKaLMre1",
+        "RT @WSDNews: Wednesday, February 6: All Waterford Schools are CLOSED, including the  Waterford Senior Center &amp; Pool and Fitness Centers. Th\u2026",
+        "*Good Vitamins For Sore Muscles After Working Out* &gt;&gt; https://t.co/V7OewP7UfA\n\n#vitamins #muscle #fitness #health\u2026 https://t.co/NOnrUz8WOE",
+        "Fitness Tracker with Blood Oxygen &amp; Heart Rate Monitor - 4 Colours!\nPrice : \u00a319.00  - 86% OFF!\n https://t.co/y0yxQhjFBM",
+        "Beast MODE \ud83d\udd1b\nBattle challenges. Battle yourself. Battle ropes. Battle everything what stands in between you and you\u2026 https://t.co/eeuEdCoCnW",
+        "RT @TaraAnneJ: Confidence is contagious. Catch it. Spread it. #homebiz #workfromhomemom #workfromanywhere #WorkFromHome #momof5 #momsover40\u2026",
+        "RT @mewTripled: A few years ago, my mom kicked cancer in the ass through a whole change of her health and fitness lifestyle. I used to work\u2026",
+        "Chilly for Los Angeles...low 50s and windy. Haley is now family...crushed her 3rd one!!! #fitness #workout\u2026 https://t.co/GAKoPsPXoJ",
+        "Great Workout and Hoop Session!! #JustDoIt #NIKE @ LA Fitness - HOUSTON TX - N SHEPHERD DR https://t.co/L3fUzzfGgA",
+        "RT @tayoshi2: Lebron is the only superstar who is not allowed to gradually get back into match fitness after the worst injury of his career\u2026",
+        "RT @RSPerformance: Try one of our 4-week 'body weight only' online fitness plans!  https://t.co/wktgSRZTI2 https://t.co/kWA6lANi1r",
+        "The mug you want in hand from season to season.\nTo shop, contact us on 9315401145 or email us at info@subhiksh.com\u2026 https://t.co/5Ha2zDJvQa",
+        "@veronicatho Just go to Smoothie World &amp; Xtreme Fitness Nutrition \n822 Newport Ave Pawtucket \n4015434255\nThey deliver smoothies \ud83d\udc4d\ud83c\udffc",
+        "Seems like women everywhere have a fetish for white guys.  Personally, I blame the works of Anthony Minghella (The\u2026 https://t.co/7gL8V6bSGT",
+        "Barcelona v Real Madrid: Barca \u2018waiting until last moment\u2019 over Lionel Messi fitness https://t.co/mq9TEwjiHO",
+        "RT @AdrianNguNgu: Remember my friend from before? He's now my nutritionist and fitness coach, and something more (; https://t.co/H3DpWk61sP"
+    ]
+}
