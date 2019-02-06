@@ -8,9 +8,10 @@ import pandas as pd
 
 from helperFunctions import writeAsJSON
 
-DIRECTORY = "Activism_Environmental"
-#TWITTER_SEARCH = ['yoga', 'crossfit', 'run', 'fitness', 'lifting', 'cardio', 'rock climbing', 'PR', 'MMA', 'boxing', 'dance']
-TWITTER_SEARCH = ['global warming', 'pollution', 'waste', 'ozone layer', 'water', 'earth', 'climate change', 'plastic', 'marine life', 'turtles', 'deforestation', 'overpopulation', 'biodiversity', 'endangered', 'extinct', 'lanfill']
+DIRECTORY = "Fitness"
+TWITTER_SEARCH = ['yoga', 'crossfit', 'run', 'fitness', 'lifting', 'cardio', 'rock climbing', 'PR', 'MMA', 'boxing', 'dance']
+#TWITTER_SEARCH = ['global warming', 'pollution', 'waste', 'ozone layer', 'water', 'earth', 'climate change', 'plastic', 'marine life', 'turtles', 'deforestation', 'overpopulation', 'biodiversity', 'endangered', 'extinct', 'lanfill']
+#DIRECTORY = "Activism_Environmental"
 
 # Load credentials from JSON file
 with open('twitter_credentials.json', 'r') as file:

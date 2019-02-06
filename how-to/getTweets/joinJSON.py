@@ -13,11 +13,12 @@ from jsonmerge import Merger
 
 MY_DATA_FOLDER = "joinJSON/"
 
-#MY_DATA_SUBFOLDER = "Fitness"
-#MY_FINAL_DATA = 'Fitness_Final_Positive'
+MY_DATA_SUBFOLDER = "Fitness"
+MY_FINAL_DATA = 'Fitness_Final_Positive'
 
-MY_DATA_SUBFOLDER = "Activism_Environmental"
-MY_FINAL_DATA = 'Activism_Final_Positive'
+#MY_DATA_SUBFOLDER = "Activism_Environmental"
+#MY_FINAL_DATA = 'Activism_Final_Positive'
+
 # storing all the json data here
 
 finalJSON = {}
