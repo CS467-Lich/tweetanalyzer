@@ -1,0 +1,2801 @@
+{
+    "coordinates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+            "coordinates": [
+                -80.3307309,
+                25.7330118
+            ],
+            "type": "Point"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+            "coordinates": [
+                -76.85419,
+                38.85726
+            ],
+            "type": "Point"
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "coordinates": [
+                -0.1727128,
+                51.64984758
+            ],
+            "type": "Point"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+            "coordinates": [
+                -91.19054732,
+                30.52249579
+            ],
+            "type": "Point"
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "language": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "source": [
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://github.com/fartdad/crowdeath_ebooks\" rel=\"nofollow\">crowdeath_ebooks</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "<a href=\"http://workoutwear.us\" rel=\"nofollow\">Workout Clothes</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://www.myfitnesspal.com\" rel=\"nofollow\">MyFitnessPal</a>",
+        "<a href=\"http://www.myfitnesspal.com\" rel=\"nofollow\">MyFitnessPal</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"https://socialrabbitplugin.com\" rel=\"nofollow\">SocialRabbit Plugin</a>",
+        "<a href=\"http://www.edgetheory.com\" rel=\"nofollow\">EdgeTheory</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://www.frugl.com\" rel=\"nofollow\">Frugl Deals and Offers</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://www.solomofy.com\" rel=\"nofollow\">Solomofy</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://www.artfine.net\" rel=\"nofollow\">MyApp210562</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://github.com/mariotaku/twidere/\" rel=\"nofollow\">Twidere for Android #7</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"https://www.tweetsuite.com/\" rel=\"nofollow\">Tweet Suite</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+    ],
+    "date": [
+        "Tue Feb 05 06:50:22 +0000 2019",
+        "Mon Feb 04 23:16:00 +0000 2019",
+        "Mon Feb 04 19:01:06 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:21 +0000 2019",
+        "Wed Feb 06 04:25:17 +0000 2019",
+        "Wed Feb 06 04:25:16 +0000 2019",
+        "Wed Feb 06 04:25:10 +0000 2019",
+        "Wed Feb 06 04:25:05 +0000 2019",
+        "Wed Feb 06 04:25:04 +0000 2019",
+        "Wed Feb 06 04:24:54 +0000 2019",
+        "Wed Feb 06 04:24:53 +0000 2019",
+        "Wed Feb 06 04:24:53 +0000 2019",
+        "Wed Feb 06 04:24:47 +0000 2019",
+        "Wed Feb 06 04:24:46 +0000 2019",
+        "Wed Feb 06 04:24:44 +0000 2019",
+        "Wed Feb 06 04:24:42 +0000 2019",
+        "Wed Feb 06 04:24:27 +0000 2019",
+        "Wed Feb 06 04:24:24 +0000 2019",
+        "Wed Feb 06 04:24:17 +0000 2019",
+        "Wed Feb 06 04:24:16 +0000 2019",
+        "Wed Feb 06 04:24:16 +0000 2019",
+        "Wed Feb 06 04:24:13 +0000 2019",
+        "Wed Feb 06 04:24:09 +0000 2019",
+        "Wed Feb 06 04:24:06 +0000 2019",
+        "Tue Feb 05 23:00:00 +0000 2019",
+        "Mon Feb 04 18:39:40 +0000 2019",
+        "Mon Feb 04 15:45:00 +0000 2019",
+        "Wed Feb 06 04:25:07 +0000 2019",
+        "Wed Feb 06 04:24:53 +0000 2019",
+        "Wed Feb 06 04:24:43 +0000 2019",
+        "Wed Feb 06 04:24:40 +0000 2019",
+        "Wed Feb 06 04:21:31 +0000 2019",
+        "Wed Feb 06 04:21:29 +0000 2019",
+        "Wed Feb 06 04:21:22 +0000 2019",
+        "Wed Feb 06 04:20:44 +0000 2019",
+        "Wed Feb 06 04:20:07 +0000 2019",
+        "Wed Feb 06 04:19:34 +0000 2019",
+        "Wed Feb 06 04:18:41 +0000 2019",
+        "Wed Feb 06 04:17:16 +0000 2019",
+        "Wed Feb 06 04:16:28 +0000 2019",
+        "Wed Feb 06 04:15:07 +0000 2019",
+        "Wed Feb 06 04:11:07 +0000 2019",
+        "Wed Feb 06 04:09:37 +0000 2019",
+        "Wed Feb 06 04:08:58 +0000 2019",
+        "Wed Feb 06 04:07:19 +0000 2019",
+        "Wed Feb 06 04:06:52 +0000 2019",
+        "Wed Feb 06 04:04:33 +0000 2019",
+        "Wed Feb 06 04:03:20 +0000 2019",
+        "Wed Feb 06 04:02:52 +0000 2019",
+        "Mon Feb 04 17:40:27 +0000 2019",
+        "Tue Feb 05 15:58:22 +0000 2019",
+        "Tue Feb 05 22:25:48 +0000 2019",
+        "Wed Feb 06 04:24:44 +0000 2019",
+        "Wed Feb 06 04:24:41 +0000 2019",
+        "Wed Feb 06 04:24:41 +0000 2019",
+        "Wed Feb 06 04:24:40 +0000 2019",
+        "Wed Feb 06 04:24:32 +0000 2019",
+        "Wed Feb 06 04:24:23 +0000 2019",
+        "Wed Feb 06 04:24:07 +0000 2019",
+        "Wed Feb 06 04:23:57 +0000 2019",
+        "Wed Feb 06 04:23:53 +0000 2019",
+        "Wed Feb 06 04:23:45 +0000 2019",
+        "Wed Feb 06 04:23:30 +0000 2019",
+        "Wed Feb 06 04:22:59 +0000 2019",
+        "Wed Feb 06 04:22:34 +0000 2019",
+        "Wed Feb 06 04:22:20 +0000 2019",
+        "Wed Feb 06 04:22:20 +0000 2019",
+        "Wed Feb 06 04:22:05 +0000 2019",
+        "Wed Feb 06 04:21:42 +0000 2019",
+        "Wed Feb 06 04:21:37 +0000 2019",
+        "Wed Feb 06 04:21:26 +0000 2019",
+        "Wed Feb 06 04:21:10 +0000 2019",
+        "Wed Feb 06 04:21:02 +0000 2019",
+        "Wed Feb 06 04:21:02 +0000 2019",
+        "Tue Feb 05 17:21:43 +0000 2019",
+        "Tue Feb 05 07:00:13 +0000 2019",
+        "Tue Feb 05 09:45:00 +0000 2019",
+        "Wed Feb 06 04:25:26 +0000 2019",
+        "Wed Feb 06 04:25:26 +0000 2019",
+        "Wed Feb 06 04:25:25 +0000 2019",
+        "Wed Feb 06 04:25:25 +0000 2019",
+        "Wed Feb 06 04:25:25 +0000 2019",
+        "Wed Feb 06 04:25:25 +0000 2019",
+        "Wed Feb 06 04:25:25 +0000 2019",
+        "Wed Feb 06 04:25:25 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:21 +0000 2019",
+        "Wed Feb 06 04:25:21 +0000 2019",
+        "Wed Feb 06 04:25:21 +0000 2019",
+        "Mon Feb 04 13:48:37 +0000 2019",
+        "Mon Feb 04 14:17:03 +0000 2019",
+        "Tue Feb 05 07:45:00 +0000 2019",
+        "Wed Feb 06 04:25:15 +0000 2019",
+        "Wed Feb 06 04:25:12 +0000 2019",
+        "Wed Feb 06 04:25:08 +0000 2019",
+        "Wed Feb 06 04:25:05 +0000 2019",
+        "Wed Feb 06 04:25:01 +0000 2019",
+        "Wed Feb 06 04:24:58 +0000 2019",
+        "Wed Feb 06 04:24:53 +0000 2019",
+        "Wed Feb 06 04:24:53 +0000 2019",
+        "Wed Feb 06 04:24:52 +0000 2019",
+        "Wed Feb 06 04:24:46 +0000 2019",
+        "Wed Feb 06 04:24:43 +0000 2019",
+        "Wed Feb 06 04:24:41 +0000 2019",
+        "Wed Feb 06 04:24:40 +0000 2019",
+        "Wed Feb 06 04:24:38 +0000 2019",
+        "Wed Feb 06 04:24:36 +0000 2019",
+        "Wed Feb 06 04:24:33 +0000 2019",
+        "Wed Feb 06 04:24:32 +0000 2019",
+        "Wed Feb 06 04:24:31 +0000 2019",
+        "Wed Feb 06 04:24:21 +0000 2019",
+        "Wed Feb 06 04:24:20 +0000 2019",
+        "Wed Feb 06 04:24:20 +0000 2019",
+        "Wed Feb 06 04:24:16 +0000 2019",
+        "Wed Feb 06 02:15:04 +0000 2019",
+        "Mon Feb 04 19:51:24 +0000 2019",
+        "Tue Feb 05 16:08:01 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:21 +0000 2019",
+        "Wed Feb 06 04:25:21 +0000 2019",
+        "Tue Feb 05 02:16:55 +0000 2019",
+        "Mon Feb 04 12:13:08 +0000 2019",
+        "Tue Feb 05 14:02:00 +0000 2019",
+        "Wed Feb 06 04:25:25 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:24 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:22 +0000 2019",
+        "Wed Feb 06 04:25:21 +0000 2019",
+        "Wed Feb 06 04:25:21 +0000 2019",
+        "Wed Feb 06 04:25:19 +0000 2019",
+        "Wed Feb 06 04:25:17 +0000 2019",
+        "Wed Feb 06 04:25:17 +0000 2019",
+        "Wed Feb 06 04:25:17 +0000 2019",
+        "Wed Feb 06 04:25:16 +0000 2019",
+        "Wed Feb 06 04:25:16 +0000 2019",
+        "Wed Feb 06 04:25:14 +0000 2019",
+        "Wed Feb 06 04:25:14 +0000 2019",
+        "Wed Feb 06 04:25:12 +0000 2019",
+        "Wed Feb 06 04:25:10 +0000 2019",
+        "Wed Feb 06 04:25:10 +0000 2019",
+        "Wed Feb 06 04:25:10 +0000 2019",
+        "Wed Feb 06 04:25:10 +0000 2019",
+        "Wed Feb 06 04:25:09 +0000 2019",
+        "Wed Feb 06 04:25:08 +0000 2019",
+        "Tue Feb 05 17:19:43 +0000 2019",
+        "Mon Feb 04 18:15:58 +0000 2019",
+        "Tue Feb 05 17:44:39 +0000 2019",
+        "Wed Feb 06 04:22:54 +0000 2019",
+        "Wed Feb 06 04:21:26 +0000 2019",
+        "Wed Feb 06 04:13:28 +0000 2019",
+        "Wed Feb 06 04:13:08 +0000 2019",
+        "Wed Feb 06 04:04:39 +0000 2019",
+        "Wed Feb 06 04:03:07 +0000 2019",
+        "Wed Feb 06 03:59:32 +0000 2019",
+        "Wed Feb 06 03:56:57 +0000 2019",
+        "Wed Feb 06 03:53:12 +0000 2019",
+        "Wed Feb 06 03:49:48 +0000 2019",
+        "Wed Feb 06 03:45:38 +0000 2019",
+        "Wed Feb 06 03:33:43 +0000 2019",
+        "Wed Feb 06 03:33:43 +0000 2019",
+        "Wed Feb 06 03:29:06 +0000 2019",
+        "Wed Feb 06 03:28:33 +0000 2019",
+        "Wed Feb 06 03:22:04 +0000 2019",
+        "Wed Feb 06 03:16:52 +0000 2019",
+        "Wed Feb 06 03:12:45 +0000 2019",
+        "Wed Feb 06 03:08:51 +0000 2019",
+        "Wed Feb 06 03:04:31 +0000 2019",
+        "Wed Feb 06 03:01:04 +0000 2019",
+        "Wed Feb 06 03:00:56 +0000 2019",
+        "Tue Feb 05 05:39:25 +0000 2019",
+        "Mon Feb 04 16:18:31 +0000 2019",
+        "Mon Feb 04 12:11:53 +0000 2019",
+        "Wed Feb 06 04:25:19 +0000 2019",
+        "Wed Feb 06 04:25:17 +0000 2019",
+        "Wed Feb 06 04:25:15 +0000 2019",
+        "Wed Feb 06 04:25:14 +0000 2019",
+        "Wed Feb 06 04:25:13 +0000 2019",
+        "Wed Feb 06 04:24:51 +0000 2019",
+        "Wed Feb 06 04:24:50 +0000 2019",
+        "Wed Feb 06 04:24:48 +0000 2019",
+        "Wed Feb 06 04:24:33 +0000 2019",
+        "Wed Feb 06 04:23:35 +0000 2019",
+        "Wed Feb 06 04:23:28 +0000 2019",
+        "Wed Feb 06 04:23:26 +0000 2019",
+        "Wed Feb 06 04:23:09 +0000 2019",
+        "Wed Feb 06 04:23:09 +0000 2019",
+        "Wed Feb 06 04:23:03 +0000 2019",
+        "Wed Feb 06 04:23:02 +0000 2019",
+        "Wed Feb 06 04:22:46 +0000 2019",
+        "Wed Feb 06 04:22:42 +0000 2019",
+        "Wed Feb 06 04:22:00 +0000 2019",
+        "Wed Feb 06 04:21:58 +0000 2019",
+        "Wed Feb 06 04:21:23 +0000 2019",
+        "Wed Feb 06 04:21:08 +0000 2019",
+        "Tue Feb 05 13:31:03 +0000 2019",
+        "Wed Feb 06 02:56:38 +0000 2019",
+        "Tue Feb 05 16:20:16 +0000 2019",
+        "Wed Feb 06 04:25:23 +0000 2019",
+        "Wed Feb 06 04:25:18 +0000 2019",
+        "Wed Feb 06 04:25:18 +0000 2019",
+        "Wed Feb 06 04:25:13 +0000 2019",
+        "Wed Feb 06 04:25:03 +0000 2019",
+        "Wed Feb 06 04:24:54 +0000 2019",
+        "Wed Feb 06 04:24:36 +0000 2019",
+        "Wed Feb 06 04:24:35 +0000 2019",
+        "Wed Feb 06 04:24:34 +0000 2019",
+        "Wed Feb 06 04:24:34 +0000 2019",
+        "Wed Feb 06 04:24:30 +0000 2019",
+        "Wed Feb 06 04:24:26 +0000 2019",
+        "Wed Feb 06 04:24:12 +0000 2019",
+        "Wed Feb 06 04:24:07 +0000 2019",
+        "Wed Feb 06 04:23:58 +0000 2019",
+        "Wed Feb 06 04:23:56 +0000 2019",
+        "Wed Feb 06 04:23:56 +0000 2019",
+        "Wed Feb 06 04:23:52 +0000 2019",
+        "Wed Feb 06 04:23:50 +0000 2019",
+        "Wed Feb 06 04:23:49 +0000 2019",
+        "Wed Feb 06 04:23:48 +0000 2019",
+        "Wed Feb 06 04:23:40 +0000 2019",
+        "Tue Feb 05 20:03:46 +0000 2019",
+        "Tue Feb 05 19:58:34 +0000 2019",
+        "Tue Feb 05 19:54:40 +0000 2019",
+        "Wed Feb 06 04:25:21 +0000 2019",
+        "Wed Feb 06 04:25:19 +0000 2019",
+        "Wed Feb 06 04:25:12 +0000 2019",
+        "Wed Feb 06 04:25:11 +0000 2019",
+        "Wed Feb 06 04:24:56 +0000 2019",
+        "Wed Feb 06 04:24:56 +0000 2019",
+        "Wed Feb 06 04:24:55 +0000 2019",
+        "Wed Feb 06 04:24:55 +0000 2019",
+        "Wed Feb 06 04:24:51 +0000 2019",
+        "Wed Feb 06 04:24:51 +0000 2019",
+        "Wed Feb 06 04:24:49 +0000 2019",
+        "Wed Feb 06 04:24:46 +0000 2019",
+        "Wed Feb 06 04:24:45 +0000 2019",
+        "Wed Feb 06 04:24:39 +0000 2019",
+        "Wed Feb 06 04:24:32 +0000 2019",
+        "Wed Feb 06 04:24:29 +0000 2019",
+        "Wed Feb 06 04:24:21 +0000 2019",
+        "Wed Feb 06 04:24:19 +0000 2019",
+        "Wed Feb 06 04:24:13 +0000 2019",
+        "Wed Feb 06 04:24:12 +0000 2019",
+        "Wed Feb 06 04:24:12 +0000 2019",
+        "Wed Feb 06 04:24:11 +0000 2019"
+    ],
+    "user": [
+        "kenolin1",
+        "WhatTheFFacts",
+        "RepLucyMcBath",
+        "srikramesh",
+        "mvawasekar",
+        "batmankisser420",
+        "andrewjamesboy1",
+        "LoisBryanPhotog",
+        "Creative_Bloss",
+        "Yoga_ayp",
+        "CharmaineKwin",
+        "fitmama_in",
+        "Jennastapp_",
+        "krose_winkler",
+        "ryanfoland",
+        "mrsmonica__",
+        "KatyKim426",
+        "reillyhasse",
+        "Stephie_Lark",
+        "harindrayoga",
+        "LeadingWPassion",
+        "mottkorimasa",
+        "KindofKoKo",
+        "Gee6Mcgee",
+        "KatieHearnn",
+        "GMA",
+        "CrossFit",
+        "CrossFit",
+        "pointebabe99",
+        "fitmama_in",
+        "DeepakHooda5555",
+        "TheSoulSean",
+        "paloguglielmone",
+        "kathrynsmithmcg",
+        "Jsacrossfit",
+        "patrickcentral",
+        "workout_clothes",
+        "jibblyuniverse4",
+        "WesPiattCF",
+        "mac_townCF",
+        "Jsacrossfit",
+        "AnastasiaVigo",
+        "_TonyHilfiger",
+        "MavsUnicorn",
+        "CrossfitTTown",
+        "woopigsushi",
+        "Jaton336",
+        "Femalefitness14",
+        "Johnwil514",
+        "lamesharden45",
+        "dannywood",
+        "thunderrosa22",
+        "NIHDirector",
+        "CamCam_2014",
+        "_tierramorris_",
+        "Mah_ree_oh4",
+        "AadityaRazdan",
+        "ashleyy_cakes",
+        "TyriquaJ",
+        "OsmanNoni",
+        "morethanveganli",
+        "Basscatcher6",
+        "H4gb4rdCeline",
+        "TheBluePrintP",
+        "CKreklewich",
+        "almalorenaaa_",
+        "jwlisbon",
+        "Turnerj555",
+        "MattLevy419",
+        "KristinxxNicole",
+        "thomasbsauer",
+        "buckysbum",
+        "Sweetest_Taboo_",
+        "lilysworld129",
+        "lilysworld129",
+        "Complex",
+        "ShraddhaKapoor",
+        "Koreaboo",
+        "MariahMarlyn26",
+        "uwheresaying",
+        "_corinnnna",
+        "Bajanreddevil",
+        "athenavondehl",
+        "Nevermind_Intr0",
+        "medz_jo",
+        "younghoesuh",
+        "BurnedSaImon",
+        "hunter_ruch",
+        "flygirl7961",
+        "EdwardLBuchman",
+        "shnningmoon",
+        "unuy_73080",
+        "tierraperkins6",
+        "yejinsong7",
+        "uhgoodjjk",
+        "caratzenctology",
+        "marie231626",
+        "OnLinedPaper",
+        "seokjinsworld",
+        "vlslipped17",
+        "JacobAWohl",
+        "primalpoly",
+        "JudicialWatch",
+        "Epic_Sporting",
+        "txurbanfarmgirl",
+        "emilzabazso",
+        "mayamcbride14",
+        "NwandoWoman",
+        "mplewer",
+        "fitmama_in",
+        "jakewaytweetswb",
+        "workttech",
+        "frugl",
+        "DeepakHooda5555",
+        "manwasfat",
+        "IsaOnMain",
+        "Pete_Neumann",
+        "Hurt_Alert",
+        "SpikeReeds",
+        "FlLakers",
+        "subhiksh_monet",
+        "liljeffhiphop",
+        "wash_cloth",
+        "1stGV",
+        "boyintrunks97",
+        "dog_rates",
+        "LisaMarieBoothe",
+        "MikeLevinCA",
+        "yeoIdaeya",
+        "grandma420",
+        "lillisachs",
+        "Coachcjkinger",
+        "dsm_stoics",
+        "Once_upon_a_run",
+        "kriisppyyy",
+        "OgDesiiii",
+        "DomFromTheWest",
+        "rama_njie",
+        "NickGuthe",
+        "cdudley90",
+        "Lipsett28",
+        "TXCenterLefty",
+        "DanielJC35",
+        "LDolengowski",
+        "chescapinuela",
+        "saririfah",
+        "1stFka",
+        "BeepyBrosalis",
+        "Iniboy4r",
+        "itsrominherrera",
+        "JeffreeStar",
+        "fivefifths",
+        "NPR",
+        "JG9erFan",
+        "rebeccabw",
+        "shemalefritzie",
+        "trekkingboldly",
+        "suzimc1109",
+        "CHLOnasty",
+        "Chloe321SJA",
+        "5SOSQUEEN1992",
+        "LFVelezphd",
+        "MaryIsRight",
+        "sumittayal6",
+        "Nicole__pr",
+        "SCOTTYSIMM",
+        "albert_lapratt",
+        "ChuckCX_",
+        "musetraxed",
+        "cathy_spears",
+        "clemomsanii",
+        "Principe_PR_",
+        "jandroid",
+        "keno111",
+        "thequiz2011",
+        "TheMinimalists",
+        "DannyLawPhoto",
+        "THRMattBelloni",
+        "Sirroman1",
+        "dreedsalot",
+        "MarieUSA79",
+        "aarsilv",
+        "waterboyjon",
+        "did_diddy_doit",
+        "angie_dexibit",
+        "Dooda4PF",
+        "gregdreamwolf",
+        "EforEllen",
+        "kinnglm",
+        "FatenSaad8",
+        "foolmanchu11",
+        "wavyjaayy",
+        "Papapeeler",
+        "ZahidaJamil10",
+        "ChrisBonesCast",
+        "dwyer_gail",
+        "lucianoparis",
+        "Megan39858806",
+        "iamloviedo",
+        "andrewdubs1",
+        "Ryankingry",
+        "AnandWrites",
+        "Reuters",
+        "AutumnWerner",
+        "ElinHege",
+        "LatinoPorVida10",
+        "torrefilippi",
+        "GlazedBri",
+        "SuicidalSeth",
+        "domalyssa_",
+        "LatinoPorVida10",
+        "bethanyobanb",
+        "WolfGangChino",
+        "itsrosebuddin",
+        "afuckingmohawk",
+        "_queenjoce",
+        "TrapDio",
+        "Tlk2yOelf",
+        "TheBoxingBrits",
+        "FocusNeural",
+        "hugomatam",
+        "Kyle13Humphreys",
+        "SusieQRamadan",
+        "KurrS0ul",
+        "rosemarybrody5",
+        "GeraldoRivera",
+        "HeyTammyBruce",
+        "renoomokri",
+        "obop_kelsey",
+        "zczack2",
+        "shawbear76",
+        "BudnSue",
+        "MikeEsqueda2",
+        "therealatown_34",
+        "LoveForXtina",
+        "fornication02",
+        "MTA15B",
+        "ladyy_sec",
+        "RitchieJodi",
+        "brandyazUSA",
+        "Steampunk53",
+        "MELANINROE_",
+        "AmeriGirlTN",
+        "dmcrane",
+        "__king__pablo",
+        "Dyvvne",
+        "namenotnicole",
+        "crabbymother",
+        "libbyliberalnyc",
+        "KharysseT",
+        "dc_mma",
+        "dc_mma",
+        "dc_mma",
+        "WilliamBateman",
+        "mendez7180",
+        "928ft5150",
+        "lifelmao007",
+        "Andyhandy16",
+        "galloy_tammie",
+        "BeyondTPRadio",
+        "Verdeojosx",
+        "shonka14",
+        "HorizonAMJ",
+        "Cle__Nick",
+        "FC722",
+        "tswain5272",
+        "z0mbieantman",
+        "Tim_Ormond",
+        "we_Nkalanga",
+        "DanWeaver21",
+        "AlexNoyola22",
+        "KyleD_MMA",
+        "56ma74tante",
+        "NickFerry12",
+        "JamesTheRinger"
+    ],
+    "hashtags": [
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Announcement",
+                "indices": [
+                    21,
+                    34
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "camellia",
+                "indices": [
+                    39,
+                    48
+                ]
+            },
+            {
+                "text": "blooming",
+                "indices": [
+                    60,
+                    69
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Constantine",
+                "indices": [
+                    10,
+                    22
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "fitlife",
+                "indices": [
+                    30,
+                    38
+                ]
+            },
+            {
+                "text": "fitpo",
+                "indices": [
+                    44,
+                    50
+                ]
+            },
+            {
+                "text": "fitfam",
+                "indices": [
+                    51,
+                    58
+                ]
+            },
+            {
+                "text": "gymlife",
+                "indices": [
+                    59,
+                    67
+                ]
+            },
+            {
+                "text": "yoga",
+                "indices": [
+                    68,
+                    73
+                ]
+            },
+            {
+                "text": "yogachallenge",
+                "indices": [
+                    74,
+                    88
+                ]
+            },
+            {
+                "text": "yogagirl",
+                "indices": [
+                    89,
+                    98
+                ]
+            },
+            {
+                "text": "yogafun",
+                "indices": [
+                    99,
+                    107
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Yoga",
+                "indices": [
+                    11,
+                    16
+                ]
+            }
+        ],
+        [
+            {
+                "text": "happiness",
+                "indices": [
+                    92,
+                    102
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "fitlife",
+                "indices": [
+                    30,
+                    38
+                ]
+            },
+            {
+                "text": "fitpo",
+                "indices": [
+                    44,
+                    50
+                ]
+            },
+            {
+                "text": "fitfam",
+                "indices": [
+                    51,
+                    58
+                ]
+            },
+            {
+                "text": "gymlife",
+                "indices": [
+                    59,
+                    67
+                ]
+            },
+            {
+                "text": "yoga",
+                "indices": [
+                    68,
+                    73
+                ]
+            },
+            {
+                "text": "yogachallenge",
+                "indices": [
+                    74,
+                    88
+                ]
+            },
+            {
+                "text": "yogagirl",
+                "indices": [
+                    89,
+                    98
+                ]
+            },
+            {
+                "text": "yogafun",
+                "indices": [
+                    99,
+                    107
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "teamSOUL",
+                "indices": [
+                    85,
+                    94
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "Crossfit",
+                "indices": [
+                    29,
+                    38
+                ]
+            }
+        ],
+        [
+            {
+                "text": "jsa",
+                "indices": [
+                    76,
+                    80
+                ]
+            },
+            {
+                "text": "jsagym",
+                "indices": [
+                    81,
+                    88
+                ]
+            },
+            {
+                "text": "jsacf",
+                "indices": [
+                    89,
+                    95
+                ]
+            },
+            {
+                "text": "jsacrossfit",
+                "indices": [
+                    96,
+                    108
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "jsacf",
+                "indices": [
+                    92,
+                    98
+                ]
+            },
+            {
+                "text": "jsacrossfit",
+                "indices": [
+                    99,
+                    111
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "PatriotsDynasty",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "text": "SuperBowI",
+                "indices": [
+                    20,
+                    30
+                ]
+            },
+            {
+                "text": "BostonCityOfChampions",
+                "indices": [
+                    42,
+                    64
+                ]
+            },
+            {
+                "text": "TwoADay",
+                "indices": [
+                    65,
+                    73
+                ]
+            },
+            {
+                "text": "workouts",
+                "indices": [
+                    74,
+                    83
+                ]
+            },
+            {
+                "text": "HIIT",
+                "indices": [
+                    100,
+                    105
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Killing",
+                "indices": [
+                    94,
+                    102
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "cardio",
+                "indices": [
+                    38,
+                    45
+                ]
+            },
+            {
+                "text": "heartdisease",
+                "indices": [
+                    63,
+                    76
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "Strength",
+                "indices": [
+                    31,
+                    40
+                ]
+            },
+            {
+                "text": "Cardio",
+                "indices": [
+                    41,
+                    48
+                ]
+            },
+            {
+                "text": "Health",
+                "indices": [
+                    49,
+                    56
+                ]
+            },
+            {
+                "text": "Diet",
+                "indices": [
+                    57,
+                    62
+                ]
+            },
+            {
+                "text": "Fitness",
+                "indices": [
+                    63,
+                    71
+                ]
+            },
+            {
+                "text": "dmvfitness",
+                "indices": [
+                    72,
+                    83
+                ]
+            },
+            {
+                "text": "fitnesstransformation",
+                "indices": [
+                    84,
+                    106
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "R2D36",
+                "indices": [
+                    53,
+                    59
+                ]
+            },
+            {
+                "text": "Day36",
+                "indices": [
+                    60,
+                    66
+                ]
+            },
+            {
+                "text": "ServiceCloud",
+                "indices": [
+                    85,
+                    98
+                ]
+            },
+            {
+                "text": "studying",
+                "indices": [
+                    101,
+                    110
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "gym",
+                "indices": [
+                    63,
+                    67
+                ]
+            },
+            {
+                "text": "gymlife",
+                "indices": [
+                    68,
+                    76
+                ]
+            },
+            {
+                "text": "gymrat",
+                "indices": [
+                    77,
+                    84
+                ]
+            },
+            {
+                "text": "fitness",
+                "indices": [
+                    85,
+                    93
+                ]
+            },
+            {
+                "text": "fitfam",
+                "indices": [
+                    94,
+                    101
+                ]
+            },
+            {
+                "text": "fit",
+                "indices": [
+                    102,
+                    106
+                ]
+            },
+            {
+                "text": "workout",
+                "indices": [
+                    107,
+                    115
+                ]
+            }
+        ],
+        [
+            {
+                "text": "beachbodyondemand",
+                "indices": [
+                    77,
+                    95
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "myfitnesspal",
+                "indices": [
+                    126,
+                    139
+                ]
+            }
+        ],
+        [
+            {
+                "text": "myfitnesspal",
+                "indices": [
+                    122,
+                    135
+                ]
+            }
+        ],
+        [
+            {
+                "text": "SuperBowI",
+                "indices": [
+                    11,
+                    21
+                ]
+            }
+        ],
+        [
+            {
+                "text": "StreetDancer3D",
+                "indices": [
+                    32,
+                    47
+                ]
+            }
+        ],
+        [
+            {
+                "text": "BTS",
+                "indices": [
+                    0,
+                    4
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "MaymayEntrata",
+                "indices": [
+                    90,
+                    104
+                ]
+            },
+            {
+                "text": "MayWard",
+                "indices": [
+                    105,
+                    113
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "streetdancer3d",
+                "indices": [
+                    75,
+                    90
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "China",
+                "indices": [
+                    54,
+                    60
+                ]
+            },
+            {
+                "text": "LunarNewYear",
+                "indices": [
+                    103,
+                    116
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "sports",
+                "indices": [
+                    43,
+                    50
+                ]
+            },
+            {
+                "text": "fitness",
+                "indices": [
+                    51,
+                    59
+                ]
+            },
+            {
+                "text": "gym",
+                "indices": [
+                    60,
+                    64
+                ]
+            },
+            {
+                "text": "workout",
+                "indices": [
+                    65,
+                    73
+                ]
+            },
+            {
+                "text": "training",
+                "indices": [
+                    74,
+                    83
+                ]
+            },
+            {
+                "text": "motivation",
+                "indices": [
+                    84,
+                    95
+                ]
+            },
+            {
+                "text": "bodybuilding",
+                "indices": [
+                    96,
+                    109
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "fitlife",
+                "indices": [
+                    30,
+                    38
+                ]
+            },
+            {
+                "text": "fitpo",
+                "indices": [
+                    44,
+                    50
+                ]
+            },
+            {
+                "text": "fitfam",
+                "indices": [
+                    51,
+                    58
+                ]
+            },
+            {
+                "text": "gymlife",
+                "indices": [
+                    59,
+                    67
+                ]
+            },
+            {
+                "text": "yoga",
+                "indices": [
+                    68,
+                    73
+                ]
+            },
+            {
+                "text": "yogachallenge",
+                "indices": [
+                    74,
+                    88
+                ]
+            },
+            {
+                "text": "yogagirl",
+                "indices": [
+                    89,
+                    98
+                ]
+            },
+            {
+                "text": "yogafun",
+                "indices": [
+                    99,
+                    107
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "vitamins",
+                "indices": [
+                    85,
+                    94
+                ]
+            },
+            {
+                "text": "muscle",
+                "indices": [
+                    95,
+                    102
+                ]
+            },
+            {
+                "text": "fitness",
+                "indices": [
+                    103,
+                    111
+                ]
+            },
+            {
+                "text": "health",
+                "indices": [
+                    112,
+                    119
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "homebiz",
+                "indices": [
+                    62,
+                    70
+                ]
+            },
+            {
+                "text": "workfromhomemom",
+                "indices": [
+                    71,
+                    87
+                ]
+            },
+            {
+                "text": "workfromanywhere",
+                "indices": [
+                    88,
+                    105
+                ]
+            },
+            {
+                "text": "WorkFromHome",
+                "indices": [
+                    106,
+                    119
+                ]
+            },
+            {
+                "text": "momof5",
+                "indices": [
+                    120,
+                    127
+                ]
+            },
+            {
+                "text": "momsover40",
+                "indices": [
+                    128,
+                    139
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "fitness",
+                "indices": [
+                    89,
+                    97
+                ]
+            },
+            {
+                "text": "workout",
+                "indices": [
+                    98,
+                    106
+                ]
+            }
+        ],
+        [
+            {
+                "text": "JustDoIt",
+                "indices": [
+                    33,
+                    42
+                ]
+            },
+            {
+                "text": "NIKE",
+                "indices": [
+                    43,
+                    48
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "BibChat",
+                "indices": [
+                    122,
+                    130
+                ]
+            },
+            {
+                "text": "surfcityBR",
+                "indices": [
+                    131,
+                    142
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "SBLIII",
+                "indices": [
+                    114,
+                    121
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "SOTU",
+                "indices": [
+                    41,
+                    46
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "JoelEmbiid",
+                "indices": [
+                    9,
+                    20
+                ]
+            },
+            {
+                "text": "WeTheNorth",
+                "indices": [
+                    44,
+                    55
+                ]
+            },
+            {
+                "text": "HereTheyCome",
+                "indices": [
+                    60,
+                    73
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Oscars",
+                "indices": [
+                    14,
+                    21
+                ]
+            }
+        ],
+        [
+            {
+                "text": "ValentineEdition",
+                "indices": [
+                    29,
+                    46
+                ]
+            }
+        ],
+        [
+            {
+                "text": "TakeTheStep",
+                "indices": [
+                    41,
+                    53
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "SaaStrAnnual2019",
+                "indices": [
+                    62,
+                    79
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "BachelorNation",
+                "indices": [
+                    13,
+                    28
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Follow",
+                "indices": [
+                    7,
+                    14
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "SOTU2019",
+                "indices": [
+                    22,
+                    31
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "SOTU2019",
+                "indices": [
+                    41,
+                    50
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "WednesdayWisdom",
+                "indices": [
+                    20,
+                    36
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "text": [
+        "You have to be really stupid to do yoga with a gun in your pants. https://t.co/1kRNaJxzPv",
+        "Going to concerts and experiencing live music can be more beneficial to your mental health than yoga, according to\u2026 https://t.co/ifneUJS9uC",
+        "Just three months ago, Jeff &amp; Margaret Binkley lost their beautiful daughter, Maura, in a shooting at a yoga studio\u2026 https://t.co/SzZXCSW5HM",
+        "RT @ArtofLivingYoga: #Announcement\nBe a part of the first-ever LIVE commentary on Patanjali Yoga Sutras by Gurudev @SriSri! \n\nTo join this\u2026",
+        "RT @ArtofLiving: Today, we give the stage to the farmers of Latur to speak for the change that happened in their region because of our natu\u2026",
+        "A guy just stopped me and said no thanks, i only have a yoga instructor that comes to\u2026.",
+        "Beautiful woman doing yoga \ud83e\uddd8\u200d\u2642\ufe0f she's got an amazing body x just stunning x natural beauty x what a woman x so sexy\u2026 https://t.co/ZazJO2sUU6",
+        "RT @dhackett4150: This beautiful white #camellia flower was #blooming in my garden here in rural Florida Image is available as Wall Art, Ta\u2026",
+        "Drew some #Constantine doing yoga as some pose practice :3 https://t.co/ziZJeqqnXE",
+        "RT @9GAG: *flips table* https://t.co/akN13A4KAb",
+        "Just started yoga and my hamstring is cursing me",
+        "Be stronger then your excuses #fitlife \n.\n.\n#fitpo #fitfam #gymlife #yoga #yogachallenge #yogagirl #yogafun\u2026 https://t.co/R8UKaLMre1",
+        "I\u2019ve been doing yoga every for about 2 months and y\u2019all in that short amount of time....it makes me feel so much be\u2026 https://t.co/iIyr8ve2Ag",
+        "RT @DontBeMADdyy: The year is 2016\nI\u2019m sippin jungle juice in a frat basement. The theme is workout bros and yoga hoes. I\u2019m skipping my 9 A\u2026",
+        "@Haiyunlu @DoveChocolate I love sailing, but it's weather permitting. That is a good question. I do love my Yoga. M\u2026 https://t.co/6nMJRRSbWj",
+        "So maybe they should go do yoga and not bootcamp\ud83e\udd14",
+        "@js_tut Make digital art, do yoga, drink wine",
+        "February has already been a good month for me.I found out I got into CSUF &amp; will be graduating with three degrees.\u2026 https://t.co/I0ntXWPZQ9",
+        "I just heard something like a bang outside and tonight\u2019s yoga had me so tired I just yelled at the sound because th\u2026 https://t.co/CnfNLUZVsI",
+        "Practicing #Yoga can have develop muscles tone and improve your metabolism which can result in weight loss.",
+        "\"Who you are is what you love, not what loves you\". -Baron Baptiste https://t.co/yuKAlXF1LI\n#happiness https://t.co/6xruD0BSvg",
+        "RT @pornslap: Watch sexy yoga teach @MarleyBrinx take a good pounding as she arches that back real good in downward dog.\n\nFull video on htt\u2026",
+        "@BONNERsprings10 @BradyRosalyn @THR @TheUndefeated @chloexhalle Yes he owned slaves you dumb bitch I know who wrote\u2026 https://t.co/bXZLNKUWR7",
+        "RT @kenolin1: You have to be really stupid to do yoga with a gun in your pants. https://t.co/1kRNaJxzPv",
+        "RT @DontBeMADdyy: The year is 2016\nI\u2019m sippin jungle juice in a frat basement. The theme is workout bros and yoga hoes. I\u2019m skipping my 9 A\u2026",
+        "72-year-old Lauren Bruzzone has been active her whole life, usually taking a dance or step aerobics class two days\u2026 https://t.co/KCkkuh0eWq",
+        "Lauren Ziegler, 21, of CrossFit 616 suffered a massive stroke and could not move the left side of her body. After a\u2026 https://t.co/bMy9vP6X0D",
+        "\"'Scaling' or modifying a workout is always an option at CrossFit! We all have limitations. With simple adjustments\u2026 https://t.co/miYfieeBOD",
+        "RT @thedoctorsofpt: As a CrossFit athlete, do you get a lot of backlash from people all around you for being apart of the sport that has a\u2026",
+        "Be stronger then your excuses #fitlife \n.\n.\n#fitpo #fitfam #gymlife #yoga #yogachallenge #yogagirl #yogafun\u2026 https://t.co/R8UKaLMre1",
+        "Beast MODE \ud83d\udd1b\nBattle challenges. Battle yourself. Battle ropes. Battle everything what stands in between you and you\u2026 https://t.co/eeuEdCoCnW",
+        "Team Soul Barbell called for a 5RM on weighted dips. Felt good hitting 90lbs today. \n#teamSOUL @crossfitsoul @ Cros\u2026 https://t.co/skGjAhWNar",
+        "@hess_abril Sale crossfit?\ud83d\ude0f\ud83d\ude0f plisssss https://t.co/VtLYVQJPZ8",
+        "Crossfit Open - here I come! #Crossfit  https://t.co/PqHTZAtCWn",
+        "A full day of fitness @Jsacrossfit with the absolute most amazing people\ud83d\udc4a\ud83c\udffb \n#jsa #jsagym #jsacf #jsacrossfit\u2026 https://t.co/ROlIFDymmT",
+        "Everybody was making jokes tonight about the horrific hypothetical implied by Rick Perry being designated survivor.\u2026 https://t.co/yY1UsjHraz",
+        "Follow Us For Great Fitness Looks  Latex Crossfit resistance bands fitness bo ... https://t.co/TLe7P2yBOt https://t.co/6WglTGiL9N",
+        "@joltikon Yoga instructor keith and crossfit shiro",
+        "Fitness was hard today. @ Coast Range CrossFit https://t.co/73OL2r3e2w",
+        "It\u2019s possible and it happens in CrossFit gyms all over the world. We have witnessed weight loss, strength gains, li\u2026 https://t.co/n22VjYCgrN",
+        "JSA teens on \ud83d\udd25 tonight! So impressed by the effort and attitude this group puts in daily \ud83d\udcaa\ud83c\udffb #jsacf #jsacrossfit\u2026 https://t.co/21tVxQpiAM",
+        "@xoValeriexo This is such a classic CrossFit story \ud83d\ude02",
+        "RT @MavsUnicorn: I\u2019m down 32 pounds total. A little hospital stay and since then I\u2019ve joined CrossFit and Yoga and Spin Cycle. I\u2019m slimming\u2026",
+        "I\u2019m down 32 pounds total. A little hospital stay and since then I\u2019ve joined CrossFit and Yoga and Spin Cycle. I\u2019m s\u2026 https://t.co/zGVKkcvWJ7",
+        "Join us this Friday, February 8th @ 6:00pm for another CrossFit Girls Night! T-Town will be hosting! We can\u2019t wait\u2026 https://t.co/MnvIpr8Pi2",
+        "@ramzpaul Doing crossfit",
+        "RT @TopDawg_C: \u201cIdc if you just finished CrossFit. I\u2019m horny now\u201d https://t.co/TzDqxBflhc",
+        "RT @Femalefitness14: Her Fitness Fight : working out hard and keeping the diet in check but still no progress 3 biggest Fitness mistakes st\u2026",
+        "@Unk0wn__ Nope, Crossfit con Carlos",
+        "RT @TopDawg_C: \u201cIdc if you just finished CrossFit. I\u2019m horny now\u201d https://t.co/TzDqxBflhc",
+        "#PatriotsDynasty 6x #SuperBowI Champions! #BostonCityOfChampions #TwoADay #workouts done! 33mins of #HIIT cardio on\u2026 https://t.co/48BAKGR3uS",
+        "Dont criticize my swimming, I'm just trying to do cardio! What's your motivation this morning #Killing\u2026 https://t.co/QDb11B3gmI",
+        "Joining @nih_nhlbi Dr. Gibbons to move more together for healthier hearts. Challenging @Surgeon_General to join. Th\u2026 https://t.co/ZKGwFmC7W2",
+        "RT @ampaveli: Bruh said Cardio stopped him from hating Niggas https://t.co/O8mx7EBV9R",
+        "Cardio said her bills $250k-300k, like yooooooo what \ud83d\ude29",
+        "RT @ampaveli: Bruh said Cardio stopped him from hating Niggas https://t.co/O8mx7EBV9R",
+        "Indian fusion of Cardio and Zumba \ud83d\udc4c\ud83c\udffb https://t.co/RVqSbs3gy7",
+        "Podcasts &amp; cardio, all 2019.",
+        "@chartdata @iamcardib @iamcardib. Done already told yall she run this shit like cardio \ud83d\ude1c\ud83d\ude1c congrats my love keep hus\u2026 https://t.co/pwlZCi2Pe4",
+        "Celjoy Go contains collagen type II and curcumin extract to reduce joint inflammation and accelerate cartilage repa\u2026 https://t.co/Ej3YbaP1BU",
+        "Cardio Workouts https://t.co/3fFufjs454 https://t.co/4DulP6tRwk",
+        "The always unbiased fatty mcfat fuck. #cardio or you will die. #heartdisease https://t.co/pGCPewHVJv",
+        "@ChrisBryer2 Yeah free stuff first - push ups, crunches, sit ups, dips - there are a lot of options without weights\u2026 https://t.co/UZFdmYCnFE",
+        "One on One w/ Eric. Leg Work!  #Strength #Cardio #Health #Diet #Fitness #dmvfitness #fitnesstransformation\u2026 https://t.co/yHAvJz79xA",
+        "Let's do some cardio flow! Get that sweat on and feel the burn!\n\nhttps://t.co/DkflJKQzII",
+        "Why is gym clothes so expensive?? I really need all new gym leggings because the ones I have now are way too big fo\u2026 https://t.co/XlTo1qKXNh",
+        "RT @Nadina_codes: @WITDEVS @ArchLadies @AmplifyNGO:\n\n#R2D36 #Day36\n\n\ud83d\udc69\ud83c\udffd\u200d\ud83d\udcbb: An hour of #ServiceCloud ! #studying\n\n\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f\ud83c\udfcb\ud83c\udffd\u200d\u2640\ufe0f: 30 minutes of c\u2026",
+        "@egoldmanrevolt \"Cardio\" lmao. These fat fucking neckbeards. The ripped baby-Gestapo you see harassing teenagers at\u2026 https://t.co/YIoia5D7hk",
+        "\u201cHow many sets you got left, bro?\u201d\ud83d\ude44\ud83e\udd23\n\ud83c\udfcb\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udfc3\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udc04\ufe0f\ud83c\udfb4\u2708\ufe0f\ud83c\udf0e\ud83d\udcab\u2615\ufe0f\u26bd\ufe0f\ud83c\udf99\ud83d\udcad\ud83d\udc95\ud83d\ude09\n#gym #gymlife #gymrat #fitness #fitfam #fit #workout\u2026 https://t.co/aRNRG7JOQ1",
+        "It\u2019s cardio day! I hate it \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\nGood thing it\u2019s only 38 mins instead of 60. \n#beachbodyondemand\u2026 https://t.co/QiAnC4TGVM",
+        "@chrislhayes would actually have you believe that he lifts, or that he even knows what a barbell is.\n\nProbably doin\u2026 https://t.co/dajCRLzarr",
+        "I think I\u2019ll do legs today.. mostly cardio tho \ud83d\udc9e",
+        "RT @ampaveli: Bruh said Cardio stopped him from hating Niggas https://t.co/O8mx7EBV9R",
+        "burned 325 calories doing 52 minutes of cardio exercises, including \"Strength training (weight lifting, weight training)\" ... #myfitnesspal",
+        "burned 325 calories doing 52 minutes of cardio exercises, including \"Strength training (weight lifting, weight training)\" #myfitnesspal",
+        "She lost a #SuperBowI bet and had to dance on the table \ud83d\ude2d https://t.co/mcp6kJ1BML",
+        "Dance like everyone's watching.\n#StreetDancer3D, this November 8th\ud83d\udc5f\n\n@streetdancer_ \n@Varun_dvn @Norafatehi\u2026 https://t.co/RWiPnvRT6Z",
+        "#BTS Once Dance Battled Block B And It Was Legendary\n\nhttps://t.co/kGvmjLPRm6",
+        "RT @Lucycantaloupe: I just wanna get drunk and dance to some reggaeton \ud83e\udd27",
+        "RT @RedNationRising: When the alcohol takes effect and you want to get up and dance, but you know the whole world is watching. | #RedNation\u2026",
+        "RT @rutt_jackson: So my cousin had to dance on her table in class for losing a super bowl bet... https://t.co/r2nFFmVdwZ",
+        "RT @CheekySport: MICHAEL JACKSON DANCE OFF WITH @JesseLingard and Cheeky Joel @joelbeya2 at @premierleague event \ud83d\ude04\ud83d\ude04\ud83d\ude04 \ud83d\udca5\ud83d\udca5\ud83d\udca5 https://t.co/50ZBX\u2026",
+        "RT @rutt_jackson: So my cousin had to dance on her table in class for losing a super bowl bet... https://t.co/r2nFFmVdwZ",
+        "RT @jjksparkles: I CAN'T breathe HONG KONG AIRLINE DANCE BTS IDOL FOR THE NEW YEAR FESTIVAL LMAOOOOO https://t.co/oVyi8LWjen",
+        "BLACKPINK \u2013 \ub69c\ub450\ub69c\ub450 (DDU-DU DDU-DU) DANCE REHEARSAL WITH MAYMAY ENTRATA - YouTube\nAng galing #MaymayEntrata\n#MayWard https://t.co/ZqRcseZuMt",
+        "RT @o_h_h9599: ok i was supposed to talk about how cute jihoon is here BUT DAMN KUANLIN BE SNATCHING ME WITH HIS DANCE SKILLS like boi real\u2026",
+        "RT @ScruffyTurtles: Gravity Dance! Patreon request for Kat in Shantae's outfit https://t.co/XPjTxUKV95",
+        "RT @rutt_jackson: So my cousin had to dance on her table in class for losing a super bowl bet... https://t.co/r2nFFmVdwZ",
+        "@BrittMcHenry I loved it when all the women in white all had new jobs and they couldn\u2019t help dance and cheer.  Made Pelosi angry",
+        "@RealJamesWoods Stupid Pill Dance. Dems do it. https://t.co/faZVCvwfN9",
+        "Blue box I demand a dance break to I-DLE's main dancer do u hear me?? @cubeunited",
+        "RT @Varun_dvn: Oh DEVA re DEVA aya PRABHUDEVA. The god of dance @PDdancing #streetdancer3d. Very excited to work with this man again he\u2019s s\u2026",
+        "RT @Life0d: Laugh your heart out, dance in the rain, cherish the moment, live, laugh, love, forgive &amp; forget, life's 2 short 2 be, living w\u2026",
+        "RT @PDChina: Folk artists perform dragon dance across #China on Feb. 5, 2019, the first day of Chinese #LunarNewYear. (Xinhua) https://t.co\u2026",
+        "RT @rutt_jackson: So my cousin had to dance on her table in class for losing a super bowl bet... https://t.co/r2nFFmVdwZ",
+        "RT @jinsungies: it\u2019s come to a point where i want to be overly confident like jinsung, speak my mind like soomin, be able to rap like sungh\u2026",
+        "RT @blackvixens: lost my shit when jennie did that dance move while looking at us and really smiled after that she\u2019s such a tease https://t\u2026",
+        "RT @vulpesvant: Another dance comm \ud83d\udc83\ud83c\udf89\n\nThank you to @PixelJupiter for commissioning me! https://t.co/fyOMkQqVRM",
+        "RT @parkjmfairy: jimin IS pretty, his hair is pretty, his body proportions are pretty, his FACE: pretty, dance lines r pretty too, OH have\u2026",
+        "RT @cheolhansoo95: Coz Minghao wasn't gonna be there the next day, he came to visit each class to check on the trainees' progress, made not\u2026",
+        "Justice Ruth Bader Ginsburg has been absent from the Supreme Court for weeks \n\nEnough is enough. \n\nIt\u2019s time for RB\u2026 https://t.co/tNGwB3XKYr",
+        "Why don't men wear jackets when it's cold?\n\nEvolutionary psych: 'Maybe they're signaling health, stoicism, and fitn\u2026 https://t.co/rvxCH2yaQv",
+        "Considering her record &amp; her documented history of poor ethical + moral fitness, it\u2019s outrageous that Maxine Waters\u2026 https://t.co/Pb72k5UrfD",
+        "Alpha Flag Athleti-Fit&amp;#x2122; T-Shirt #sports #fitness #gym #workout #training #motivation #bodybuilding\u2026 https://t.co/yuj4neQ7yY",
+        "Healthy habits start earlier than you think. Get your kids moving with these tips: https://t.co/uYqy2e45cU\u2026 https://t.co/oNQNZeur47",
+        "@paige94babe I used to have a membership with Idaho fitness but there isn\u2019t one that\u2019s close by crunch is right dow\u2026 https://t.co/ptqX6iKWNu",
+        "does anyone know of any local programs for kids, teens and young adults with disabilities.. whether it may be a sen\u2026 https://t.co/yd8vmgc2kH",
+        "RT @KBEP: CALLING ALL TEENS!!! Join us on Friday Feb 22nd at 1pm at @GFRRec for a hip hop dance fitness class! Come dressed to sweat!! Chec\u2026",
+        "The look that says \"Please can we run now\".. \n\nOff to keep the fur kid happy and me from getting fat.\nBack for the\u2026 https://t.co/I2AgYVQuO3",
+        "Be stronger then your excuses #fitlife \n.\n.\n#fitpo #fitfam #gymlife #yoga #yogachallenge #yogagirl #yogafun\u2026 https://t.co/R8UKaLMre1",
+        "RT @WSDNews: Wednesday, February 6: All Waterford Schools are CLOSED, including the  Waterford Senior Center &amp; Pool and Fitness Centers. Th\u2026",
+        "*Good Vitamins For Sore Muscles After Working Out* &gt;&gt; https://t.co/V7OewP7UfA\n\n#vitamins #muscle #fitness #health\u2026 https://t.co/NOnrUz8WOE",
+        "Fitness Tracker with Blood Oxygen &amp; Heart Rate Monitor - 4 Colours!\nPrice : \u00a319.00  - 86% OFF!\n https://t.co/y0yxQhjFBM",
+        "Beast MODE \ud83d\udd1b\nBattle challenges. Battle yourself. Battle ropes. Battle everything what stands in between you and you\u2026 https://t.co/eeuEdCoCnW",
+        "RT @TaraAnneJ: Confidence is contagious. Catch it. Spread it. #homebiz #workfromhomemom #workfromanywhere #WorkFromHome #momof5 #momsover40\u2026",
+        "RT @mewTripled: A few years ago, my mom kicked cancer in the ass through a whole change of her health and fitness lifestyle. I used to work\u2026",
+        "Chilly for Los Angeles...low 50s and windy. Haley is now family...crushed her 3rd one!!! #fitness #workout\u2026 https://t.co/GAKoPsPXoJ",
+        "Great Workout and Hoop Session!! #JustDoIt #NIKE @ LA Fitness - HOUSTON TX - N SHEPHERD DR https://t.co/L3fUzzfGgA",
+        "RT @tayoshi2: Lebron is the only superstar who is not allowed to gradually get back into match fitness after the worst injury of his career\u2026",
+        "RT @RSPerformance: Try one of our 4-week 'body weight only' online fitness plans!  https://t.co/wktgSRZTI2 https://t.co/kWA6lANi1r",
+        "The mug you want in hand from season to season.\nTo shop, contact us on 9315401145 or email us at info@subhiksh.com\u2026 https://t.co/5Ha2zDJvQa",
+        "@veronicatho Just go to Smoothie World &amp; Xtreme Fitness Nutrition \n822 Newport Ave Pawtucket \n4015434255\nThey deliver smoothies \ud83d\udc4d\ud83c\udffc",
+        "Seems like women everywhere have a fetish for white guys.  Personally, I blame the works of Anthony Minghella (The\u2026 https://t.co/7gL8V6bSGT",
+        "Barcelona v Real Madrid: Barca \u2018waiting until last moment\u2019 over Lionel Messi fitness https://t.co/mq9TEwjiHO",
+        "RT @AdrianNguNgu: Remember my friend from before? He's now my nutritionist and fitness coach, and something more (; https://t.co/H3DpWk61sP",
+        "This is Prosecco. She doesn\u2019t mind bath time as long as you hold her steady. Likes to let the water run over her fe\u2026 https://t.co/KtMw8kqNQx",
+        "So Wash Post, NBC, New Yorker, etc all ran allegations against Kavanaugh w/out evidence or witnesses but this is wh\u2026 https://t.co/obijvig7si",
+        "This president has empowered big polluters as never before:\n\n-Former oil lobbyist nominated to run Dept of Interior\u2026 https://t.co/cRK0k1Adsp",
+        "RT @dog_rates: This is Prosecco. She doesn\u2019t mind bath time as long as you hold her steady. Likes to let the water run over her feets. 14/1\u2026",
+        "@TIME @jayoung1892 Here's your little applause little boy. Run along! \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "At my work I\u2019m only allowed to run the card 3 times before the system puts a lock on the card https://t.co/IKVE1ZkSlP",
+        "RT @The_Coach_A: Press Quarters. Force low %age throws on the edges &amp; bracket the slots. Split-field too. Allows you to be multiple, adapti\u2026",
+        "Each day acquire something that will fortify you against poverty, against death, indeed against other misfortunes a\u2026 https://t.co/gKHeW2etfa",
+        "I just reviewed Surf City Marathon &amp; Half Marathon on https://t.co/ztsmOCsnEe - check it out! https://t.co/C5T42DnYzO #BibChat #surfcityBR",
+        "RT @8btch: #### Battle Royale (2000) ####\nschoolgirls and schoolboys run around with guns n knives in a battlefield https://t.co/2XR8YmNYCb",
+        "RT @norm: Listen to your heart but don\u2019t let it run your life.",
+        "Bout to hit 300 plays in 2 days I ain\u2019t even no rapper \ud83d\ude02\ud83d\ude02\ud83d\ude02 run this shut up you twitter bitches  https://t.co/fxY7jIvqU8",
+        "RT @Duhhwon: Every time you run into high school friends they be ugly \ud83d\ude02 life just wasn\u2019t the same after graduation",
+        "@GavinNewsom Run. Take this clown out. You will crush him. Be daring and unprecedented.",
+        "@DavidDudley5 First gm I remember attending was beating Michigan and Tractor Trailor (RIP) during the 98 big ten ch\u2026 https://t.co/efxA5hPgtp",
+        "RT @CaseyBake16: Right before Stephon Gilmore\u2019s interception:\n\n\u201cGoff\u2019s gonna give us one, watch. He\u2019s trying to make a home run right now.\u201d\u2026",
+        "RT @betospotify: beto is currently listening to ready to run by one direction",
+        "RT @NFL: .@Edelman11's playoff run:\n\nDivisional Round: 9 catches, 151 yards\nAFC Championship: 7 catches, 96 yards\n#SBLIII: 10 catches, 141\u2026",
+        "@timboehlein I think we have enough depth to run. Nembhard, Locke, K, KJ, Spidey, with Hudson, Ballard, Bassett, an\u2026 https://t.co/MGMQzgm9T9",
+        "You deserve a love\nthat doesn't leave,\nthat doesn't fade,\nthat doesn't run away\nwhen the rain comes.",
+        "RT @jbfan911: OMGGGG there was an ice storm where I live and a ton of businesses were closed today besides this Thai restaurant run by this\u2026",
+        "RT @RoseAnnDeMoro: Pretty clear from the #SOTU that this man has both parties on the run.\n\nA Man, A Vision, A Base \n\nWe.Are.Winning!!\n\n#Run\u2026",
+        "@hey_IoI @RAGEUNENDING I\u2019ve never had a good run in with a cop in my life",
+        "RT @AMADICHIMA: They have approached an Abuja Magistrate Court for an order to arrest 50 opposition figures, including Mazi himself. No wah\u2026",
+        "RT @NBA: #JoelEmbiid half-spin &amp; FADE!\n\n#WeTheNorth 108\n#HereTheyCome 101 \n\n@sixers on a 15-4 run in the 4th on @NBAonTNT. https://t.co/WmW\u2026",
+        "Over a million people have entered my PR box giveaway!! \ud83d\ude31\ud83d\ude31\ud83d\ude31 WTF!! \ud83d\ude0a",
+        "I wasn\u2019t following the 21 Savage stuff super closely but it is clear that ICE purposefully maximized the professional/PR damage to him",
+        "As a Yale undergrad, Neomi Rao \u2013\u2013 the president's pick to replace Brett Kavanaugh on the nation's second-highest ap\u2026 https://t.co/yBr0yvnpRf",
+        "RT @nprpolitics: President Trump frequently says he wants to protect health care coverage for people with pre-existing conditions \u2014  but hi\u2026",
+        "RT @nprpolitics: President Trump frequently says he wants to protect health care coverage for people with pre-existing conditions \u2014  but hi\u2026",
+        "@JeffreeStar hey have to say you gave me confidence to be myself and now I\u2019m helping those girls who want to feel s\u2026 https://t.co/GSfV8p3NeI",
+        "RT @nprpolitics: FACT CHECK: Multiple studies show that illegal immigration does not increase the prevalence of violent crime or drug and a\u2026",
+        "RT @nprpolitics: FACT CHECK: Multiple studies show that illegal immigration does not increase the prevalence of violent crime or drug and a\u2026",
+        "RT @nprpolitics: FACT CHECK: Multiple studies show that illegal immigration does not increase the prevalence of violent crime or drug and a\u2026",
+        "RT @nprpolitics: President Trump frequently says he wants to protect health care coverage for people with pre-existing conditions \u2014  but hi\u2026",
+        "@jenna_pr Agreed! And so many people were livid with her. But that was just such good marketing and PR. It was brilliant!",
+        "RT @nprpolitics: FACT CHECK: Multiple studies show that illegal immigration does not increase the prevalence of violent crime or drug and a\u2026",
+        "@RealSaavedra CNN is a PR firm for the DNC.",
+        "@PMOIndia @mlkhattar @DC_Faridabad @KPGBJP @RaoNarbir @DC_Gurugram @OfficeOfNG Dear sir Gurgaon Faridabad toll road\u2026 https://t.co/o7Jmws5cln",
+        "RT @KillianTrill999: Cant wait to reply with this to the next person to send me a paragraph of bullshit https://t.co/0ZBtCtaqEg",
+        "The North Magnetic Pole Is Shifting East, Fast https://t.co/7QGmpkIyL4",
+        "@PR_NHL @NahremanIssaCTV @EdmontonOilers And it's not doing any good tonight!",
+        "RT @yolonghairs: @tyson_pedro_ Yo Tyson! Glad to see a longhair brother killing the game. We want to personally invite you to our @GWR brea\u2026",
+        "RT @nprpolitics: Stacey Abrams labeled the government shutdown \"a stunt, engineered by the president\" in the Democratic response to his Sta\u2026",
+        "RT @nprpolitics: President Trump frequently says he wants to protect health care coverage for people with pre-existing conditions \u2014  but hi\u2026",
+        "@OAmollo @JO25129397 tamed cats for PR",
+        "RT @urdadkylie: my conversations w literally anyone:\n\u26aa\ufe0f\n               \ud83d\udd35\n               \ud83d\udd35\n               \ud83d\udd35\n               \ud83d\udd35\u2026",
+        "RT @nprpolitics: FACT CHECK: Multiple studies show that illegal immigration does not increase the prevalence of violent crime or drug and a\u2026",
+        "RT @GoboMontaco: Acting Attorney General Matthew G. Whitaker Statement on The State of The Union Address\n\nhttps://t.co/BCTaf3FkE8",
+        "RT @Stewart7Donna: He preserves the way of his saints. Pr.2:8b.\nHe is my rock &amp; my salvation: he is my defense; I shall not be moved. Ps.62\u2026",
+        "Gift experiences instead:\n\nSunsets.\nTheater.\nBeaches.\nConcerts.\nFestivals.\nMuseums.\nArt walks.\nRoad trips.\nBabysitt\u2026 https://t.co/GGbyiS1X6l",
+        "I'm delighted to have been shortlisted in the Picture Editors\u2019 Guild awards for Fixation News Photographer of the Y\u2026 https://t.co/CdoyxuH8y9",
+        "Thanks to the #Oscars nominees for a great night, and to @AlexHonnold for entertaining my dumb rock climbing questi\u2026 https://t.co/Yg10b26dKe",
+        "Exclusive Diaries brings you #ValentineEdition Vacation in one of Kenya's natural and adventurous  Nature park. For\u2026 https://t.co/ALtnBI6U5v",
+        "RT @OriyaOrganics: What are you doing to #TakeTheStep? Share with us what steps you are taking and click the link below to enter our giveaw\u2026",
+        "RT @d_huebert: @erynnGillian @RoamingMil GS is so much more than just \"cookies.\" Girls are also offered opportunities for camping/wildernes\u2026",
+        "First time at a rock climbing gym as a family of four! https://t.co/TZC9YWoIQZ",
+        "Hands ripped up from indoor rock climbing and deadlifting, but I now don't feel terrible. 205 pounds 1x4. Next week 2 plates?",
+        "@indiedregs You need to strengthen your extensor muscles I used to get horrible tendinitis from rock climbing and i\u2026 https://t.co/trmdlUABRL",
+        "Rock climbing? Check. DJs? Check. Snake cycle? Check. Must be #SaaStrAnnual2019 ... https://t.co/L7WfUnc8JI",
+        "RT @kinnglm: let\u2019s go skating , bowling , paint balling , mini golfing , rock climbing, shi i like to have fun... let\u2019s go on kiddy dates l\u2026",
+        "RT @ConnorFinnerty_: Check out \u201cConnorville\u201d (vlog 33) today! Vegan shopping, indoor rock climbing with @SienaAgudong and @HOLLYWIRE interv\u2026",
+        "RT @TheMinimalists: Gift experiences instead:\n\nSunsets.\nTheater.\nBeaches.\nConcerts.\nFestivals.\nMuseums.\nArt walks.\nRoad trips.\nBabysitting.\u2026",
+        "let\u2019s go skating , bowling , paint balling , mini golfing , rock climbing, shi i like to have fun... let\u2019s go on kiddy dates like that \ud83d\ude43",
+        "BIKIGHT Abrasion Skid Resistance Anti-Cutting Gloves Work Impact Mechanics Tool For Rock Climbing Check it out #372\u2026 https://t.co/PXC0wPaQEN",
+        "Your day may have been cool but was it ending-a-day-of-rock-climbing-with-coming-home-to-@kimmygrangerxxx -in-your-\u2026 https://t.co/6lKV83FroJ",
+        "Rock climbing Vlog \u2764\ufe0f link in bio @ Southern University and A&amp;M College - Baton Rouge, LA https://t.co/LW42JUBHFw",
+        "@SXMLiveLoud Could a fitness cruise be far behind. Swimming, biking, running, hiking, kayaking, rock climbing, yoga\u2026 https://t.co/6Xrd4aT97w",
+        "RT @pakspringfest: Our Kid's Zone will have fun activities for kids of all ages, Jumping Castles, Trampolines, Rock Climbing, Cricket Shoot\u2026",
+        "This happened right by where I live. I go to this reservoir all the time. There's always people running/biking/rock\u2026 https://t.co/C4jlJmDkqa",
+        "RT @JohnMuirTrust: \"Climbing with a hemp rope is not recommended\" - Trust conservation officer Nathan Berrie reflects on re-enacting Hamish\u2026",
+        "RT @TheMinimalists: Gift experiences instead:\n\nSunsets.\nTheater.\nBeaches.\nConcerts.\nFestivals.\nMuseums.\nArt walks.\nRoad trips.\nBabysitting.\u2026",
+        "one time I thought the lyrics to Sugar by Maroon 5 were \"shine bright!\" not sugar, and I started confidently singin\u2026 https://t.co/9nakxtAZcY",
+        "RT @TheMinimalists: Gift experiences instead:\n\nSunsets.\nTheater.\nBeaches.\nConcerts.\nFestivals.\nMuseums.\nArt walks.\nRoad trips.\nBabysitting.\u2026",
+        "College is so cool like instead of procrastinating by watching YouTube you can procrastinate by rock climbing",
+        "I love boxing so I know love exist",
+        "This is the thing our culture had failed to grasp in the years of the billionaire hijacking, and now increasingly d\u2026 https://t.co/foolp8rH8w",
+        "Former Dutch boxing champion who fought Muhammad Ali and was living in poverty in southeastern Bulgaria, receives h\u2026 https://t.co/9HntSD2GBV",
+        "RT @BoogTweets: *shadow boxing but only marginally winning*",
+        "RT @JustinAdai: PLEASE SHARE!!!!!!!!\n\nMy son\u2019s friend Daniel Williams has been missing since Wednesday. \nHe was last seen by his friends at\u2026",
+        "RT @VanesBoxing: I  decided to retire from the sport of boxing because of Don King Everyone At Don King.\nI signed to fight And he only gave\u2026",
+        "RT @Uglyasstee: So campus Police Caught this man Hot boxing his car  \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d (not my laugh) https://t.co/s1zEWjzNOQ",
+        "RT @producerknj: bts keep mentioning tht jk\u2019s been doing some boxing lately... https://t.co/dm7VGfXCZk",
+        "watching the boxing playoffs lets go tyson!!",
+        "we will probably be boxing after but he\u2019ll yeah https://t.co/ZjvG7O3U9T",
+        "RT @boxing_esq: ESPN and @maxkellerman have brought back the name of his NYC cable access show from the late 80's-early '90s - \"Max On Boxi\u2026",
+        "I wanna boxing match with @lucyeleanorrmay",
+        "@____Gil When I see him I\u2019m boxing him otc",
+        "It\u2019s settled #BachelorNation @nicolelovar you would beat @onyekaehie in a boxing match.  I would personally love to\u2026 https://t.co/qopvmpubcw",
+        "Boxing cover's kinda funny https://t.co/rbBchGT9ME",
+        "Kinda wanna take boxing . Get back into swinging. Rumor has it I can make people bleed.",
+        "@mofopiper @dedophile @okhayle When you\u2019re losing a boxing match but then lah lamborghini starts playing",
+        "RT @BoxingKingdom14: Who is the most charismatic fighter in world boxing? \n\nTyson Fury\nAnthony Joshua\nDeontay Wilder\nManny Pacquiao\nMikey G\u2026",
+        "Please #Follow Us On All These ..\n\nhttps://t.co/iBF6yXyksR\n(Facts/News, Boxers Tweets &amp; More)\u2026 https://t.co/rnE8Wg2AeR",
+        "It's nicer than the boxing form I do. You black out as it inserts, come to, and fight me... for fun.\n\nOooh, Charlie and I had a good bout.",
+        "RT @BoxingTribeUK: This is the best boxing story ever and I don\u2019t care you can\u2019t name me one other story that can beat this @5XPAZ \ud83e\udd4a #motiv\u2026",
+        "RT @PaulSkrbina: Filip Forsberg in his boxing robe. Said he can\u2019t disclose why he\u2019s wearing it. https://t.co/wKEOOQpYHX",
+        "In life as well as in the boxing ring, we are often faced with many challenges \u2014 some that will test the limits of\u2026 https://t.co/Tnj1Zi2imF",
+        "RT @UMCPASA: Auctioneer #2!\nOluwatosin Tubo\nYear: Sophomore \nSchool: Morgan State University \nCountry of Origin: Nigeria \ud83c\uddf3\ud83c\uddec \nOne fun fact:\u2026",
+        "RT @JustinAdai: PLEASE SHARE!!!!!!!!\n\nMy son\u2019s friend Daniel Williams has been missing since Wednesday. \nHe was last seen by his friends at\u2026",
+        "Note to @POTUS on the #SOTU2019, Kill 'em w kindness tonight by reminding America how robust our economy is. You've\u2026 https://t.co/E3GG7zyiWj",
+        ".@realDonaldTrump's delivery tonight is excellent. He's confident and comfortable, even occasionally charming the r\u2026 https://t.co/P0epEaOA3U",
+        "Dear @ProfOsinbajo\n\nYou increased fuel from \u20a687 to \u20a6145, devalued Naira from $1 = \u20a6190 to $1 = \u20a6365. Under you, 14\u2026 https://t.co/wXJweppeuA",
+        "RT @renoomokri: Dear @ProfOsinbajo\n\nYou increased fuel from \u20a687 to \u20a6145, devalued Naira from $1 = \u20a6190 to $1 = \u20a6365. Under you, 14 million\u2026",
+        "@Schriock1 @staceyabrams @emilyslist -Killing newborn babies is not justice.\n-She lost the election, fair and squar\u2026 https://t.co/DAjrYxuaEo",
+        "RT @SueinRockville: @kylegriffin1 Bravo @staceyabrams \nshowing why we Democrats are the Party of making America succeed by lifting all of U\u2026",
+        "RT @HeyTammyBruce: .@realDonaldTrump's delivery tonight is excellent. He's confident and comfortable, even occasionally charming the resist\u2026",
+        "RT @GeraldoRivera: Note to @POTUS on the #SOTU2019, Kill 'em w kindness tonight by reminding America how robust our economy is. You've earn\u2026",
+        "I was working out, and a song came into my headphones while lifting and it brought me back to the weight room back\u2026 https://t.co/sSucHNJikk",
+        "RT @xxxttiinnaa: Christina Aguilera isn\u2019t a \u201cpop star.\u201d @xtina is a VOCAL icon. She secured her legend status by doing what she wanted, how\u2026",
+        "RT @renoomokri: Dear @ProfOsinbajo\n\nYou increased fuel from \u20a687 to \u20a6145, devalued Naira from $1 = \u20a6190 to $1 = \u20a6365. Under you, 14 million\u2026",
+        "RT @janssenleader: Don't curse the running that conditions you.\nDon't whine about the lifting that strengthens you.\nDon't complain about th\u2026",
+        "I really been In a good high lifting spirit lately ! Leave me alone with all the bs ! Pleaseee",
+        "RT @HeyTammyBruce: .@realDonaldTrump's delivery tonight is excellent. He's confident and comfortable, even occasionally charming the resist\u2026",
+        "RT @HeyTammyBruce: .@realDonaldTrump's delivery tonight is excellent. He's confident and comfortable, even occasionally charming the resist\u2026",
+        "@TheDemocrats @leahmcelrath I am so proud of the women who have the courage to look the bastards in the eye and tel\u2026 https://t.co/r1MV8rAe0G",
+        "RT @MELANINROE_: if you\u2019re not lifting me up, helping me become a better me, or adding value to my life, stay away.",
+        "RT @HeyTammyBruce: .@realDonaldTrump's delivery tonight is excellent. He's confident and comfortable, even occasionally charming the resist\u2026",
+        "RT @SueinRockville: Bravo @staceyabrams \nshowing why we @TheDemocrats are the Party of making America succeed by lifting all of US! https:/\u2026",
+        "RT @renoomokri: Dear @ProfOsinbajo\n\nYou increased fuel from \u20a687 to \u20a6145, devalued Naira from $1 = \u20a6190 to $1 = \u20a6365. Under you, 14 million\u2026",
+        "RT @renoomokri: Dear @ProfOsinbajo\n\nYou increased fuel from \u20a687 to \u20a6145, devalued Naira from $1 = \u20a6190 to $1 = \u20a6365. Under you, 14 million\u2026",
+        "Lol try going 12+ hours being on your feet and lifting/holding/running after patients all while you haven\u2019t peed, d\u2026 https://t.co/JOU1k1stWI",
+        "RT @SueinRockville: #WednesdayWisdom \nBravo @staceyabrams \nshowing why we Democrats are the Party of making America succeed by lifting all\u2026",
+        "@TeamPelosi @ResistDr So, Nancy Pelosi, why did Dem establishment leave heavy lifting of challenging massive nation\u2026 https://t.co/ZyNCnK6RDw",
+        "RT @MitchWitDaBeard: \"How\u2019s your little gf?\"\nThat's my wife and your frontal lifting",
+        "Fat neck! https://t.co/wIaeoK7pcM",
+        "Reason 1: he\u2019s being entitled, why have I fought since and he hasn\u2019t. He lost the fight is he still the champ?\u2026 https://t.co/NUCaVdOp6j",
+        "Do you guys wanna know why I\u2019m not fighting @stipemiocic again?",
+        "@dc_mma @stipemiocic Cause you\u2019re scared?",
+        "@Burgundy_Orange @dc_mma A paper champ going for a title he never should have been given a chance to.",
+        "@Illuminatist88 @dc_mma Now that is the demeanor of the \u201cgoat\u201d GTFOH Dick Chaser @dc_mma",
+        "Ooo bye tomorrow I have two meetings so I'mma try not to feel stressed as hell and if I'm laughing and smiling a lo\u2026 https://t.co/pVEAq2jNZz",
+        "@stipemiocic @dc_mma He scared",
+        "RT @HNIJohnMiller: 1) The left will be attacking Trump\u2019s comments on El Paso, declaring that the border wall didn\u2019t contribute to the safet\u2026",
+        "RT @stipemiocic: .@dc_mma my entitled ass offered to fight you at UFC230 on Nov 3 at MSG. You fought Lewis, while I was fighting fires. htt\u2026",
+        "@elderlog BETTER COVER THEM EYES I'MMA CUM IN EM",
+        "@dc_mma Your a cheater you poked him in the eyes over and over and now you\u2019re running. Don\u2019t be scared homie",
+        "@noah_vilagi @stipemiocic @dc_mma Bro anyone who cheats and pops for roids should never get near a title again. Sim\u2026 https://t.co/uCcuRZwa9L",
+        "RT @stipemiocic: .@dc_mma my entitled ass offered to fight you at UFC230 on Nov 3 at MSG. You fought Lewis, while I was fighting fires. htt\u2026",
+        "RT @stipemiocic: .@dc_mma my entitled ass offered to fight you at UFC230 on Nov 3 at MSG. You fought Lewis, while I was fighting fires. htt\u2026",
+        "RT @stipemiocic: .@dc_mma my entitled ass offered to fight you at UFC230 on Nov 3 at MSG. You fought Lewis, while I was fighting fires. htt\u2026",
+        "@LutzKeith I've been watching MMA since I was 10 years old xp",
+        "@dc_mma You owe Burger King a thing or three. https://t.co/D8YrlQLOy3",
+        "@NamsMalaika_707 Ee mma,ndi confident already",
+        "RT @stipemiocic: .@dc_mma my entitled ass offered to fight you at UFC230 on Nov 3 at MSG. You fought Lewis, while I was fighting fires. htt\u2026",
+        "Biggest pussy in mma history https://t.co/cOGWNcIkrs",
+        "@BlueJacketsNHL Incorrect call but it is what it is. Sad",
+        "RT @HNIJohnMiller: 1) The left will be attacking Trump\u2019s comments on El Paso, declaring that the border wall didn\u2019t contribute to the safet\u2026",
+        "RT @stipemiocic: .@dc_mma my entitled ass offered to fight you at UFC230 on Nov 3 at MSG. You fought Lewis, while I was fighting fires. htt\u2026",
+        "RT @stipemiocic: .@dc_mma my entitled ass offered to fight you at UFC230 on Nov 3 at MSG. You fought Lewis, while I was fighting fires. htt\u2026"
+    ]
+}

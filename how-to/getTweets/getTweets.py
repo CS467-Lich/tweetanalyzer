@@ -5,10 +5,13 @@ from twython import Twython
 import json
 import pandas as pd
 
+
 from helperFunctions import writeAsJSON
 
-TWITTER_SEARCH = 'alexandria ocasio-cortez'
-JSON_SAVE_FILE = 'joinJSON/Political/data7.json'
+DIRECTORY = "Fitness"
+TWITTER_SEARCH = ['yoga', 'crossfit', 'run', 'fitness', 'lifting', 'cardio', 'rock climbing', 'PR', 'MMA', 'boxing', 'dance']
+#TWITTER_SEARCH = ['global warming', 'pollution', 'waste', 'ozone layer', 'water', 'earth', 'climate change', 'plastic', 'marine life', 'turtles', 'deforestation', 'overpopulation', 'biodiversity', 'endangered', 'extinct', 'lanfill']
+#DIRECTORY = "Activism_Environmental"
 
 # Load credentials from JSON file
 with open('twitter_credentials.json', 'r') as file:
@@ -22,30 +25,36 @@ ACCESS_TOKEN = twitter.obtain_access_token()
 twitter = Twython(creds['CONSUMER_KEY'], access_token=ACCESS_TOKEN)
 
 # Send search request to Twitter
-results = twitter.search(q=TWITTER_SEARCH, result_type='mixed', lang='en', count='25')
+i = 0
+results = {}
+while (len(TWITTER_SEARCH)) > i:
 
-# Take only what we want from the results (just a couple attributes for now)
-dict_ = {'user': [], 'date': [], 'text': [], 'source': [], 'coordinates': [], 'language': [], 'hashtags': []}
-for status in results['statuses']:
-    dict_['user'].append(status['user']['screen_name'])
-    dict_['date'].append(status['created_at'])
-    dict_['text'].append(status['text'])
-    dict_['source'].append(status['source'])
-    dict_['coordinates'].append(status['coordinates'])
-    dict_['language'].append(status['lang'])
-    dict_['hashtags'].append(status['entities']['hashtags'])
+    JSON_SAVE_FILE = "joinJSON/" + DIRECTORY + "/data" + str(i + 1) + ".json" 
+    results.update(twitter.search(q=TWITTER_SEARCH[i], result_type='mixed', lang='en', count='25'))
+
+    # Take only what we want from the results (just a couple attributes for now)
+    dict_ = {'user': [], 'date': [], 'text': [], 'source': [], 'coordinates': [], 'language': [], 'hashtags': []}
+    for status in results['statuses']:
+        dict_['user'].append(status['user']['screen_name'])
+        dict_['date'].append(status['created_at'])
+        dict_['text'].append(status['text'])
+        dict_['source'].append(status['source'])
+        dict_['coordinates'].append(status['coordinates'])
+        dict_['language'].append(status['lang'])
+        dict_['hashtags'].append(status['entities']['hashtags'])
 
 
-# save data in json form to json file
-writeAsJSON(dict_, JSON_SAVE_FILE)
+    # save data in json form to json file
+    writeAsJSON(dict_, JSON_SAVE_FILE) 
 
 
-# Use pandas to structure data as a DataFrame. This isn't necessary for
-# just viewing the data, but would likely be necessary for any sort of 
-# analysis with pandas. Plus pandas has a nifty to_csv() function for
-# DataFrames.
-df = pd.DataFrame.from_dict(dict_)
-df.sort_values(by='date', inplace=True, ascending=False)
+    # Use pandas to structure data as a DataFrame. This isn't necessary for
+    # just viewing the data, but would likely be necessary for any sort of 
+    # analysis with pandas. Plus pandas has a nifty to_csv() function for
+    # DataFrames.
+    df = pd.DataFrame.from_dict(dict_)
+    df.sort_values(by='date', inplace=True, ascending=False)
+    i = i + 1
 
 # Results to console
 # print("Results Preview:")

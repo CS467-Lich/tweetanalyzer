@@ -1,0 +1,422 @@
+{
+    "source": [
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://www.myfitnesspal.com\" rel=\"nofollow\">MyFitnessPal</a>",
+        "<a href=\"http://www.myfitnesspal.com\" rel=\"nofollow\">MyFitnessPal</a>"
+    ],
+    "hashtags": [
+        [
+            {
+                "indices": [
+                    0,
+                    16
+                ],
+                "text": "PatriotsDynasty"
+            },
+            {
+                "indices": [
+                    20,
+                    30
+                ],
+                "text": "SuperBowI"
+            },
+            {
+                "indices": [
+                    42,
+                    64
+                ],
+                "text": "BostonCityOfChampions"
+            },
+            {
+                "indices": [
+                    65,
+                    73
+                ],
+                "text": "TwoADay"
+            },
+            {
+                "indices": [
+                    74,
+                    83
+                ],
+                "text": "workouts"
+            },
+            {
+                "indices": [
+                    100,
+                    105
+                ],
+                "text": "HIIT"
+            }
+        ],
+        [
+            {
+                "indices": [
+                    94,
+                    102
+                ],
+                "text": "Killing"
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "indices": [
+                    38,
+                    45
+                ],
+                "text": "cardio"
+            },
+            {
+                "indices": [
+                    63,
+                    76
+                ],
+                "text": "heartdisease"
+            }
+        ],
+        [],
+        [
+            {
+                "indices": [
+                    31,
+                    40
+                ],
+                "text": "Strength"
+            },
+            {
+                "indices": [
+                    41,
+                    48
+                ],
+                "text": "Cardio"
+            },
+            {
+                "indices": [
+                    49,
+                    56
+                ],
+                "text": "Health"
+            },
+            {
+                "indices": [
+                    57,
+                    62
+                ],
+                "text": "Diet"
+            },
+            {
+                "indices": [
+                    63,
+                    71
+                ],
+                "text": "Fitness"
+            },
+            {
+                "indices": [
+                    72,
+                    83
+                ],
+                "text": "dmvfitness"
+            },
+            {
+                "indices": [
+                    84,
+                    106
+                ],
+                "text": "fitnesstransformation"
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "indices": [
+                    53,
+                    59
+                ],
+                "text": "R2D36"
+            },
+            {
+                "indices": [
+                    60,
+                    66
+                ],
+                "text": "Day36"
+            },
+            {
+                "indices": [
+                    85,
+                    98
+                ],
+                "text": "ServiceCloud"
+            },
+            {
+                "indices": [
+                    101,
+                    110
+                ],
+                "text": "studying"
+            }
+        ],
+        [],
+        [
+            {
+                "indices": [
+                    63,
+                    67
+                ],
+                "text": "gym"
+            },
+            {
+                "indices": [
+                    68,
+                    76
+                ],
+                "text": "gymlife"
+            },
+            {
+                "indices": [
+                    77,
+                    84
+                ],
+                "text": "gymrat"
+            },
+            {
+                "indices": [
+                    85,
+                    93
+                ],
+                "text": "fitness"
+            },
+            {
+                "indices": [
+                    94,
+                    101
+                ],
+                "text": "fitfam"
+            },
+            {
+                "indices": [
+                    102,
+                    106
+                ],
+                "text": "fit"
+            },
+            {
+                "indices": [
+                    107,
+                    115
+                ],
+                "text": "workout"
+            }
+        ],
+        [
+            {
+                "indices": [
+                    77,
+                    95
+                ],
+                "text": "beachbodyondemand"
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "indices": [
+                    126,
+                    139
+                ],
+                "text": "myfitnesspal"
+            }
+        ],
+        [
+            {
+                "indices": [
+                    122,
+                    135
+                ],
+                "text": "myfitnesspal"
+            }
+        ]
+    ],
+    "user": [
+        "dannywood",
+        "thunderrosa22",
+        "NIHDirector",
+        "CamCam_2014",
+        "_tierramorris_",
+        "Mah_ree_oh4",
+        "AadityaRazdan",
+        "ashleyy_cakes",
+        "TyriquaJ",
+        "OsmanNoni",
+        "morethanveganli",
+        "Basscatcher6",
+        "H4gb4rdCeline",
+        "TheBluePrintP",
+        "CKreklewich",
+        "almalorenaaa_",
+        "jwlisbon",
+        "Turnerj555",
+        "MattLevy419",
+        "KristinxxNicole",
+        "thomasbsauer",
+        "buckysbum",
+        "Sweetest_Taboo_",
+        "lilysworld129",
+        "lilysworld129"
+    ],
+    "coordinates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "Point",
+            "coordinates": [
+                -76.85419,
+                38.85726
+            ]
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "Point",
+            "coordinates": [
+                -0.1727128,
+                51.64984758
+            ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "language": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "date": [
+        "Mon Feb 04 17:40:27 +0000 2019",
+        "Tue Feb 05 15:58:22 +0000 2019",
+        "Tue Feb 05 22:25:48 +0000 2019",
+        "Wed Feb 06 04:24:44 +0000 2019",
+        "Wed Feb 06 04:24:41 +0000 2019",
+        "Wed Feb 06 04:24:41 +0000 2019",
+        "Wed Feb 06 04:24:40 +0000 2019",
+        "Wed Feb 06 04:24:32 +0000 2019",
+        "Wed Feb 06 04:24:23 +0000 2019",
+        "Wed Feb 06 04:24:07 +0000 2019",
+        "Wed Feb 06 04:23:57 +0000 2019",
+        "Wed Feb 06 04:23:53 +0000 2019",
+        "Wed Feb 06 04:23:45 +0000 2019",
+        "Wed Feb 06 04:23:30 +0000 2019",
+        "Wed Feb 06 04:22:59 +0000 2019",
+        "Wed Feb 06 04:22:34 +0000 2019",
+        "Wed Feb 06 04:22:20 +0000 2019",
+        "Wed Feb 06 04:22:20 +0000 2019",
+        "Wed Feb 06 04:22:05 +0000 2019",
+        "Wed Feb 06 04:21:42 +0000 2019",
+        "Wed Feb 06 04:21:37 +0000 2019",
+        "Wed Feb 06 04:21:26 +0000 2019",
+        "Wed Feb 06 04:21:10 +0000 2019",
+        "Wed Feb 06 04:21:02 +0000 2019",
+        "Wed Feb 06 04:21:02 +0000 2019"
+    ],
+    "text": [
+        "#PatriotsDynasty 6x #SuperBowI Champions! #BostonCityOfChampions #TwoADay #workouts done! 33mins of #HIIT cardio on\u2026 https://t.co/48BAKGR3uS",
+        "Dont criticize my swimming, I'm just trying to do cardio! What's your motivation this morning #Killing\u2026 https://t.co/QDb11B3gmI",
+        "Joining @nih_nhlbi Dr. Gibbons to move more together for healthier hearts. Challenging @Surgeon_General to join. Th\u2026 https://t.co/ZKGwFmC7W2",
+        "RT @ampaveli: Bruh said Cardio stopped him from hating Niggas https://t.co/O8mx7EBV9R",
+        "Cardio said her bills $250k-300k, like yooooooo what \ud83d\ude29",
+        "RT @ampaveli: Bruh said Cardio stopped him from hating Niggas https://t.co/O8mx7EBV9R",
+        "Indian fusion of Cardio and Zumba \ud83d\udc4c\ud83c\udffb https://t.co/RVqSbs3gy7",
+        "Podcasts &amp; cardio, all 2019.",
+        "@chartdata @iamcardib @iamcardib. Done already told yall she run this shit like cardio \ud83d\ude1c\ud83d\ude1c congrats my love keep hus\u2026 https://t.co/pwlZCi2Pe4",
+        "Celjoy Go contains collagen type II and curcumin extract to reduce joint inflammation and accelerate cartilage repa\u2026 https://t.co/Ej3YbaP1BU",
+        "Cardio Workouts https://t.co/3fFufjs454 https://t.co/4DulP6tRwk",
+        "The always unbiased fatty mcfat fuck. #cardio or you will die. #heartdisease https://t.co/pGCPewHVJv",
+        "@ChrisBryer2 Yeah free stuff first - push ups, crunches, sit ups, dips - there are a lot of options without weights\u2026 https://t.co/UZFdmYCnFE",
+        "One on One w/ Eric. Leg Work!  #Strength #Cardio #Health #Diet #Fitness #dmvfitness #fitnesstransformation\u2026 https://t.co/yHAvJz79xA",
+        "Let's do some cardio flow! Get that sweat on and feel the burn!\n\nhttps://t.co/DkflJKQzII",
+        "Why is gym clothes so expensive?? I really need all new gym leggings because the ones I have now are way too big fo\u2026 https://t.co/XlTo1qKXNh",
+        "RT @Nadina_codes: @WITDEVS @ArchLadies @AmplifyNGO:\n\n#R2D36 #Day36\n\n\ud83d\udc69\ud83c\udffd\u200d\ud83d\udcbb: An hour of #ServiceCloud ! #studying\n\n\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f\ud83c\udfcb\ud83c\udffd\u200d\u2640\ufe0f: 30 minutes of c\u2026",
+        "@egoldmanrevolt \"Cardio\" lmao. These fat fucking neckbeards. The ripped baby-Gestapo you see harassing teenagers at\u2026 https://t.co/YIoia5D7hk",
+        "\u201cHow many sets you got left, bro?\u201d\ud83d\ude44\ud83e\udd23\n\ud83c\udfcb\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udfc3\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udc04\ufe0f\ud83c\udfb4\u2708\ufe0f\ud83c\udf0e\ud83d\udcab\u2615\ufe0f\u26bd\ufe0f\ud83c\udf99\ud83d\udcad\ud83d\udc95\ud83d\ude09\n#gym #gymlife #gymrat #fitness #fitfam #fit #workout\u2026 https://t.co/aRNRG7JOQ1",
+        "It\u2019s cardio day! I hate it \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\nGood thing it\u2019s only 38 mins instead of 60. \n#beachbodyondemand\u2026 https://t.co/QiAnC4TGVM",
+        "@chrislhayes would actually have you believe that he lifts, or that he even knows what a barbell is.\n\nProbably doin\u2026 https://t.co/dajCRLzarr",
+        "I think I\u2019ll do legs today.. mostly cardio tho \ud83d\udc9e",
+        "RT @ampaveli: Bruh said Cardio stopped him from hating Niggas https://t.co/O8mx7EBV9R",
+        "burned 325 calories doing 52 minutes of cardio exercises, including \"Strength training (weight lifting, weight training)\" ... #myfitnesspal",
+        "burned 325 calories doing 52 minutes of cardio exercises, including \"Strength training (weight lifting, weight training)\" #myfitnesspal"
+    ]
+}
