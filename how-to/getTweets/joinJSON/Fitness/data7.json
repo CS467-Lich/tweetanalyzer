@@ -1,0 +1,229 @@
+{
+    "source": [
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://github.com/mariotaku/twidere/\" rel=\"nofollow\">Twidere for Android #7</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+    ],
+    "hashtags": [
+        [],
+        [],
+        [
+            {
+                "indices": [
+                    14,
+                    21
+                ],
+                "text": "Oscars"
+            }
+        ],
+        [
+            {
+                "indices": [
+                    29,
+                    46
+                ],
+                "text": "ValentineEdition"
+            }
+        ],
+        [
+            {
+                "indices": [
+                    41,
+                    53
+                ],
+                "text": "TakeTheStep"
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "indices": [
+                    62,
+                    79
+                ],
+                "text": "SaaStrAnnual2019"
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "user": [
+        "TheMinimalists",
+        "DannyLawPhoto",
+        "THRMattBelloni",
+        "Sirroman1",
+        "dreedsalot",
+        "MarieUSA79",
+        "aarsilv",
+        "waterboyjon",
+        "did_diddy_doit",
+        "angie_dexibit",
+        "Dooda4PF",
+        "gregdreamwolf",
+        "EforEllen",
+        "kinnglm",
+        "FatenSaad8",
+        "foolmanchu11",
+        "wavyjaayy",
+        "Papapeeler",
+        "ZahidaJamil10",
+        "ChrisBonesCast",
+        "dwyer_gail",
+        "lucianoparis",
+        "Megan39858806",
+        "iamloviedo",
+        "andrewdubs1"
+    ],
+    "coordinates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "Point",
+            "coordinates": [
+                -91.19054732,
+                30.52249579
+            ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "language": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "date": [
+        "Tue Feb 05 17:19:43 +0000 2019",
+        "Mon Feb 04 18:15:58 +0000 2019",
+        "Tue Feb 05 17:44:39 +0000 2019",
+        "Wed Feb 06 04:22:54 +0000 2019",
+        "Wed Feb 06 04:21:26 +0000 2019",
+        "Wed Feb 06 04:13:28 +0000 2019",
+        "Wed Feb 06 04:13:08 +0000 2019",
+        "Wed Feb 06 04:04:39 +0000 2019",
+        "Wed Feb 06 04:03:07 +0000 2019",
+        "Wed Feb 06 03:59:32 +0000 2019",
+        "Wed Feb 06 03:56:57 +0000 2019",
+        "Wed Feb 06 03:53:12 +0000 2019",
+        "Wed Feb 06 03:49:48 +0000 2019",
+        "Wed Feb 06 03:45:38 +0000 2019",
+        "Wed Feb 06 03:33:43 +0000 2019",
+        "Wed Feb 06 03:33:43 +0000 2019",
+        "Wed Feb 06 03:29:06 +0000 2019",
+        "Wed Feb 06 03:28:33 +0000 2019",
+        "Wed Feb 06 03:22:04 +0000 2019",
+        "Wed Feb 06 03:16:52 +0000 2019",
+        "Wed Feb 06 03:12:45 +0000 2019",
+        "Wed Feb 06 03:08:51 +0000 2019",
+        "Wed Feb 06 03:04:31 +0000 2019",
+        "Wed Feb 06 03:01:04 +0000 2019",
+        "Wed Feb 06 03:00:56 +0000 2019"
+    ],
+    "text": [
+        "Gift experiences instead:\n\nSunsets.\nTheater.\nBeaches.\nConcerts.\nFestivals.\nMuseums.\nArt walks.\nRoad trips.\nBabysitt\u2026 https://t.co/GGbyiS1X6l",
+        "I'm delighted to have been shortlisted in the Picture Editors\u2019 Guild awards for Fixation News Photographer of the Y\u2026 https://t.co/CdoyxuH8y9",
+        "Thanks to the #Oscars nominees for a great night, and to @AlexHonnold for entertaining my dumb rock climbing questi\u2026 https://t.co/Yg10b26dKe",
+        "Exclusive Diaries brings you #ValentineEdition Vacation in one of Kenya's natural and adventurous  Nature park. For\u2026 https://t.co/ALtnBI6U5v",
+        "RT @OriyaOrganics: What are you doing to #TakeTheStep? Share with us what steps you are taking and click the link below to enter our giveaw\u2026",
+        "RT @d_huebert: @erynnGillian @RoamingMil GS is so much more than just \"cookies.\" Girls are also offered opportunities for camping/wildernes\u2026",
+        "First time at a rock climbing gym as a family of four! https://t.co/TZC9YWoIQZ",
+        "Hands ripped up from indoor rock climbing and deadlifting, but I now don't feel terrible. 205 pounds 1x4. Next week 2 plates?",
+        "@indiedregs You need to strengthen your extensor muscles I used to get horrible tendinitis from rock climbing and i\u2026 https://t.co/trmdlUABRL",
+        "Rock climbing? Check. DJs? Check. Snake cycle? Check. Must be #SaaStrAnnual2019 ... https://t.co/L7WfUnc8JI",
+        "RT @kinnglm: let\u2019s go skating , bowling , paint balling , mini golfing , rock climbing, shi i like to have fun... let\u2019s go on kiddy dates l\u2026",
+        "RT @ConnorFinnerty_: Check out \u201cConnorville\u201d (vlog 33) today! Vegan shopping, indoor rock climbing with @SienaAgudong and @HOLLYWIRE interv\u2026",
+        "RT @TheMinimalists: Gift experiences instead:\n\nSunsets.\nTheater.\nBeaches.\nConcerts.\nFestivals.\nMuseums.\nArt walks.\nRoad trips.\nBabysitting.\u2026",
+        "let\u2019s go skating , bowling , paint balling , mini golfing , rock climbing, shi i like to have fun... let\u2019s go on kiddy dates like that \ud83d\ude43",
+        "BIKIGHT Abrasion Skid Resistance Anti-Cutting Gloves Work Impact Mechanics Tool For Rock Climbing Check it out #372\u2026 https://t.co/PXC0wPaQEN",
+        "Your day may have been cool but was it ending-a-day-of-rock-climbing-with-coming-home-to-@kimmygrangerxxx -in-your-\u2026 https://t.co/6lKV83FroJ",
+        "Rock climbing Vlog \u2764\ufe0f link in bio @ Southern University and A&amp;M College - Baton Rouge, LA https://t.co/LW42JUBHFw",
+        "@SXMLiveLoud Could a fitness cruise be far behind. Swimming, biking, running, hiking, kayaking, rock climbing, yoga\u2026 https://t.co/6Xrd4aT97w",
+        "RT @pakspringfest: Our Kid's Zone will have fun activities for kids of all ages, Jumping Castles, Trampolines, Rock Climbing, Cricket Shoot\u2026",
+        "This happened right by where I live. I go to this reservoir all the time. There's always people running/biking/rock\u2026 https://t.co/C4jlJmDkqa",
+        "RT @JohnMuirTrust: \"Climbing with a hemp rope is not recommended\" - Trust conservation officer Nathan Berrie reflects on re-enacting Hamish\u2026",
+        "RT @TheMinimalists: Gift experiences instead:\n\nSunsets.\nTheater.\nBeaches.\nConcerts.\nFestivals.\nMuseums.\nArt walks.\nRoad trips.\nBabysitting.\u2026",
+        "one time I thought the lyrics to Sugar by Maroon 5 were \"shine bright!\" not sugar, and I started confidently singin\u2026 https://t.co/9nakxtAZcY",
+        "RT @TheMinimalists: Gift experiences instead:\n\nSunsets.\nTheater.\nBeaches.\nConcerts.\nFestivals.\nMuseums.\nArt walks.\nRoad trips.\nBabysitting.\u2026",
+        "College is so cool like instead of procrastinating by watching YouTube you can procrastinate by rock climbing"
+    ]
+}
