@@ -7,8 +7,12 @@ import searchTweets
 import sampleTweets
 
 credentialsPath = '../twitter_credentials.json'
+'''
 outputJSON = 'data.json'
 outputCSV = 'data.csv'
+'''
+outputJSON = './joinJSON/Ads_Positive/data.json'
+outputCSV = './joinJSON/Ads_Positive/data.csv'
 
 def main():
 	method = interface.getSelection()

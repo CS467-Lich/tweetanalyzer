@@ -52,10 +52,10 @@ def isComplexQuery():
 def getFile():
 	filename = input('Enter file path/name: ')
 	try:
-		file = open(filename, "r")
+		file = open(filename, 'r')
 		return file
 	except IOError:
-		print("getFile(): File does not exist!")
+		print('getFile(): File does not exist!')
 		return 0
 
 def readFile(fileDescriptor):

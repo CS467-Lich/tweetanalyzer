@@ -8,11 +8,12 @@ import json
 import os
 from utilities import writeAsJSON
 from jsonmerge import Merger
+import pandas as pd
 
 
 MY_DATA_FOLDER = "joinJSON/"
-MY_DATA_SUBFOLDER = "Political_Positive"
-MY_FINAL_DATA = 'Political_Final_Positive'
+MY_DATA_SUBFOLDER = "Ads_Positive"
+MY_FINAL_DATA = 'Ads_Positive_Comb'
 
 # storing all the json data here
 finalJSON = {}
@@ -41,6 +42,10 @@ for filename in os.listdir(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER):
 # store final json data
 writeAsJSON(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER + '/' + MY_FINAL_DATA + ".json", finalJSON)
 
+
+# Save as CSV for easier examination 
+df = pd.read_json(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER + '/' + MY_FINAL_DATA + '.json')
+df.to_csv(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER + '/' + MY_FINAL_DATA + ".csv", index=False)
 
 # References
 # https://pypi.org/project/jsonmerge/
