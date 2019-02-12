@@ -7,8 +7,8 @@ import utilities
 
 counter = 0
 target = 0
-data = {'id': [], 'user': [], 'date': [], 'text': [], 'source': [],
-			'coordinates': [], 'hashtags': []}
+data = {'user': [], 'date': [], 'text': [], 'source': [],
+		'coordinates': [], 'language': [], 'hashtags': []}
 
 # Redefine StreamListener class
 class StreamListener(TwythonStreamer):
@@ -18,12 +18,12 @@ class StreamListener(TwythonStreamer):
 		global counter
 		if counter < target and 'lang' in status and status['lang'] == 'en':
 			# Take only what we want from the results
-			data['id'].append(status['id_str'])
 			data['user'].append(status['user']['screen_name'])
 			data['date'].append(status['created_at'])
 			data['text'].append(status['text'])
 			data['source'].append(status['source'])
 			data['coordinates'].append(status['coordinates'])
+			data['language'].append(status['lang'])
 			data['hashtags'].append(status['entities']['hashtags'])
 			counter += 1
 			# Print progress every 25 tweets.

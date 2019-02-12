@@ -18,15 +18,15 @@ def connect(credentialsPath):
 
 
 def dataToTable(data):
-	tweets = {'id': [], 'user': [], 'date': [], 'text': [], 'source': [],
-			'coordinates': [], 'hashtags': []}
+	tweets = {'user': [], 'date': [], 'text': [], 'source': [],
+			'coordinates': [], 'language': [], 'hashtags': []}
 	for status in data['statuses']:
-		tweets['id'].append(status['id_str'])
 		tweets['user'].append(status['user']['screen_name'])
 		tweets['date'].append(status['created_at'])
-		tweets['text'].append(status['text'])
+		tweets['text'].append(status['full_text'])
 		tweets['source'].append(status['source'])
 		tweets['coordinates'].append(status['coordinates'])
+		tweets['language'].append(status['lang'])
 		tweets['hashtags'].append(status['entities']['hashtags'])
 	return tweets
 
@@ -38,12 +38,12 @@ def dataToObjectArray(data):
 	for status in data['statuses']:
 		# Take only what we want from the results
 		twt = {}
-		twt['id'] = status['id_str']
 		twt['user'] = status['user']['screen_name']
 		twt['date'] = status['created_at']
-		twt['text'] = status['text']
+		twt['text'] = status['full_text']
 		twt['source'] = status['source']
 		twt['coordinates'] = status['coordinates']
+		twt['language'] = status['lang']
 		twt['hashtags'] = status['entities']['hashtags']
 		tweets.append(twt)
 	return tweets
@@ -57,7 +57,7 @@ def searchTweets(credentialsPath, query, resultType, maxCount, outfileJSON,
 
 	print('\nBeginning search...')
 	results = twitter.search(q=query, result_type=resultType,
-		count=str(maxCount), lang='en')
+		count=str(maxCount), lang='en', tweet_mode='extended')
 	print('Search complete.')
 
 	data = dataToTable(results)
