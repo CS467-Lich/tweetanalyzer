@@ -1,0 +1,2322 @@
+{
+    "user": [
+        "Suhail",
+        "CaseyNewton",
+        "kirstenkorosec",
+        "Slingshotters",
+        "tmcguire_zona",
+        "Startup_Nerd",
+        "ryanlawler",
+        "kalesalad",
+        "GlitterLabs",
+        "mrbowers",
+        "jacoxnet",
+        "andreasklinger",
+        "startup_brian",
+        "Keffy",
+        "dius_au",
+        "keepcliming",
+        "aklimbovskaia",
+        "troutish",
+        "TheAfricaMentor",
+        "waichi3",
+        "ceigateway",
+        "roopak999",
+        "ysaw",
+        "rishi_mishra84",
+        "twostepsfrmhell",
+        "RobbyWestover",
+        "pkralle",
+        "pkralle",
+        "mpnack",
+        "samjmintz",
+        "ClaraJeffery",
+        "smashpro1",
+        "LeanStartupSyd",
+        "RustJpKinokoSrv",
+        "anthonybrown",
+        "ZumiFi",
+        "bitsonlinecom",
+        "jandrewc",
+        "JGuthmann",
+        "okocha_chika",
+        "JosephPAlbanese",
+        "MalaikaAmina",
+        "Sam_L_Shead",
+        "Riley_Bruce",
+        "Empire_Names",
+        "CMichelleRay",
+        "OIGTitle",
+        "mpawlo",
+        "ValerieABossman",
+        "Empire_Names",
+        "chrissyfarr",
+        "FrooseNutrition",
+        "estarianne",
+        "Beach_Traveler",
+        "codervox",
+        "into_AI",
+        "_CarolinaBeach",
+        "_cynar",
+        "64by4",
+        "dogunderwater",
+        "hackernews_nn",
+        "saasclubio",
+        "OzanErbil10",
+        "lynnlaaa",
+        "rob_toole",
+        "jcafesin",
+        "hispanicpro",
+        "MattH",
+        "GeeksViral",
+        "AIiExpress",
+        "stefbirb",
+        "mat",
+        "TechnicallyPHL",
+        "aleksandrdotus",
+        "emenesesb",
+        "Vacayo_Tech",
+        "GigawattConduit",
+        "codervox",
+        "WeAreTheTempest",
+        "Startup365_fr",
+        "dirktherabbit",
+        "iamjony94",
+        "FoundingSyd",
+        "feelypiano",
+        "codervox",
+        "MalaikaAmina",
+        "hailaioverlords",
+        "EverLearnTweets",
+        "GISTNetwork",
+        "WebSummitBot",
+        "matthewsbunch",
+        "Daimler",
+        "ScalingRetail",
+        "AllStartupJobs",
+        "jay_wyatt",
+        "levie",
+        "InfoProNetwork",
+        "KUOW",
+        "georgelevy",
+        "StartupDailyANZ"
+    ],
+    "date": [
+        "Wed Feb 06 08:51:12 +0000 2019",
+        "Thu Feb 07 23:53:31 +0000 2019",
+        "Thu Feb 07 16:05:48 +0000 2019",
+        "Fri Feb 08 00:04:02 +0000 2019",
+        "Fri Feb 08 00:04:00 +0000 2019",
+        "Fri Feb 08 00:04:00 +0000 2019",
+        "Fri Feb 08 00:03:58 +0000 2019",
+        "Fri Feb 08 00:03:58 +0000 2019",
+        "Fri Feb 08 00:03:56 +0000 2019",
+        "Fri Feb 08 00:03:55 +0000 2019",
+        "Fri Feb 08 00:03:53 +0000 2019",
+        "Fri Feb 08 00:03:53 +0000 2019",
+        "Fri Feb 08 00:03:47 +0000 2019",
+        "Fri Feb 08 00:03:45 +0000 2019",
+        "Fri Feb 08 00:03:41 +0000 2019",
+        "Fri Feb 08 00:03:34 +0000 2019",
+        "Fri Feb 08 00:03:08 +0000 2019",
+        "Fri Feb 08 00:03:06 +0000 2019",
+        "Fri Feb 08 00:03:05 +0000 2019",
+        "Fri Feb 08 00:03:01 +0000 2019",
+        "Fri Feb 08 00:03:00 +0000 2019",
+        "Fri Feb 08 00:03:00 +0000 2019",
+        "Fri Feb 08 00:03:00 +0000 2019",
+        "Fri Feb 08 00:02:55 +0000 2019",
+        "Fri Feb 08 00:02:51 +0000 2019",
+        "Fri Feb 08 00:02:47 +0000 2019",
+        "Fri Feb 08 00:02:44 +0000 2019",
+        "Fri Feb 08 00:02:42 +0000 2019",
+        "Fri Feb 08 00:02:38 +0000 2019",
+        "Fri Feb 08 00:02:36 +0000 2019",
+        "Fri Feb 08 00:02:34 +0000 2019",
+        "Fri Feb 08 00:02:24 +0000 2019",
+        "Fri Feb 08 00:02:22 +0000 2019",
+        "Fri Feb 08 00:02:19 +0000 2019",
+        "Fri Feb 08 00:02:07 +0000 2019",
+        "Fri Feb 08 00:02:01 +0000 2019",
+        "Fri Feb 08 00:02:01 +0000 2019",
+        "Fri Feb 08 00:02:00 +0000 2019",
+        "Fri Feb 08 00:01:59 +0000 2019",
+        "Fri Feb 08 00:01:57 +0000 2019",
+        "Fri Feb 08 00:01:56 +0000 2019",
+        "Fri Feb 08 00:01:42 +0000 2019",
+        "Fri Feb 08 00:01:41 +0000 2019",
+        "Fri Feb 08 00:01:40 +0000 2019",
+        "Fri Feb 08 00:01:38 +0000 2019",
+        "Fri Feb 08 00:01:37 +0000 2019",
+        "Fri Feb 08 00:01:34 +0000 2019",
+        "Fri Feb 08 00:01:24 +0000 2019",
+        "Fri Feb 08 00:01:24 +0000 2019",
+        "Fri Feb 08 00:01:19 +0000 2019",
+        "Fri Feb 08 00:01:18 +0000 2019",
+        "Fri Feb 08 00:01:18 +0000 2019",
+        "Fri Feb 08 00:01:16 +0000 2019",
+        "Fri Feb 08 00:01:15 +0000 2019",
+        "Fri Feb 08 00:01:15 +0000 2019",
+        "Fri Feb 08 00:01:14 +0000 2019",
+        "Fri Feb 08 00:01:10 +0000 2019",
+        "Fri Feb 08 00:01:09 +0000 2019",
+        "Fri Feb 08 00:01:06 +0000 2019",
+        "Fri Feb 08 00:00:59 +0000 2019",
+        "Fri Feb 08 00:00:58 +0000 2019",
+        "Fri Feb 08 00:00:55 +0000 2019",
+        "Fri Feb 08 00:00:54 +0000 2019",
+        "Fri Feb 08 00:00:54 +0000 2019",
+        "Fri Feb 08 00:00:53 +0000 2019",
+        "Fri Feb 08 00:00:51 +0000 2019",
+        "Fri Feb 08 00:00:45 +0000 2019",
+        "Fri Feb 08 00:00:41 +0000 2019",
+        "Fri Feb 08 00:00:38 +0000 2019",
+        "Fri Feb 08 00:00:37 +0000 2019",
+        "Fri Feb 08 00:00:36 +0000 2019",
+        "Fri Feb 08 00:00:35 +0000 2019",
+        "Fri Feb 08 00:00:35 +0000 2019",
+        "Fri Feb 08 00:00:33 +0000 2019",
+        "Fri Feb 08 00:00:33 +0000 2019",
+        "Fri Feb 08 00:00:33 +0000 2019",
+        "Fri Feb 08 00:00:33 +0000 2019",
+        "Fri Feb 08 00:00:30 +0000 2019",
+        "Fri Feb 08 00:00:29 +0000 2019",
+        "Fri Feb 08 00:00:29 +0000 2019",
+        "Fri Feb 08 00:00:29 +0000 2019",
+        "Fri Feb 08 00:00:27 +0000 2019",
+        "Fri Feb 08 00:00:26 +0000 2019",
+        "Fri Feb 08 00:00:24 +0000 2019",
+        "Fri Feb 08 00:00:23 +0000 2019",
+        "Fri Feb 08 00:00:21 +0000 2019",
+        "Fri Feb 08 00:00:19 +0000 2019",
+        "Fri Feb 08 00:00:10 +0000 2019",
+        "Fri Feb 08 00:00:10 +0000 2019",
+        "Fri Feb 08 00:00:10 +0000 2019",
+        "Fri Feb 08 00:00:10 +0000 2019",
+        "Fri Feb 08 00:00:09 +0000 2019",
+        "Fri Feb 08 00:00:07 +0000 2019",
+        "Fri Feb 08 00:00:04 +0000 2019",
+        "Fri Feb 08 00:00:03 +0000 2019",
+        "Fri Feb 08 00:00:01 +0000 2019",
+        "Fri Feb 08 00:00:01 +0000 2019",
+        "Fri Feb 08 00:00:00 +0000 2019",
+        "Fri Feb 08 00:00:00 +0000 2019",
+        "Fri Feb 08 00:00:00 +0000 2019"
+    ],
+    "text": [
+        "I cannot urge early stage startups enough to make a model of their unit economics. It is so telling what will likely cause great, early pain in your startup in the first 5 years. It\u2019ll keep you honest &amp; let you test the accuracy of your intuition. Buffer for the unknown.",
+        "Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man, that stretches to the very highest levels of the United States government. Therefore,",
+        "This just in .... Amazon, Sequoia invest in self-driving car startup Aurora (more than $530M, valuation gets close to $2.5 billion) https://t.co/8oT8llC0D1 via @techcrunch",
+        "In the eyes of a Startup,  should they work with a Corporate or raise capital? \nhttps://t.co/dBZktOhRHf",
+        "RT @azengineering: The FREE @McGuireCenter Innovation Expo next Thursday will feature 24 student startup teams (including 2 w/ #ENGRCats\ud83d\ude3a m\u2026",
+        "RT @PersonalAutoDM: RT @_kevinlim: How to Grow your #Brand with #Reddit:\n- Get Involved In Your Community\n- Keep Up To Date With Your Indus\u2026",
+        "@panzer I\u2019ll never forget the time Marty Singer called threatening to sue me for publishing a story about the startup guy who ripped off his friends by lying to them about investing in his company and not paying for private charter jets",
+        "RT @alanna: a startup that sends you five jackets of varying weights and texts you each morning to tell you which one to wear for the nonse\u2026",
+        "Amazon, Sequoia invest in self-driving car startup Aurora https://t.co/TIZ09n0T2D",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "@dhh most likely a stupid question - very little experience with us tax law:\n\n- is the 70% bracket only on income?\n- are startup exits taxed as income or capital gains (or something else)?",
+        "RT @keisha09673148: I'm walking away from the democrat party. I see now that they never cared about black they just care about the votes. I\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @richcelm: Looking for something to do at @PauseFest 2moro morning?@sbcEnergyAus CEO @trevortownsend talk #Startup #Funding &amp; life after\u2026",
+        "RT @iamjony94: 61 of the Best Marketing Tools to Build Your Strategy in 2019 https://t.co/7Fz7WUddq0 #socialmedia #digitalmarketing #conten\u2026",
+        "RT @adamnanjee: It\u2019s extra special when a startup builds their platform to provide #diversity and #inclusion insights as core value prop -\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "7 things you need to know today\u00a0\u00a0Cape Business News Business sentiment weakened in January, with executives painting a more realistic outlook compared with the euphoria that swept the market when President ... https://t.co/6gd1Mi0IZj via @theafricamentor #africabiz #startup https://t.co/E3Nlw8Ly3L",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "Hey @mcccd student entrepreneurs! Don't miss your chance to rep your campus at The Big Pitch this Spring Break! You could win $20K in biz prizes + get the startup education needed for success.  https://t.co/eLUfJdoeCm https://t.co/cJg2VTWS6O",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @TimesandTech: This meditation and wellness app is now valued over $1 billion. #tech #app #startup #investment #money #market #business\u2026",
+        "RT @DiaryofaMadeMan: Top 20 reasons startups fail, based on an analysis of 101 startup post-mortems. #Startups #Entrepreneurship https://t.\u2026",
+        "RT @NCStateAlumni: Founded by @NCState alumni, Medicom aims to address health care providers\u2019 inability to access a patient\u2019s imaging histo\u2026",
+        "RT @FoundingSyd: #Sydney #Australia #startupAUS https://t.co/wcJR2pJVEM WEDNESDAY FEB 13, 2019, 6pm @founding #fiworldwide #Founder Institu\u2026",
+        "RT @LeanStartupSyd: #Sydney #Lean #Startup #Meetup\n Thursday 14th of February 2019 5:30pm @LeanStartupSyd\n#LeanStartupSyd @Pivotal, 11th fl\u2026",
+        "RT @jeff_schumann: Writing your values on a wall or pretty slide, means nothing if you don't actually live by them and find ways to invest\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @FoundingSyd: #Sydney #Australia #startupAUS https://t.co/wcJR2pJVEM WEDNESDAY FEB 13, 2019, 6pm @founding #fiworldwide #Founder Institu\u2026",
+        "Server startup complete",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "I\u2019ve Started My Own Business, Now What? https://t.co/ZyomIbMNao #startup #Entrepreneurship https://t.co/5eAFXERVUX",
+        "Russian Startup Develops Blockchain Solution for the Diamond Industry - #Russia #Stablecoin #Supplychain #management #blockchain #crypto #business #Bitcarat #diamonds https://t.co/IJbExP49YG",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @Quark_Chain: Happy to be selected as one of the 10 Growth #Startups. See you all at Startup Grind Conference! #SGGlobal #blockchain #Qu\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @iamjony94: 61 of the Best Marketing Tools to Build Your Strategy in 2019 https://t.co/7Fz7WUddq0 #socialmedia #digitalmarketing #conten\u2026",
+        "RT @TechCrunch: Update: Amazon quietly acquired robotics company Dispatch to build Scout https://t.co/QMeC1M9egX",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @Brandunix: https://t.co/OubQfyyljS is a startup #business_name for sale on #BrandBucket. A scientific name that invites the future. htt\u2026",
+        "They are angry. \"But anger not enough.\" Three women will take back their life, make people experience BLISS. A home &amp; bath fragrance company. \nLIKE THE FIRST TIME by @Francis_Ray\nhttps://t.co/KJS6wBfCy9 #book #Nook #friendship #romance #startup",
+        "Renter-focused insurance startup Jetty raises $25 million https://t.co/rTWTO3OMmd",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @Angela_Awuah: I\u2019m looking forward to thinking about ways of collaborating research with @mh_thearts. Making it practical for our young\u2026",
+        "RT @Brandunix: https://t.co/QtGcqt9ii4 is a startup #business_name for sale on #BrandBucket. This catchy brand seems to be a mashup of \"tur\u2026",
+        "I joined in @vida for their 3pm \u201cplank off.\u201d Gotta sweat for journalism. #health #startup #culture https://t.co/ExcSDekmJq",
+        "Liking the @GromaineFarm #podcast, an #organicfarming #startup in ME committed sustainability https://t.co/k76xNdGgl9 https://t.co/QedccIQsQN",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "Renter-focused insurance startup Jetty raises $25 million https://t.co/a162v1ulUC",
+        "RT @codervox: Learn to Code From the Comfort of Home https://t.co/oGgjDxiyuX #tech #code #app #apps  #webdev #webdesign #entrepreneur #star\u2026",
+        "Experienced Technical Writer Machine Learning Startup 100% Remote - Experienced Technical Writer M https://t.co/2OW7300XxJ #machine-learning",
+        "Renter-focused insurance startup Jetty raises $25 million https://t.co/bsOfbArTXX",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @TechXplore_com: Amazon invests in #self-driving #car startup Aurora https://t.co/090ymfSVp3",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "Neutrino - RabbitMQ for Love on IPO\n\nAustralian history\n\nHow I Increased Online Courses from Startup Acquisition",
+        "How #App Store Frustration Helped Make Over $100,000 a Month @rganguly #startup #growthhacking   https://t.co/gySsSiwVlU",
+        "RT @Daimler: Sometimes you'd wish to just fly away from rush hour traffic... Daimler-backed #startup @Volocopter will be performing inner u\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @kona_hr: I've Interviewed 300 High Achievers About Their Morning Routines. Here's What I've Learned.  #humanresources #startup #hr #man\u2026",
+        "@calottery If U don't win #Lottery, at least you can start your own #startup! #Mompreneurs and #Entrepreneurs, learn how to turn your ideas into offerings for profit in 3 workbooks, ground up, step-by-step: https://t.co/j5n27XBDCi https://t.co/zV30bUMhP4",
+        "Every business needs capital and customers. Attend the Madison Business  Growth Bootcamp and learn how to get both &gt;&gt; https://t.co/0MAh4v1Unm #Wisconsin #startup #funding #smallbiz #DaneCounty #WI @Latino_Chamber @RoiBizFunding #HispanicPro #Milwaukee #MKE https://t.co/vpZglCdASV",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "\ud83c\udf08Be colourful with Viral Geeks.\n #marketing #socialmediamarketing #business #entrepreneur #digitalmarketing #branding #smallbusiness #instagram #inspiration #contentmarketing #socialmediatips #motivation #startup #girlboss #success #onlinemarketing #design #instagood https://t.co/fl0wD4Npxw",
+        "RT @TechCrunch: Update: Amazon quietly acquired robotics company Dispatch to build Scout https://t.co/QMeC1M9egX",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "#TBT: Hey @venmo, remember when you were based out of Rittenhouse Square? https://t.co/TeEOY38PtS https://t.co/3jNNn3szkw",
+        "\ud83d\udc49 Crowdfunding soon? Submit your startup project for a chance to be featured. https://t.co/p3EeEwesGP #startupweek #kickstarter #indiegogo",
+        "5 Criteria Young Professionals Should Use To Choose A Cybersecurity Startup https://t.co/HDyWkp0NfD https://t.co/ll3ImDGi9F",
+        "ANOTHER OPTION FOR SELLERS IN A BUYER\u2019S MARKET\n#Travel #startuplife #hustle #sidehustle #designstudio #gigeconomy #homeowner #vacayo #startup #startups #superhost #designstudio #homeownership #startup #startups #proptech #realestate #fintech #landlord \nhttps://t.co/L6DxVBz4Yu https://t.co/rHcTYwtBlf",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "RT @codervox: Learn to Code https://t.co/xR11aer9vB   #tech #code #app #apps #webdev #webdesign #entrepreneur #startup #code #programming #\u2026",
+        "RT @saralmarshall13: GIVEAWAY! + Trolls, social media, and a startup: Meet the two women who took social media into their own hands https:/\u2026",
+        "The 5 Hidden Costs of Building a Mobile App: https://t.co/WWtJUjZkAA #entrepreneurship #smallbiz #entrepreneurs #appli #app #mobile #startup",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "61 of the Best Marketing Tools to Build Your Strategy in 2019 https://t.co/7Fz7WUddq0 #socialmedia #digitalmarketing #contentmarketing #growthhacking #startup #SEO #marketing #blogging #infographic #deeplearning #ai #machinelearning #bigdata #datascience #fintech https://t.co/yygoML6mzh",
+        "#Sydney #Australia #startupAUS https://t.co/wcJR2pJVEM WEDNESDAY FEB 13, 2019, 6pm @founding #fiworldwide #Founder Institute VIP Launch Mixer: As the Sydney semester starts soon, join us at this event to meet the #Mentors, Directors, &amp; local Graduates who will take part. #startup https://t.co/IHcDaoSTyE",
+        "Have you ever been on TV?  We're talking about our new website and booking platform in City of Brantford.  https://t.co/IFv6hi5kcR\n\nLaunching in time for our #valentinesday2019 concert  the Kitchener Public Library \n\n#india #startup #founder #music #piano #jobs #brantford\u2026 https://t.co/bucV0yyOwx",
+        "RT @codervox: Software Developing is the Best Job of 2019 https://t.co/xR11aer9vB    #tech #code #app #apps #webdev #webdesign #entrepreneu\u2026",
+        "RT @iamjony94: Why You Need to Think Outside the Box https://t.co/3E5WZ3zFHp #socialmedia #digitalmarketing #contentmarketing #startup #SEO\u2026",
+        "RT @BenjaminDeMers: AI and ML latest news: NewRelic acquires startup SignifAI to bring 'applied intelligence' to DevOps - https://t.co/Gvsy\u2026",
+        "RT @EverLearnTweets: Science Says You Need To Have Fun At Work, So Here Are 3 Ways To Have Productive Fun! #business #startup #leaders  htt\u2026",
+        "We can make you a successful STEM investor! Join @GISTNetwork and #SizzleScience for our second #GISTInvestors training in #Malaysia. Learn how to support STEM startups and build a healthy startup ecosystem in Southeast Asia. Register with this link: https://t.co/sFo8MeDUzQ https://t.co/DZH4MFO1GK",
+        "RT @RadixRegistry: What if we told you that your startup can get sponsorship to attend the top conferences and events? Know more. #WebSummi\u2026",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "Sometimes you'd wish to just fly away from rush hour traffic... Daimler-backed #startup @Volocopter will be performing inner urban flight tests in Singapore, starting in the second half of 2019.\nMore on #autonomous air-taxis \ud83d\udc49 https://t.co/LwxveHRdm2 #Daimler #MobilityService https://t.co/i6U8EGoRw7",
+        "Start a company you can emotionally invest in from the get-go. It will help you stay driven through peaks and valleys on the road to success.\nFind out more about the right entrepreneurial mindset for your fashion startup.\nWatch here: https://t.co/YnX37EI4rD\nImage: @farfetch #ceo https://t.co/4OAqbWSidT",
+        ".@spotify is hiring \ud83d\udc49  Data Scientist, Licensing Operations (New York) https://t.co/uvWkyYImiM",
+        "RT @imoyse: DDoS Mitigation Pioneer Launches Network Security Startup https://t.co/C4ybmOAvLM https://t.co/IbFLU66mzn",
+        "RT @CaseyNewton: Medium 2015: This is why my startup failed\n\nMedium 2019: Recently I learned of a plot against me, the world\u2019s richest man,\u2026",
+        "IAM Platform Curated Retweet:\n\nVia: https://t.co/sl7HTKoe5J\n\nDon't miss out! Our CEO will be there!\ud83d\udca5\ud83d\udca5\ud83d\udca5 \n\n#blockchain #cryptocurrency #fintech #startup #wellness #sehat #talkshow #meetup #investasi\n\n#IAMPlatform\n#TopInfluence\n#CryptoCurrency",
+        "Addiction recovery aided by smartphone? A Seattle startup built an app for that to support the daily struggle millions face to stay clean and sober.\n\nhttps://t.co/xiGebkjDP6",
+        "First Techstars Blockchain Accelerator Program Participants Announced -- #Blockchain #Investments #Business #Cryptocurrency #startup @techstars @Embleema @VeracityProtocl @GildedFinance @neondistrictRPG  via @ianedws @bitsonlinecom  https://t.co/k3GmXhqhEi",
+        "Plann is helping businesses grow through the perfect Instagram feed: https://t.co/r3RPq6GeTh"
+    ],
+    "source": [
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://discussionexpress.com\" rel=\"nofollow\">Information Critical</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://discussionexpress.com\" rel=\"nofollow\">wallsapi</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://into.AI\" rel=\"nofollow\">into.AI</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"http://minimaxir.com\" rel=\"nofollow\">HN RNN</a>",
+        "<a href=\"https://socialpost.cc/\" rel=\"nofollow\">SocialPost App</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+        "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://discussionexpress.com\" rel=\"nofollow\">wallsapi</a>",
+        "<a href=\"http://www.danielhkent.com/hailaioverlords\" rel=\"nofollow\">hailaioverlords</a>",
+        "<a href=\"https://socialbee.io/\" rel=\"nofollow\">SocialBee.io v2</a>",
+        "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "<a href=\"http://broconut.com/websummit/init.php\" rel=\"nofollow\">Web Summit Bot</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"https://twitter.facelift-cloud.com\" rel=\"nofollow\">Facelift Cloud</a>",
+        "<a href=\"https://www.loomly.com/\" rel=\"nofollow\">Loomly</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
+    ],
+    "coordinates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "language": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "hashtags": [
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "ENGRCats",
+                "indices": [
+                    127,
+                    136
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Brand",
+                "indices": [
+                    52,
+                    58
+                ]
+            },
+            {
+                "text": "Reddit",
+                "indices": [
+                    64,
+                    71
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Startup",
+                "indices": [
+                    109,
+                    117
+                ]
+            },
+            {
+                "text": "Funding",
+                "indices": [
+                    118,
+                    126
+                ]
+            }
+        ],
+        [
+            {
+                "text": "socialmedia",
+                "indices": [
+                    101,
+                    113
+                ]
+            },
+            {
+                "text": "digitalmarketing",
+                "indices": [
+                    114,
+                    131
+                ]
+            }
+        ],
+        [
+            {
+                "text": "diversity",
+                "indices": [
+                    83,
+                    93
+                ]
+            },
+            {
+                "text": "inclusion",
+                "indices": [
+                    98,
+                    108
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "africabiz",
+                "indices": [
+                    255,
+                    265
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    266,
+                    274
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "tech",
+                "indices": [
+                    82,
+                    87
+                ]
+            },
+            {
+                "text": "app",
+                "indices": [
+                    88,
+                    92
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    93,
+                    101
+                ]
+            },
+            {
+                "text": "investment",
+                "indices": [
+                    102,
+                    113
+                ]
+            },
+            {
+                "text": "money",
+                "indices": [
+                    114,
+                    120
+                ]
+            },
+            {
+                "text": "market",
+                "indices": [
+                    121,
+                    128
+                ]
+            },
+            {
+                "text": "business",
+                "indices": [
+                    129,
+                    138
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Startups",
+                "indices": [
+                    101,
+                    110
+                ]
+            },
+            {
+                "text": "Entrepreneurship",
+                "indices": [
+                    111,
+                    128
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "Sydney",
+                "indices": [
+                    17,
+                    24
+                ]
+            },
+            {
+                "text": "Australia",
+                "indices": [
+                    25,
+                    35
+                ]
+            },
+            {
+                "text": "startupAUS",
+                "indices": [
+                    36,
+                    47
+                ]
+            },
+            {
+                "text": "fiworldwide",
+                "indices": [
+                    110,
+                    122
+                ]
+            },
+            {
+                "text": "Founder",
+                "indices": [
+                    123,
+                    131
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Sydney",
+                "indices": [
+                    20,
+                    27
+                ]
+            },
+            {
+                "text": "Lean",
+                "indices": [
+                    28,
+                    33
+                ]
+            },
+            {
+                "text": "Startup",
+                "indices": [
+                    34,
+                    42
+                ]
+            },
+            {
+                "text": "Meetup",
+                "indices": [
+                    43,
+                    50
+                ]
+            },
+            {
+                "text": "LeanStartupSyd",
+                "indices": [
+                    106,
+                    121
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Sydney",
+                "indices": [
+                    17,
+                    24
+                ]
+            },
+            {
+                "text": "Australia",
+                "indices": [
+                    25,
+                    35
+                ]
+            },
+            {
+                "text": "startupAUS",
+                "indices": [
+                    36,
+                    47
+                ]
+            },
+            {
+                "text": "fiworldwide",
+                "indices": [
+                    110,
+                    122
+                ]
+            },
+            {
+                "text": "Founder",
+                "indices": [
+                    123,
+                    131
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "startup",
+                "indices": [
+                    64,
+                    72
+                ]
+            },
+            {
+                "text": "Entrepreneurship",
+                "indices": [
+                    73,
+                    90
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Russia",
+                "indices": [
+                    72,
+                    79
+                ]
+            },
+            {
+                "text": "Stablecoin",
+                "indices": [
+                    80,
+                    91
+                ]
+            },
+            {
+                "text": "Supplychain",
+                "indices": [
+                    92,
+                    104
+                ]
+            },
+            {
+                "text": "management",
+                "indices": [
+                    105,
+                    116
+                ]
+            },
+            {
+                "text": "blockchain",
+                "indices": [
+                    117,
+                    128
+                ]
+            },
+            {
+                "text": "crypto",
+                "indices": [
+                    129,
+                    136
+                ]
+            },
+            {
+                "text": "business",
+                "indices": [
+                    137,
+                    146
+                ]
+            },
+            {
+                "text": "Bitcarat",
+                "indices": [
+                    147,
+                    156
+                ]
+            },
+            {
+                "text": "diamonds",
+                "indices": [
+                    157,
+                    166
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "Startups",
+                "indices": [
+                    62,
+                    71
+                ]
+            },
+            {
+                "text": "SGGlobal",
+                "indices": [
+                    114,
+                    123
+                ]
+            },
+            {
+                "text": "blockchain",
+                "indices": [
+                    124,
+                    135
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "socialmedia",
+                "indices": [
+                    101,
+                    113
+                ]
+            },
+            {
+                "text": "digitalmarketing",
+                "indices": [
+                    114,
+                    131
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "business_name",
+                "indices": [
+                    52,
+                    66
+                ]
+            },
+            {
+                "text": "BrandBucket",
+                "indices": [
+                    79,
+                    91
+                ]
+            }
+        ],
+        [
+            {
+                "text": "book",
+                "indices": [
+                    207,
+                    212
+                ]
+            },
+            {
+                "text": "Nook",
+                "indices": [
+                    213,
+                    218
+                ]
+            },
+            {
+                "text": "friendship",
+                "indices": [
+                    219,
+                    230
+                ]
+            },
+            {
+                "text": "romance",
+                "indices": [
+                    231,
+                    239
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    240,
+                    248
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "business_name",
+                "indices": [
+                    52,
+                    66
+                ]
+            },
+            {
+                "text": "BrandBucket",
+                "indices": [
+                    79,
+                    91
+                ]
+            }
+        ],
+        [
+            {
+                "text": "health",
+                "indices": [
+                    73,
+                    80
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    81,
+                    89
+                ]
+            },
+            {
+                "text": "culture",
+                "indices": [
+                    90,
+                    98
+                ]
+            }
+        ],
+        [
+            {
+                "text": "podcast",
+                "indices": [
+                    25,
+                    33
+                ]
+            },
+            {
+                "text": "organicfarming",
+                "indices": [
+                    38,
+                    53
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    54,
+                    62
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "tech",
+                "indices": [
+                    77,
+                    82
+                ]
+            },
+            {
+                "text": "code",
+                "indices": [
+                    83,
+                    88
+                ]
+            },
+            {
+                "text": "app",
+                "indices": [
+                    89,
+                    93
+                ]
+            },
+            {
+                "text": "apps",
+                "indices": [
+                    94,
+                    99
+                ]
+            },
+            {
+                "text": "webdev",
+                "indices": [
+                    101,
+                    108
+                ]
+            },
+            {
+                "text": "webdesign",
+                "indices": [
+                    109,
+                    119
+                ]
+            },
+            {
+                "text": "entrepreneur",
+                "indices": [
+                    120,
+                    133
+                ]
+            }
+        ],
+        [
+            {
+                "text": "machine",
+                "indices": [
+                    123,
+                    131
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "self",
+                "indices": [
+                    38,
+                    43
+                ]
+            },
+            {
+                "text": "car",
+                "indices": [
+                    52,
+                    56
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "App",
+                "indices": [
+                    4,
+                    8
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    71,
+                    79
+                ]
+            },
+            {
+                "text": "growthhacking",
+                "indices": [
+                    80,
+                    94
+                ]
+            }
+        ],
+        [
+            {
+                "text": "startup",
+                "indices": [
+                    92,
+                    100
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "humanresources",
+                "indices": [
+                    106,
+                    121
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    122,
+                    130
+                ]
+            },
+            {
+                "text": "hr",
+                "indices": [
+                    131,
+                    134
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Lottery",
+                "indices": [
+                    26,
+                    34
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    68,
+                    76
+                ]
+            },
+            {
+                "text": "Mompreneurs",
+                "indices": [
+                    78,
+                    90
+                ]
+            },
+            {
+                "text": "Entrepreneurs",
+                "indices": [
+                    95,
+                    109
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Wisconsin",
+                "indices": [
+                    148,
+                    158
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    159,
+                    167
+                ]
+            },
+            {
+                "text": "funding",
+                "indices": [
+                    168,
+                    176
+                ]
+            },
+            {
+                "text": "smallbiz",
+                "indices": [
+                    177,
+                    186
+                ]
+            },
+            {
+                "text": "DaneCounty",
+                "indices": [
+                    187,
+                    198
+                ]
+            },
+            {
+                "text": "WI",
+                "indices": [
+                    199,
+                    202
+                ]
+            },
+            {
+                "text": "HispanicPro",
+                "indices": [
+                    234,
+                    246
+                ]
+            },
+            {
+                "text": "Milwaukee",
+                "indices": [
+                    247,
+                    257
+                ]
+            },
+            {
+                "text": "MKE",
+                "indices": [
+                    258,
+                    262
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "marketing",
+                "indices": [
+                    33,
+                    43
+                ]
+            },
+            {
+                "text": "socialmediamarketing",
+                "indices": [
+                    44,
+                    65
+                ]
+            },
+            {
+                "text": "business",
+                "indices": [
+                    66,
+                    75
+                ]
+            },
+            {
+                "text": "entrepreneur",
+                "indices": [
+                    76,
+                    89
+                ]
+            },
+            {
+                "text": "digitalmarketing",
+                "indices": [
+                    90,
+                    107
+                ]
+            },
+            {
+                "text": "branding",
+                "indices": [
+                    108,
+                    117
+                ]
+            },
+            {
+                "text": "smallbusiness",
+                "indices": [
+                    118,
+                    132
+                ]
+            },
+            {
+                "text": "instagram",
+                "indices": [
+                    133,
+                    143
+                ]
+            },
+            {
+                "text": "inspiration",
+                "indices": [
+                    144,
+                    156
+                ]
+            },
+            {
+                "text": "contentmarketing",
+                "indices": [
+                    157,
+                    174
+                ]
+            },
+            {
+                "text": "socialmediatips",
+                "indices": [
+                    175,
+                    191
+                ]
+            },
+            {
+                "text": "motivation",
+                "indices": [
+                    192,
+                    203
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    204,
+                    212
+                ]
+            },
+            {
+                "text": "girlboss",
+                "indices": [
+                    213,
+                    222
+                ]
+            },
+            {
+                "text": "success",
+                "indices": [
+                    223,
+                    231
+                ]
+            },
+            {
+                "text": "onlinemarketing",
+                "indices": [
+                    232,
+                    248
+                ]
+            },
+            {
+                "text": "design",
+                "indices": [
+                    249,
+                    256
+                ]
+            },
+            {
+                "text": "instagood",
+                "indices": [
+                    257,
+                    267
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "TBT",
+                "indices": [
+                    0,
+                    4
+                ]
+            }
+        ],
+        [
+            {
+                "text": "startupweek",
+                "indices": [
+                    102,
+                    114
+                ]
+            },
+            {
+                "text": "kickstarter",
+                "indices": [
+                    115,
+                    127
+                ]
+            },
+            {
+                "text": "indiegogo",
+                "indices": [
+                    128,
+                    138
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "Travel",
+                "indices": [
+                    47,
+                    54
+                ]
+            },
+            {
+                "text": "startuplife",
+                "indices": [
+                    55,
+                    67
+                ]
+            },
+            {
+                "text": "hustle",
+                "indices": [
+                    68,
+                    75
+                ]
+            },
+            {
+                "text": "sidehustle",
+                "indices": [
+                    76,
+                    87
+                ]
+            },
+            {
+                "text": "designstudio",
+                "indices": [
+                    88,
+                    101
+                ]
+            },
+            {
+                "text": "gigeconomy",
+                "indices": [
+                    102,
+                    113
+                ]
+            },
+            {
+                "text": "homeowner",
+                "indices": [
+                    114,
+                    124
+                ]
+            },
+            {
+                "text": "vacayo",
+                "indices": [
+                    125,
+                    132
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    133,
+                    141
+                ]
+            },
+            {
+                "text": "startups",
+                "indices": [
+                    142,
+                    151
+                ]
+            },
+            {
+                "text": "superhost",
+                "indices": [
+                    152,
+                    162
+                ]
+            },
+            {
+                "text": "designstudio",
+                "indices": [
+                    163,
+                    176
+                ]
+            },
+            {
+                "text": "homeownership",
+                "indices": [
+                    177,
+                    191
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    192,
+                    200
+                ]
+            },
+            {
+                "text": "startups",
+                "indices": [
+                    201,
+                    210
+                ]
+            },
+            {
+                "text": "proptech",
+                "indices": [
+                    211,
+                    220
+                ]
+            },
+            {
+                "text": "realestate",
+                "indices": [
+                    221,
+                    232
+                ]
+            },
+            {
+                "text": "fintech",
+                "indices": [
+                    233,
+                    241
+                ]
+            },
+            {
+                "text": "landlord",
+                "indices": [
+                    242,
+                    251
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "tech",
+                "indices": [
+                    54,
+                    59
+                ]
+            },
+            {
+                "text": "code",
+                "indices": [
+                    60,
+                    65
+                ]
+            },
+            {
+                "text": "app",
+                "indices": [
+                    66,
+                    70
+                ]
+            },
+            {
+                "text": "apps",
+                "indices": [
+                    71,
+                    76
+                ]
+            },
+            {
+                "text": "webdev",
+                "indices": [
+                    77,
+                    84
+                ]
+            },
+            {
+                "text": "webdesign",
+                "indices": [
+                    85,
+                    95
+                ]
+            },
+            {
+                "text": "entrepreneur",
+                "indices": [
+                    96,
+                    109
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    110,
+                    118
+                ]
+            },
+            {
+                "text": "code",
+                "indices": [
+                    119,
+                    124
+                ]
+            },
+            {
+                "text": "programming",
+                "indices": [
+                    125,
+                    137
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "entrepreneurship",
+                "indices": [
+                    69,
+                    86
+                ]
+            },
+            {
+                "text": "smallbiz",
+                "indices": [
+                    87,
+                    96
+                ]
+            },
+            {
+                "text": "entrepreneurs",
+                "indices": [
+                    97,
+                    111
+                ]
+            },
+            {
+                "text": "appli",
+                "indices": [
+                    112,
+                    118
+                ]
+            },
+            {
+                "text": "app",
+                "indices": [
+                    119,
+                    123
+                ]
+            },
+            {
+                "text": "mobile",
+                "indices": [
+                    124,
+                    131
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    132,
+                    140
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "socialmedia",
+                "indices": [
+                    86,
+                    98
+                ]
+            },
+            {
+                "text": "digitalmarketing",
+                "indices": [
+                    99,
+                    116
+                ]
+            },
+            {
+                "text": "contentmarketing",
+                "indices": [
+                    117,
+                    134
+                ]
+            },
+            {
+                "text": "growthhacking",
+                "indices": [
+                    135,
+                    149
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    150,
+                    158
+                ]
+            },
+            {
+                "text": "SEO",
+                "indices": [
+                    159,
+                    163
+                ]
+            },
+            {
+                "text": "marketing",
+                "indices": [
+                    164,
+                    174
+                ]
+            },
+            {
+                "text": "blogging",
+                "indices": [
+                    175,
+                    184
+                ]
+            },
+            {
+                "text": "infographic",
+                "indices": [
+                    185,
+                    197
+                ]
+            },
+            {
+                "text": "deeplearning",
+                "indices": [
+                    198,
+                    211
+                ]
+            },
+            {
+                "text": "ai",
+                "indices": [
+                    212,
+                    215
+                ]
+            },
+            {
+                "text": "machinelearning",
+                "indices": [
+                    216,
+                    232
+                ]
+            },
+            {
+                "text": "bigdata",
+                "indices": [
+                    233,
+                    241
+                ]
+            },
+            {
+                "text": "datascience",
+                "indices": [
+                    242,
+                    254
+                ]
+            },
+            {
+                "text": "fintech",
+                "indices": [
+                    255,
+                    263
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Sydney",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "text": "Australia",
+                "indices": [
+                    8,
+                    18
+                ]
+            },
+            {
+                "text": "startupAUS",
+                "indices": [
+                    19,
+                    30
+                ]
+            },
+            {
+                "text": "fiworldwide",
+                "indices": [
+                    93,
+                    105
+                ]
+            },
+            {
+                "text": "Founder",
+                "indices": [
+                    106,
+                    114
+                ]
+            },
+            {
+                "text": "Mentors",
+                "indices": [
+                    213,
+                    221
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    276,
+                    284
+                ]
+            }
+        ],
+        [
+            {
+                "text": "valentinesday2019",
+                "indices": [
+                    158,
+                    176
+                ]
+            },
+            {
+                "text": "india",
+                "indices": [
+                    217,
+                    223
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    224,
+                    232
+                ]
+            },
+            {
+                "text": "founder",
+                "indices": [
+                    233,
+                    241
+                ]
+            },
+            {
+                "text": "music",
+                "indices": [
+                    242,
+                    248
+                ]
+            },
+            {
+                "text": "piano",
+                "indices": [
+                    249,
+                    255
+                ]
+            },
+            {
+                "text": "jobs",
+                "indices": [
+                    256,
+                    261
+                ]
+            },
+            {
+                "text": "brantford",
+                "indices": [
+                    262,
+                    272
+                ]
+            }
+        ],
+        [
+            {
+                "text": "tech",
+                "indices": [
+                    85,
+                    90
+                ]
+            },
+            {
+                "text": "code",
+                "indices": [
+                    91,
+                    96
+                ]
+            },
+            {
+                "text": "app",
+                "indices": [
+                    97,
+                    101
+                ]
+            },
+            {
+                "text": "apps",
+                "indices": [
+                    102,
+                    107
+                ]
+            },
+            {
+                "text": "webdev",
+                "indices": [
+                    108,
+                    115
+                ]
+            },
+            {
+                "text": "webdesign",
+                "indices": [
+                    116,
+                    126
+                ]
+            }
+        ],
+        [
+            {
+                "text": "socialmedia",
+                "indices": [
+                    77,
+                    89
+                ]
+            },
+            {
+                "text": "digitalmarketing",
+                "indices": [
+                    90,
+                    107
+                ]
+            },
+            {
+                "text": "contentmarketing",
+                "indices": [
+                    108,
+                    125
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    126,
+                    134
+                ]
+            },
+            {
+                "text": "SEO",
+                "indices": [
+                    135,
+                    139
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "business",
+                "indices": [
+                    107,
+                    116
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    117,
+                    125
+                ]
+            },
+            {
+                "text": "leaders",
+                "indices": [
+                    126,
+                    134
+                ]
+            }
+        ],
+        [
+            {
+                "text": "SizzleScience",
+                "indices": [
+                    66,
+                    80
+                ]
+            },
+            {
+                "text": "GISTInvestors",
+                "indices": [
+                    96,
+                    110
+                ]
+            },
+            {
+                "text": "Malaysia",
+                "indices": [
+                    123,
+                    132
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "startup",
+                "indices": [
+                    79,
+                    87
+                ]
+            },
+            {
+                "text": "autonomous",
+                "indices": [
+                    203,
+                    214
+                ]
+            },
+            {
+                "text": "Daimler",
+                "indices": [
+                    251,
+                    259
+                ]
+            },
+            {
+                "text": "MobilityService",
+                "indices": [
+                    260,
+                    276
+                ]
+            }
+        ],
+        [
+            {
+                "text": "ceo",
+                "indices": [
+                    275,
+                    279
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "blockchain",
+                "indices": [
+                    105,
+                    116
+                ]
+            },
+            {
+                "text": "cryptocurrency",
+                "indices": [
+                    117,
+                    132
+                ]
+            },
+            {
+                "text": "fintech",
+                "indices": [
+                    133,
+                    141
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    142,
+                    150
+                ]
+            },
+            {
+                "text": "wellness",
+                "indices": [
+                    151,
+                    160
+                ]
+            },
+            {
+                "text": "sehat",
+                "indices": [
+                    161,
+                    167
+                ]
+            },
+            {
+                "text": "talkshow",
+                "indices": [
+                    168,
+                    177
+                ]
+            },
+            {
+                "text": "meetup",
+                "indices": [
+                    178,
+                    185
+                ]
+            },
+            {
+                "text": "investasi",
+                "indices": [
+                    186,
+                    196
+                ]
+            },
+            {
+                "text": "IAMPlatform",
+                "indices": [
+                    198,
+                    210
+                ]
+            },
+            {
+                "text": "TopInfluence",
+                "indices": [
+                    211,
+                    224
+                ]
+            },
+            {
+                "text": "CryptoCurrency",
+                "indices": [
+                    225,
+                    240
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "Blockchain",
+                "indices": [
+                    73,
+                    84
+                ]
+            },
+            {
+                "text": "Investments",
+                "indices": [
+                    85,
+                    97
+                ]
+            },
+            {
+                "text": "Business",
+                "indices": [
+                    98,
+                    107
+                ]
+            },
+            {
+                "text": "Cryptocurrency",
+                "indices": [
+                    108,
+                    123
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    124,
+                    132
+                ]
+            }
+        ],
+        []
+    ]
+}

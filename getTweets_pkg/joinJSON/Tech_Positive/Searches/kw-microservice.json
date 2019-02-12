@@ -1,0 +1,1347 @@
+{
+    "user": [
+        "RealGophersShip",
+        "brettseattle",
+        "codepoetrybot",
+        "scottcar",
+        "Ko123Owens",
+        "DennisJBolt",
+        "Wendycroy888",
+        "BaseCase",
+        "combatsespoir",
+        "IBMDeveloper",
+        "cbirchall",
+        "GoNorthStack",
+        "Richard_Capraro",
+        "ctmcisco",
+        "webdevilopers",
+        "a_abashev",
+        "anne_14414440",
+        "MicroservicesTT",
+        "anne_morantin",
+        "Stingraytwo",
+        "axon_iq",
+        "jpsandlin",
+        "chrislynch76",
+        "c_heliou",
+        "ChrisLivdahl",
+        "seangraham",
+        "FusionAuth",
+        "dev_avocado",
+        "crishantha",
+        "Suresh50001109",
+        "SivaKalagarla",
+        "ahn0hwan",
+        "juanfrasr",
+        "VestiglDrew",
+        "openlegacy",
+        "Pavel_Evdokimov",
+        "BloklandJesse",
+        "NodeJS_Daily",
+        "microservicely",
+        "KubernetesDaily",
+        "RisingStack",
+        "inggilove",
+        "codepoetrybot",
+        "GOTOamst",
+        "codepoetrybot",
+        "jontavd",
+        "meenaku70861173",
+        "codepoetrybot",
+        "Wallsfantasy",
+        "petecelano",
+        "murali21272",
+        "ap0phi5",
+        "tanel_gobot",
+        "Kumard4u",
+        "codepoetrybot",
+        "leowmjw",
+        "MyJavaIn",
+        "gamabuntasama",
+        "NexWebSites",
+        "asicfr",
+        "artwisanggeni",
+        "liaonet",
+        "AnilKumarKatiy4",
+        "codepoetrybot",
+        "lucasoft_co_uk",
+        "Programming24",
+        "JavaNewsWizard",
+        "pigbar",
+        "LangageJava",
+        "abo_hamr",
+        "tale82",
+        "bluespec1497992",
+        "javinpaul",
+        "pautasso",
+        "trondhjort",
+        "ericjohnbrown",
+        "APIdaysGlobal",
+        "jimmy_gott",
+        "jimmy_gott",
+        "DamienDuportal",
+        "samsaffron",
+        "samsaffron",
+        "tim_liddelow",
+        "BhavinM32128762",
+        "JamesDepoorter",
+        "codepoetrybot",
+        "wiredferret",
+        "wiredferret",
+        "smithray",
+        "codepoetrybot",
+        "neo4j",
+        "Mardiniii",
+        "arketi",
+        "codepoetrybot",
+        "YuliyaInopinaPR",
+        "mathiasverraes",
+        "chrisdussault62",
+        "ruthmalan",
+        "alexcrownus",
+        "mathiasverraes"
+    ],
+    "date": [
+        "Fri Feb 08 00:44:03 +0000 2019",
+        "Thu Feb 07 23:48:53 +0000 2019",
+        "Thu Feb 07 23:22:40 +0000 2019",
+        "Thu Feb 07 23:00:12 +0000 2019",
+        "Thu Feb 07 22:55:43 +0000 2019",
+        "Thu Feb 07 22:13:46 +0000 2019",
+        "Thu Feb 07 21:33:37 +0000 2019",
+        "Thu Feb 07 21:04:23 +0000 2019",
+        "Thu Feb 07 20:58:38 +0000 2019",
+        "Thu Feb 07 20:15:00 +0000 2019",
+        "Thu Feb 07 20:07:57 +0000 2019",
+        "Thu Feb 07 19:59:34 +0000 2019",
+        "Thu Feb 07 19:53:32 +0000 2019",
+        "Thu Feb 07 19:46:44 +0000 2019",
+        "Thu Feb 07 19:46:18 +0000 2019",
+        "Thu Feb 07 19:29:28 +0000 2019",
+        "Thu Feb 07 19:20:42 +0000 2019",
+        "Thu Feb 07 19:15:07 +0000 2019",
+        "Thu Feb 07 18:56:34 +0000 2019",
+        "Thu Feb 07 18:55:01 +0000 2019",
+        "Thu Feb 07 18:43:44 +0000 2019",
+        "Thu Feb 07 18:36:15 +0000 2019",
+        "Thu Feb 07 18:31:47 +0000 2019",
+        "Thu Feb 07 18:28:29 +0000 2019",
+        "Thu Feb 07 18:09:25 +0000 2019",
+        "Thu Feb 07 17:52:33 +0000 2019",
+        "Thu Feb 07 17:44:00 +0000 2019",
+        "Thu Feb 07 17:39:50 +0000 2019",
+        "Thu Feb 07 17:32:33 +0000 2019",
+        "Thu Feb 07 17:30:51 +0000 2019",
+        "Thu Feb 07 17:12:49 +0000 2019",
+        "Thu Feb 07 16:45:56 +0000 2019",
+        "Thu Feb 07 16:32:47 +0000 2019",
+        "Thu Feb 07 16:07:09 +0000 2019",
+        "Thu Feb 07 16:03:36 +0000 2019",
+        "Thu Feb 07 15:46:48 +0000 2019",
+        "Thu Feb 07 15:25:00 +0000 2019",
+        "Thu Feb 07 15:22:59 +0000 2019",
+        "Thu Feb 07 15:22:54 +0000 2019",
+        "Thu Feb 07 15:22:49 +0000 2019",
+        "Thu Feb 07 15:22:14 +0000 2019",
+        "Thu Feb 07 15:04:59 +0000 2019",
+        "Thu Feb 07 14:42:42 +0000 2019",
+        "Thu Feb 07 14:08:35 +0000 2019",
+        "Thu Feb 07 13:52:41 +0000 2019",
+        "Thu Feb 07 13:40:03 +0000 2019",
+        "Thu Feb 07 13:34:08 +0000 2019",
+        "Thu Feb 07 13:32:45 +0000 2019",
+        "Thu Feb 07 13:24:28 +0000 2019",
+        "Thu Feb 07 13:07:21 +0000 2019",
+        "Thu Feb 07 13:02:32 +0000 2019",
+        "Thu Feb 07 13:00:49 +0000 2019",
+        "Thu Feb 07 12:46:01 +0000 2019",
+        "Thu Feb 07 12:42:51 +0000 2019",
+        "Thu Feb 07 12:22:37 +0000 2019",
+        "Thu Feb 07 12:20:59 +0000 2019",
+        "Thu Feb 07 12:20:40 +0000 2019",
+        "Thu Feb 07 12:15:05 +0000 2019",
+        "Thu Feb 07 11:08:36 +0000 2019",
+        "Thu Feb 07 11:02:25 +0000 2019",
+        "Thu Feb 07 10:11:03 +0000 2019",
+        "Thu Feb 07 10:01:04 +0000 2019",
+        "Thu Feb 07 09:51:37 +0000 2019",
+        "Thu Feb 07 09:32:45 +0000 2019",
+        "Thu Feb 07 09:20:05 +0000 2019",
+        "Thu Feb 07 09:07:45 +0000 2019",
+        "Thu Feb 07 09:04:13 +0000 2019",
+        "Thu Feb 07 09:02:13 +0000 2019",
+        "Thu Feb 07 09:01:42 +0000 2019",
+        "Thu Feb 07 08:16:43 +0000 2019",
+        "Thu Feb 07 08:13:26 +0000 2019",
+        "Thu Feb 07 08:11:32 +0000 2019",
+        "Thu Feb 07 08:02:15 +0000 2019",
+        "Thu Feb 07 07:43:07 +0000 2019",
+        "Thu Feb 07 07:27:48 +0000 2019",
+        "Thu Feb 07 07:20:09 +0000 2019",
+        "Thu Feb 07 07:00:10 +0000 2019",
+        "Thu Feb 07 06:29:30 +0000 2019",
+        "Thu Feb 07 06:28:36 +0000 2019",
+        "Thu Feb 07 06:08:40 +0000 2019",
+        "Thu Feb 07 05:30:17 +0000 2019",
+        "Thu Feb 07 05:27:37 +0000 2019",
+        "Thu Feb 07 05:25:06 +0000 2019",
+        "Thu Feb 07 05:16:19 +0000 2019",
+        "Thu Feb 07 05:06:49 +0000 2019",
+        "Thu Feb 07 04:32:39 +0000 2019",
+        "Thu Feb 07 04:06:26 +0000 2019",
+        "Thu Feb 07 03:54:58 +0000 2019",
+        "Thu Feb 07 03:35:47 +0000 2019",
+        "Thu Feb 07 03:22:34 +0000 2019",
+        "Thu Feb 07 03:05:00 +0000 2019",
+        "Thu Feb 07 02:40:46 +0000 2019",
+        "Thu Feb 07 02:09:32 +0000 2019",
+        "Thu Feb 07 02:02:31 +0000 2019",
+        "Thu Feb 07 01:59:03 +0000 2019",
+        "Thu Feb 07 01:11:26 +0000 2019",
+        "Thu Feb 07 01:07:51 +0000 2019",
+        "Thu Feb 07 00:49:32 +0000 2019",
+        "Thu Feb 07 00:49:26 +0000 2019",
+        "Thu Feb 07 00:46:29 +0000 2019"
+    ],
+    "text": [
+        "yext/edward (1.8.18): A tool for managing local microservice instances https://t.co/ZsZMtZbduU",
+        "RT @ChrisLivdahl: I saw this gif posted as a humorous way to look at microservice architecture. Looks about right! \nArtist credit: https://\u2026",
+        "your sister's distributed code, incomprehensible microservice code, failing tests",
+        "RT @awscloud: The Head of App Development at TVB, explains how they handle traffic spikes, uplift service availability, &amp; raise team produc\u2026",
+        "RT @solacedotcom: If your #microservice architecture is not delivering on the promise of increased agility, scalability &amp; resiliency, downl\u2026",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "@pjiutzi In an especially well-factored microservice environment, maybe, but what happens in practice more often is that the complexity of the whole system happens primarily in the networked communication between the services, so tracking down what data got messed up where is harder.",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "Part 2: Best practices for developing #microservices. https://t.co/ptvJTDKtTd",
+        "@Krever01 @dwijnand I would say \u201ccodebase\u201d == \u201cone microservice\u201d here. Actually microservices are an excellent environment for trying new things within one service without having to worry about keeping consistency with the code in other services.",
+        "RT @GOTOamst: Microservice message routing in @kubernetesio\n\nLearn how @axon_iq's AxonHub can be used in conjunction with #Kubernetes to ef\u2026",
+        "RT @GOTOamst: Microservice message routing in @kubernetesio\n\nLearn how @axon_iq's AxonHub can be used in conjunction with #Kubernetes to ef\u2026",
+        "RT @thekonginc: Add blazingly fast authentication, rate limiting, and other features to microservice APIs.\nWatch: Install and Scale Kong on\u2026",
+        "RT @mathiasverraes: @alexcrownus @ruthmalan A bounded context is a linguistic boundary, a microservice is physical one. One doesn't guarant\u2026",
+        "RT @Javadaylviv: Hey friends, \nLet us remind you about \u201cAll you need to know in order to write Microservice with Spring and Spring Boot\u201d -\u2026",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "Micronaut demonstrates a notable improvement in memory usage through reduced use of runtime reflection. \n\nWhere Spring Boot might require hundreds of megabytes per microservice, @Micronautfw requires significantly less. #Micronaut #Microservices\n\nhttps://t.co/2RiHXAlpYT",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "RT @GOTOamst: Microservice message routing in @kubernetesio\n\nLearn how @axon_iq's AxonHub can be used in conjunction with #Kubernetes to ef\u2026",
+        "Person flaming me on Reddit because I am not recommending \"Redundant Scale Performance\" options on InfluxDB+Grafana to a kid who just wants dashboard metrics on a single microservice.",
+        "RT @sweller: I\u2019m looking to hire several contract Golang developers for working on several high tps, low latency micro services. Please DM\u2026",
+        "RT @mathiasverraes: @alexcrownus @ruthmalan A bounded context is a linguistic boundary, a microservice is physical one. One doesn't guarant\u2026",
+        "I saw this gif posted as a humorous way to look at microservice architecture. Looks about right! \nArtist credit: https://t.co/Lcx0tqLaCV https://t.co/X23XwxljVo",
+        "@DICKS is hiring software engineers! \n\n3+ years relevant experience\nModern microservice-based architectures &amp; methodologies\nWeb app frameworks &amp; tools such as Spring boot/UML/Struts/Spring\nAngular, AngularJS and ReactJS\nJava, C#, .Net CORE and Kotlin\n\n#dsgtech #dsglife",
+        "Learn more about how to build authentication as a microservice for modern applications. https://t.co/RXIqbbmE2W https://t.co/EfQ8GdGRdp",
+        "RT @RisingStack: We just released the latest installment of our weekly #microservices newsletter! Check it out for amazing articles about:\u2026",
+        "What is a Reactive MS? https://t.co/ZcenfbpWUt",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "RT @RisingStack: We just released the latest installment of our weekly #microservices newsletter! Check it out for amazing articles about:\u2026",
+        "RT @inggilove: Design Patterns for Microservice Architecture https://t.co/rmzg3K2SWV",
+        "RT @UberEng: How #Golang helped us build and scale our highest queries per second microservice, for geofence lookups. https://t.co/B347CuzP\u2026",
+        "Streaming services are microservice architecture for your TV.",
+        "Join us February 12 @ 11 am ET and learn how your peers are leveraging legacy systems for innovation.  Learn more here https://t.co/OJzClApa6S",
+        "RT @RisingStack: We just released the latest installment of our weekly #microservices newsletter! Check it out for amazing articles about:\u2026",
+        "RT @RisingStack: We just released the latest installment of our weekly #microservices newsletter! Check it out for amazing articles about:\u2026",
+        "RT @RisingStack: We just released the latest installment of our weekly #microservices newsletter! Check it out for amazing articles about:\u2026",
+        "RT @RisingStack: We just released the latest installment of our weekly #microservices newsletter! Check it out for amazing articles about:\u2026",
+        "RT @RisingStack: We just released the latest installment of our weekly #microservices newsletter! Check it out for amazing articles about:\u2026",
+        "We just released the latest installment of our weekly #microservices newsletter! Check it out for amazing articles about:\n\n* How @UberEng Monitors 4000 Microservices\n* Kubernetes at CERN\n* Event Sourcing\n\nand more..\n\nhttps://t.co/i1exOzpE3X",
+        "Design Patterns for Microservice Architecture https://t.co/rmzg3K2SWV",
+        "microservice code leads to honeybadger",
+        "Microservice message routing in @kubernetesio\n\nLearn how @axon_iq's AxonHub can be used in conjunction with #Kubernetes to efficiently operate large-scale Axon Framework based #microservices systems in this video from #GOTOams 2018 with @Frans_vanBuul\n\nhttps://t.co/Ub8MGUV5El",
+        "legacy clear skies? microservice code - a neat conference talk",
+        "RT @awscloud: The Head of App Development at TVB, explains how they handle traffic spikes, uplift service availability, &amp; raise team produc\u2026",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "the opposite of Saturday's microservice code code is self-fulfillment",
+        "RT @mathiasverraes: @alexcrownus @ruthmalan A bounded context is a linguistic boundary, a microservice is physical one. One doesn't guarant\u2026",
+        "To truly benefit from shared services and the cloud, agencies should be building a repository of 'microservice' business routines. https://t.co/JngxfecdZS",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "Time to brush up on some Distributed Systems thinking with a revisit of Promise Theory. Command and control systems are inadequate to deal with diverse challenges of microservice and cloud native. Surprising how you can apply these principles to real life.\nhttps://t.co/nGnJdo2mQJ",
+        "chart-to-aws - Microservice to generate screenshot from a webpage and upload it to a AWS S3 Bucket. https://t.co/belu2LPr9S",
+        "RT @NexWebSites: #Programming\n\ud83d\udc47\nChallenges and benefits of the #Microservice architectural style, Part 2 \n\nv/ @IBMDeveloper\n\n#DevOps \n\n\ud83d\udd17htt\u2026",
+        "the cause of of musical microservice code code is perfection",
+        "RT @eiselems: Just realized my #SpringBoot tutorial series https://t.co/WGWRb9GvYV has just reached a few people ...\nOn medium the whole se\u2026",
+        "Build and Deploy a cognitive microservice with IBM Cloud Private running in the IBM LinuxONE Community Cloud\n\n #microservices #IBMCloud #IBM #LinuxONE #Cloud #RESTAPIs #IBMWatson \nhttps://t.co/rODmZ9BoFp https://t.co/CDXX3uNnqJ",
+        "RT @awscloud: The Head of App Development at TVB, explains how they handle traffic spikes, uplift service availability, &amp; raise team produc\u2026",
+        "RT @NexWebSites: #Programming\n\ud83d\udc47\nChallenges and benefits of the #Microservice architectural style, Part 2 \n\nv/ @IBMDeveloper\n\n#DevOps \n\n\ud83d\udd17htt\u2026",
+        "Dilemma on Utility module, making a jar or separate Microservice? https://t.co/nppzBAEG02 via @javacodegeeks",
+        "pymacaron-aws 0.0.74: Deploy a PyMacaron microservice to Amazon aws/docker https://t.co/ZJW07YOXAw",
+        "Microservice for Raspberry PI GPIO control https://t.co/UwHCSPGmrw https://t.co/tyQ4jb2pWT",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "microservice code resonates like perfect sleet",
+        "RT @easy_software What is the advantage of #Cloud #microservices over monolithic software? Cloud expert Marcel Rosenbaum explains in the #EASYSoftware Blog: https://t.co/YQIL7fjy70 #technology #CloudPlatform #devops",
+        "RT @JavaNewsWizard: Dilemma on Utility module, making a jar or separate Microservice? - https://t.co/BbrKvc6zyC #java #javacodegeeks",
+        "Dilemma on Utility module, making a jar or separate Microservice? - https://t.co/BbrKvc6zyC #java #javacodegeeks",
+        "Dilemma on Utility module, making a jar or separate Microservice? https://t.co/R86sSJrxvS by javacodegeeks",
+        "Dilemma on Utility module, making a jar or separate Microservice? #JavaCodeGeeks https://t.co/XAPftwyse1",
+        "You got all these fancy tech here, and only music and clips communication you provide me with this cheap ass phones.\n-------\nSmall and Simple: Building a Java Microservice | Adam Bien https://t.co/KU8VjnVxRq via @YouTube",
+        "RT @mathiasverraes: @alexcrownus @ruthmalan A bounded context is a linguistic boundary, a microservice is physical one. One doesn't guarant\u2026",
+        "RT @FCWnow: The government needs to be more like Netflix\nhttps://t.co/dbLs1x60uW\nTo truly benefit from shared services and the cloud, agenc\u2026",
+        "Develop a reactive Java microservice with ReactiveJ  - A #FREE Course\nLearn more:   https://t.co/kBy3al5qc9\n#Java #Programming #Development https://t.co/kBy3al5qc9",
+        "RT @APIdaysGlobal: Made in #APIdays. Listen to @pautasso talk about \"Back-up &amp; Recover Microservice Architecture\", APIdays Paris 2018 https\u2026",
+        "RT @mathiasverraes: @alexcrownus @ruthmalan A bounded context is a linguistic boundary, a microservice is physical one. One doesn't guarant\u2026",
+        "RT @awscloud: The Head of App Development at TVB, explains how they handle traffic spikes, uplift service availability, &amp; raise team produc\u2026",
+        "Made in #APIdays. Listen to @pautasso talk about \"Back-up &amp; Recover Microservice Architecture\", APIdays Paris 2018 https://t.co/Px89gGfeTo https://t.co/vyAMlmfFzy",
+        "RT @scientiamobile: Did you know that you can add device detection to your #AWS #Microservice infrastructure? Learn how from our video: htt\u2026",
+        "RT @NexWebSites: #Programming\n\ud83d\udc47\nChallenges and benefits of the #Microservice architectural style, Part 2 \n\nv/ @IBMDeveloper\n\n#DevOps \n\n\ud83d\udd17htt\u2026",
+        "RT @DevOpsGathering: Don't miss the talk of @mZapfDE from @codecentric at the @DevOpsGathering on the 13th of March 2019. \n\n#Kubernetes is\u2026",
+        "@ronkorving I have another test for that, but sadly it is not looking that promising even for this microservice",
+        "@mudasobwa Less CPU means more CPU to do other stuff, but yeah its a fair point and I do plan to follow up later with @discourse graphs showing median request times. The microservice did not have latency metrics, but it was performing exactly the same work with less CPU",
+        "RT @awscloud: The Head of App Development at TVB, explains how they handle traffic spikes, uplift service availability, &amp; raise team produc\u2026",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "RT @mathiasverraes: @alexcrownus @ruthmalan A bounded context is a linguistic boundary, a microservice is physical one. One doesn't guarant\u2026",
+        "inscrutable Java, my microservice code, a neat conference talk",
+        "#rubyconf_au @KellySutton: Extracting a microservice is easier if you already have good boundaries, but odds are, you don\u2019t, so do that first.",
+        "#rubyconf_au @KellySutton: We got 13/14 parts of HR moved to the microservice, but now we have tribal knowledge about what could be moved and what couldn\u2019t.",
+        "RT @solacedotcom: If your #microservice architecture is not delivering on the promise of increased agility, scalability &amp; resiliency, downl\u2026",
+        "microservice code scans like stable snow",
+        "[From the #GraphConnect archives:]\n#Microservice and #ModuleManagement with #Neo4j by John Lavin\n \nhttps://t.co/WiBZMhlx8w\n#GraphDatabases #GraphVisualization",
+        "RT @solacedotcom: If your #microservice architecture is not delivering on the promise of increased agility, scalability &amp; resiliency, downl\u2026",
+        "RT @GTSoftware: What is the difference between an #API and a #Microservice? Find out on February 13th, when we co-present the webinar \u201cAPIs\u2026",
+        "imperfect microservice code, amazing Rust, wat",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "RT @mathiasverraes: @alexcrownus @ruthmalan A bounded context is a linguistic boundary, a microservice is physical one. One doesn't guarant\u2026",
+        "RT @OracleHealthSci: Despite rapid changes occurring in Life Sciences, most technology used in #clinicaltrials forces trial processes &amp; #da\u2026",
+        "RT @mathiasverraes: @alexcrownus @ruthmalan A bounded context is a linguistic boundary, a microservice is physical one. One doesn't guarant\u2026",
+        "RT @mathiasverraes: @alexcrownus @ruthmalan A bounded context is a linguistic boundary, a microservice is physical one. One doesn't guarant\u2026",
+        "@alexcrownus @ruthmalan A bounded context is a linguistic boundary, a microservice is physical one. One doesn't guarantee the other."
+    ],
+    "source": [
+        "<a href=\"https://melody.sh/\" rel=\"nofollow\">MelodyBot</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+        "<a href=\"http://gaggleamp.com/twit/\" rel=\"nofollow\">GaggleAMP</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://iamshakes.com\" rel=\"nofollow\">nserverless</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+        "<a href=\"http://gaggleamp.com/twit/\" rel=\"nofollow\">GaggleAMP</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+        "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://go.lusikas.com\" rel=\"nofollow\">Ghgo</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://gaggleamp.com/twit/\" rel=\"nofollow\">GaggleAMP</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "<a href=\"https://upflow.co\" rel=\"nofollow\">Upflow</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+        "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "<a href=\"https://www.botlibre.com\" rel=\"nofollow\">Bot Libre!</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://gaggleamp.com/twit/\" rel=\"nofollow\">GaggleAMP</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"https://jamesgott.com\" rel=\"nofollow\">ELK_BOT_1983</a>",
+        "<a href=\"https://jamesgott.com\" rel=\"nofollow\">ELK_BOT_1983</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://gaggleamp.com/twit/\" rel=\"nofollow\">GaggleAMP</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+        "<a href=\"http://www.noterlive.com\" rel=\"nofollow\">Noter Live</a>",
+        "<a href=\"http://www.noterlive.com\" rel=\"nofollow\">Noter Live</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+    ],
+    "coordinates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "language": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "hashtags": [
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "microservice",
+                "indices": [
+                    26,
+                    39
+                ]
+            }
+        ],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [
+            {
+                "text": "microservices",
+                "indices": [
+                    38,
+                    52
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "Kubernetes",
+                "indices": [
+                    122,
+                    133
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Kubernetes",
+                "indices": [
+                    122,
+                    133
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Micronaut",
+                "indices": [
+                    220,
+                    230
+                ]
+            },
+            {
+                "text": "Microservices",
+                "indices": [
+                    231,
+                    245
+                ]
+            }
+        ],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Kubernetes",
+                "indices": [
+                    122,
+                    133
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "dsgtech",
+                "indices": [
+                    260,
+                    268
+                ]
+            },
+            {
+                "text": "dsglife",
+                "indices": [
+                    269,
+                    277
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "microservices",
+                "indices": [
+                    71,
+                    85
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [
+            {
+                "text": "microservices",
+                "indices": [
+                    71,
+                    85
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "Golang",
+                "indices": [
+                    17,
+                    24
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "microservices",
+                "indices": [
+                    71,
+                    85
+                ]
+            }
+        ],
+        [
+            {
+                "text": "microservices",
+                "indices": [
+                    71,
+                    85
+                ]
+            }
+        ],
+        [
+            {
+                "text": "microservices",
+                "indices": [
+                    71,
+                    85
+                ]
+            }
+        ],
+        [
+            {
+                "text": "microservices",
+                "indices": [
+                    71,
+                    85
+                ]
+            }
+        ],
+        [
+            {
+                "text": "microservices",
+                "indices": [
+                    71,
+                    85
+                ]
+            }
+        ],
+        [
+            {
+                "text": "microservices",
+                "indices": [
+                    54,
+                    68
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "Kubernetes",
+                "indices": [
+                    108,
+                    119
+                ]
+            },
+            {
+                "text": "microservices",
+                "indices": [
+                    176,
+                    190
+                ]
+            },
+            {
+                "text": "GOTOams",
+                "indices": [
+                    218,
+                    226
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "Programming",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "text": "Microservice",
+                "indices": [
+                    63,
+                    76
+                ]
+            },
+            {
+                "text": "DevOps",
+                "indices": [
+                    125,
+                    132
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "SpringBoot",
+                "indices": [
+                    31,
+                    42
+                ]
+            }
+        ],
+        [
+            {
+                "text": "microservices",
+                "indices": [
+                    111,
+                    125
+                ]
+            },
+            {
+                "text": "IBMCloud",
+                "indices": [
+                    126,
+                    135
+                ]
+            },
+            {
+                "text": "IBM",
+                "indices": [
+                    136,
+                    140
+                ]
+            },
+            {
+                "text": "LinuxONE",
+                "indices": [
+                    141,
+                    150
+                ]
+            },
+            {
+                "text": "Cloud",
+                "indices": [
+                    151,
+                    157
+                ]
+            },
+            {
+                "text": "RESTAPIs",
+                "indices": [
+                    158,
+                    167
+                ]
+            },
+            {
+                "text": "IBMWatson",
+                "indices": [
+                    168,
+                    178
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "Programming",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "text": "Microservice",
+                "indices": [
+                    63,
+                    76
+                ]
+            },
+            {
+                "text": "DevOps",
+                "indices": [
+                    125,
+                    132
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "Cloud",
+                "indices": [
+                    43,
+                    49
+                ]
+            },
+            {
+                "text": "microservices",
+                "indices": [
+                    50,
+                    64
+                ]
+            },
+            {
+                "text": "EASYSoftware",
+                "indices": [
+                    137,
+                    150
+                ]
+            },
+            {
+                "text": "technology",
+                "indices": [
+                    181,
+                    192
+                ]
+            },
+            {
+                "text": "CloudPlatform",
+                "indices": [
+                    193,
+                    207
+                ]
+            },
+            {
+                "text": "devops",
+                "indices": [
+                    208,
+                    215
+                ]
+            }
+        ],
+        [
+            {
+                "text": "java",
+                "indices": [
+                    112,
+                    117
+                ]
+            },
+            {
+                "text": "javacodegeeks",
+                "indices": [
+                    118,
+                    132
+                ]
+            }
+        ],
+        [
+            {
+                "text": "java",
+                "indices": [
+                    92,
+                    97
+                ]
+            },
+            {
+                "text": "javacodegeeks",
+                "indices": [
+                    98,
+                    112
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "JavaCodeGeeks",
+                "indices": [
+                    66,
+                    80
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "FREE",
+                "indices": [
+                    57,
+                    62
+                ]
+            },
+            {
+                "text": "Java",
+                "indices": [
+                    108,
+                    113
+                ]
+            },
+            {
+                "text": "Programming",
+                "indices": [
+                    114,
+                    126
+                ]
+            },
+            {
+                "text": "Development",
+                "indices": [
+                    127,
+                    139
+                ]
+            }
+        ],
+        [
+            {
+                "text": "APIdays",
+                "indices": [
+                    27,
+                    35
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "APIdays",
+                "indices": [
+                    8,
+                    16
+                ]
+            }
+        ],
+        [
+            {
+                "text": "AWS",
+                "indices": [
+                    75,
+                    79
+                ]
+            },
+            {
+                "text": "Microservice",
+                "indices": [
+                    80,
+                    93
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Programming",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "text": "Microservice",
+                "indices": [
+                    63,
+                    76
+                ]
+            },
+            {
+                "text": "DevOps",
+                "indices": [
+                    125,
+                    132
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Kubernetes",
+                "indices": [
+                    124,
+                    135
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "rubyconf_au",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        [
+            {
+                "text": "rubyconf_au",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        [
+            {
+                "text": "microservice",
+                "indices": [
+                    26,
+                    39
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "GraphConnect",
+                "indices": [
+                    10,
+                    23
+                ]
+            },
+            {
+                "text": "Microservice",
+                "indices": [
+                    35,
+                    48
+                ]
+            },
+            {
+                "text": "ModuleManagement",
+                "indices": [
+                    53,
+                    70
+                ]
+            },
+            {
+                "text": "Neo4j",
+                "indices": [
+                    76,
+                    82
+                ]
+            },
+            {
+                "text": "GraphDatabases",
+                "indices": [
+                    123,
+                    138
+                ]
+            },
+            {
+                "text": "GraphVisualization",
+                "indices": [
+                    139,
+                    158
+                ]
+            }
+        ],
+        [
+            {
+                "text": "microservice",
+                "indices": [
+                    26,
+                    39
+                ]
+            }
+        ],
+        [
+            {
+                "text": "API",
+                "indices": [
+                    50,
+                    54
+                ]
+            },
+            {
+                "text": "Microservice",
+                "indices": [
+                    61,
+                    74
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "clinicaltrials",
+                "indices": [
+                    95,
+                    110
+                ]
+            }
+        ],
+        [],
+        [],
+        []
+    ]
+}

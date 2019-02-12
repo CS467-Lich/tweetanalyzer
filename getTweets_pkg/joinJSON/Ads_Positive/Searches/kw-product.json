@@ -1,0 +1,994 @@
+{
+    "user": [
+        "dbongino",
+        "DavidAFrench",
+        "nntaleb",
+        "ashclark2_",
+        "Donut_DPT",
+        "jacqmas",
+        "Olivia52044644",
+        "_MattIreland",
+        "conscious_crown",
+        "Christinah1974",
+        "Tgif2023",
+        "JazzyWardrobe",
+        "das_kaesebrot",
+        "luqmannyamiin",
+        "sakaueto",
+        "MugtheBookie",
+        "And1129",
+        "attCAREERS",
+        "LnhNguytHn5",
+        "sci_fanboi",
+        "lipstickfiqs",
+        "dude_fm",
+        "DarkOnyxe",
+        "Allthingsprank",
+        "Casey68575208",
+        "uberbuyer",
+        "GoodOrtho_com",
+        "Purd0me",
+        "macmode85",
+        "jamalseto",
+        "chasediamonds82",
+        "PSU1Philly1",
+        "hzrhxx",
+        "analyndatahan2",
+        "Migueln55916786",
+        "snowboyhennessy",
+        "LadiesGentsCA",
+        "silentkilla562",
+        "all4_saint",
+        "MisSuellaneous",
+        "nhparks",
+        "JackyJa71400179",
+        "daisycreekdecor",
+        "2EZmj",
+        "HjF_1980",
+        "Ida04178922",
+        "Gyarupan",
+        "Mike00550911",
+        "jeyshanell",
+        "ShinobiNinja",
+        "Migueln55916786",
+        "Coolmunna7",
+        "luqmannyamiin",
+        "Cindy92472883",
+        "Harry1731330481",
+        "Sienna41251711",
+        "56thProductions",
+        "Eleanor92576597",
+        "doughnutkepau",
+        "Amy29961910",
+        "huffinpuffn",
+        "Cathy14774221",
+        "Prime_Motives",
+        "DadBlogsAbout",
+        "NomeUdnt",
+        "chamomilesmom",
+        "brandon_kiefer",
+        "laridor1",
+        "ShinobiNinja",
+        "reece_tv",
+        "bodyandmindBAM",
+        "planet_sabotage",
+        "Amber53578037",
+        "johnbeenie",
+        "tiffler26",
+        "Fred79834294",
+        "JazzyWardrobe",
+        "MC_Odd",
+        "Sofia67586939",
+        "Matilda20798153",
+        "Phoebe03440149",
+        "Merlin84385387",
+        "Harry1731330481",
+        "LGimenez10",
+        "JakeHargisBooks",
+        "SionOfUrza",
+        "PeterMerlinCane",
+        "PeterMerlinCane",
+        "de_cNile",
+        "CarbonRice",
+        "JazzyWardrobe",
+        "FatKidDeals",
+        "JazzyWardrobe",
+        "MusicLov3rzMag",
+        "MusicLov3rzRdo",
+        "SealeyGerald",
+        "rahulvohra",
+        "ArtistsUnitedWW",
+        "ASOS_HeretoHelp",
+        "JazzyWardrobe"
+    ],
+    "date": [
+        "Fri Feb 08 20:39:55 +0000 2019",
+        "Fri Feb 08 19:34:40 +0000 2019",
+        "Fri Feb 08 17:26:50 +0000 2019",
+        "Sat Feb 09 01:11:10 +0000 2019",
+        "Sat Feb 09 01:11:10 +0000 2019",
+        "Sat Feb 09 01:11:10 +0000 2019",
+        "Sat Feb 09 01:11:09 +0000 2019",
+        "Sat Feb 09 01:11:09 +0000 2019",
+        "Sat Feb 09 01:11:09 +0000 2019",
+        "Sat Feb 09 01:11:08 +0000 2019",
+        "Sat Feb 09 01:11:06 +0000 2019",
+        "Sat Feb 09 01:11:05 +0000 2019",
+        "Sat Feb 09 01:11:04 +0000 2019",
+        "Sat Feb 09 01:11:03 +0000 2019",
+        "Sat Feb 09 01:11:03 +0000 2019",
+        "Sat Feb 09 01:11:02 +0000 2019",
+        "Sat Feb 09 01:11:02 +0000 2019",
+        "Sat Feb 09 01:11:02 +0000 2019",
+        "Sat Feb 09 01:11:01 +0000 2019",
+        "Sat Feb 09 01:11:01 +0000 2019",
+        "Sat Feb 09 01:10:59 +0000 2019",
+        "Sat Feb 09 01:10:57 +0000 2019",
+        "Sat Feb 09 01:10:57 +0000 2019",
+        "Sat Feb 09 01:10:56 +0000 2019",
+        "Sat Feb 09 01:10:56 +0000 2019",
+        "Sat Feb 09 01:10:56 +0000 2019",
+        "Sat Feb 09 01:10:55 +0000 2019",
+        "Sat Feb 09 01:10:54 +0000 2019",
+        "Sat Feb 09 01:10:52 +0000 2019",
+        "Sat Feb 09 01:10:50 +0000 2019",
+        "Sat Feb 09 01:10:49 +0000 2019",
+        "Sat Feb 09 01:10:49 +0000 2019",
+        "Sat Feb 09 01:10:44 +0000 2019",
+        "Sat Feb 09 01:10:43 +0000 2019",
+        "Sat Feb 09 01:10:41 +0000 2019",
+        "Sat Feb 09 01:10:41 +0000 2019",
+        "Sat Feb 09 01:10:41 +0000 2019",
+        "Sat Feb 09 01:10:41 +0000 2019",
+        "Sat Feb 09 01:10:40 +0000 2019",
+        "Sat Feb 09 01:10:39 +0000 2019",
+        "Sat Feb 09 01:10:39 +0000 2019",
+        "Sat Feb 09 01:10:39 +0000 2019",
+        "Sat Feb 09 01:10:38 +0000 2019",
+        "Sat Feb 09 01:10:35 +0000 2019",
+        "Sat Feb 09 01:10:34 +0000 2019",
+        "Sat Feb 09 01:10:33 +0000 2019",
+        "Sat Feb 09 01:10:32 +0000 2019",
+        "Sat Feb 09 01:10:32 +0000 2019",
+        "Sat Feb 09 01:10:31 +0000 2019",
+        "Sat Feb 09 01:10:31 +0000 2019",
+        "Sat Feb 09 01:10:30 +0000 2019",
+        "Sat Feb 09 01:10:29 +0000 2019",
+        "Sat Feb 09 01:10:28 +0000 2019",
+        "Sat Feb 09 01:10:27 +0000 2019",
+        "Sat Feb 09 01:10:26 +0000 2019",
+        "Sat Feb 09 01:10:26 +0000 2019",
+        "Sat Feb 09 01:10:26 +0000 2019",
+        "Sat Feb 09 01:10:25 +0000 2019",
+        "Sat Feb 09 01:10:25 +0000 2019",
+        "Sat Feb 09 01:10:25 +0000 2019",
+        "Sat Feb 09 01:10:25 +0000 2019",
+        "Sat Feb 09 01:10:23 +0000 2019",
+        "Sat Feb 09 01:10:22 +0000 2019",
+        "Sat Feb 09 01:10:21 +0000 2019",
+        "Sat Feb 09 01:10:21 +0000 2019",
+        "Sat Feb 09 01:10:20 +0000 2019",
+        "Sat Feb 09 01:10:20 +0000 2019",
+        "Sat Feb 09 01:10:20 +0000 2019",
+        "Sat Feb 09 01:10:20 +0000 2019",
+        "Sat Feb 09 01:10:19 +0000 2019",
+        "Sat Feb 09 01:10:18 +0000 2019",
+        "Sat Feb 09 01:10:17 +0000 2019",
+        "Sat Feb 09 01:10:16 +0000 2019",
+        "Sat Feb 09 01:10:15 +0000 2019",
+        "Sat Feb 09 01:10:14 +0000 2019",
+        "Sat Feb 09 01:10:11 +0000 2019",
+        "Sat Feb 09 01:10:10 +0000 2019",
+        "Sat Feb 09 01:10:10 +0000 2019",
+        "Sat Feb 09 01:10:09 +0000 2019",
+        "Sat Feb 09 01:10:09 +0000 2019",
+        "Sat Feb 09 01:10:09 +0000 2019",
+        "Sat Feb 09 01:10:08 +0000 2019",
+        "Sat Feb 09 01:10:07 +0000 2019",
+        "Sat Feb 09 01:10:06 +0000 2019",
+        "Sat Feb 09 01:10:06 +0000 2019",
+        "Sat Feb 09 01:10:06 +0000 2019",
+        "Sat Feb 09 01:10:06 +0000 2019",
+        "Sat Feb 09 01:10:05 +0000 2019",
+        "Sat Feb 09 01:10:05 +0000 2019",
+        "Sat Feb 09 01:10:05 +0000 2019",
+        "Sat Feb 09 01:10:05 +0000 2019",
+        "Sat Feb 09 01:10:04 +0000 2019",
+        "Sat Feb 09 01:10:02 +0000 2019",
+        "Sat Feb 09 01:10:01 +0000 2019",
+        "Sat Feb 09 01:10:00 +0000 2019",
+        "Sat Feb 09 01:10:00 +0000 2019",
+        "Sat Feb 09 01:10:00 +0000 2019",
+        "Sat Feb 09 01:10:00 +0000 2019",
+        "Sat Feb 09 01:09:59 +0000 2019",
+        "Sat Feb 09 01:09:59 +0000 2019"
+    ],
+    "text": [
+        "Someone better get a Beano product for cows out on the market STAT to save the cows from the AOC farting-cow death squads. Save the cows from  the Green New Deal! Full show available free here \ud83d\udc49\ud83c\udffb  https://t.co/XRWwuQsJQu https://t.co/wayMB9yA0v",
+        "A Muslim man was denied access to his imam at the moment of his execution. That was a profound injustice and the product of a grave constitutional wrong. The Supreme Court upheld that grave injustice. I dissent: https://t.co/4rlPxGuZA0",
+        "What Occasio is saying on lobby funding is right, healthy, &amp; perfectly compatible with libertarianism/localism. These distortions/hijacking of representation are the product of a centralized system.\nLet us make sure these ideas of sound governance are not marketed as \"socialist\". https://t.co/CRjXZ9TKgQ",
+        "ouch charlie that really hurt #PS4share\n\nhttps://t.co/84ssHV9TLh https://t.co/TmmjVBtlNo",
+        "RT @Pluto886: Today I miss you baby Saint \u2764\ufe0f Your smile...your cheeky face\ud83e\udd7aI don\u2019t know how to tell you so I vote for you. \ud83d\ude0a\n\nLet\u2019s vote fo\u2026",
+        "RT @salonpas: RT, post about Salonpas for chance to win full product suite!  US only. https://t.co/6fZ4Q7AnIy",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/AJwPGiz11h https://t.co/FDm54Tsbng",
+        "@Hasbro your Magic sales are not down because of toys r us. They are down because your company is lowering g the quality of product, pulling support from local game stores and controlling official play experiences with authoritarian rule. You have lost touch with your customers",
+        "\ud83d\udea8New Product Alert \ud83d\udea8 \nIntroducing our insight over eyesight mug! Created to draw you closer to what your mind needs versus what your eyes want, this is the perfect mug to enjoy a nice warm\u2026 https://t.co/f0SPFnLcsD",
+        "RT @anneofgreengabl: Celebrate #ValentinesDay (or any day really) with Anne and Gil on @Gazebo_TV -&gt; https://t.co/SWmv2Y78ev https://t.co/q\u2026",
+        "RT @PeterMerlinCane: \u2764\ufe0fTHE VIRGIN QUEEN'S BLACK LOVER\nHe was the most experienced person she knew, the most astute - and the most utterly\u2026",
+        "RT @ushoptwo: Printed Halter Top Loose Fit Lace Design\nFREE GIFT with every order over $30 \nValentine's day 14 February \nDo not forget your\u2026",
+        "@DANNYonPC @BastianThun Also, if you want to vlog, you can slap a RODE VideoMic Pro on the camera. (previous gen is fine if that would be cheaper asa used  used product)\nBear in mind that most cameras have shitty amps but the VideoMic Pro allows you to ramp up the volume by +20dB without quality loss",
+        "RT @aaziefkhalid: Simplysiti and BeauTyra are two separate companies. However, BeauTyra did consult Simplysiti on one thing; Product develo\u2026",
+        "HVDC (High Voltage Direct Current) System Market Overview and Product Scope, Growth Rate By Applications 2019 to 2025 - Nevada Green Times https://t.co/fOymYlcbti",
+        "RT @MugtheBookie: Try our gold package suited for all bank rolls !!\n\n30 days of picks click below ! \n\nBuy 1 Get 1 only valid if mentioned a\u2026",
+        "RT @slush_pool: New Slush Pool is here, featuring modern responsive design and functional improvements. Try it and help us out polishing th\u2026",
+        "This job might be a great fit for you: OTT Product Planning Manager - DIRECTV Latin America (Spanish and/or Portuguese) - https://t.co/olDyeTeGWI #Marketing #Dallas, TX",
+        "RT @Cristiano: I am using advanced EMS technology as the supplement to my daily workout. SIXPAD is developed on my training theory and grea\u2026",
+        "RT @GammaGuts: https://t.co/dcpeHlBuqd this article is fucking me up.\nThe largest industry user of glitter:\n-doesnt want to be named, becau\u2026",
+        "RT @aaziefkhalid: First off, yes. BeauTyra products are made in a factory. You know, like every other cosmetics product. In the entire worl\u2026",
+        "RT @ShinobiNinja: GET YOUR FRESH &amp; NEW SUPER LITTY Zombie Ninja Shirt https://t.co/ppZUjzWAEM designed by @alexeykotolevskiyart https://t.c\u2026",
+        "RT @amir_ab97: Kenshi for Mortal Kombat 11! RT if you agree \n\nhttps://t.co/PVnBOEXVzz https://t.co/7YIcFHKXdU",
+        "@MilepostComms I\u2019m interested if you still need bloggers. I blog about the latest products and trends and this product seems interesting! \ud83d\ude0a https://t.co/Qc40wvcE9e // allthingsprank@gmail.com",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/Qfq9WPj2CG https://t.co/fWMQbAf8Nh",
+        "New post (Men's Brand New Air Jordan 5 Retro \"Orange Peel\" Fashion Sneakers [136027 148]) has been published on VIDZ - https://t.co/Dzv0ArCU1M",
+        "@GrinChangers THREAD (2).   The monumental flaw in your product is that quite often with clear aligner treatment, the bite becomes affected and adjustments to the system need to be made TO THE TEETH, which cannot be done virtually.   (2)",
+        "RT @TheNorthCop: Here's a video of our solebox bot doing its thing with a random product!\n\nSolebox will be on lock from now on \ud83d\udd12\ud83d\udd11\n\n\ud83c\udde8\ud83c\udde6\ud83d\udcc8\ud83d\udcc8\n\nRT\u2026",
+        "Wreckin Shop #OhHeDead #TeaTime #TacAttack #Fortnite #VictoryRoyale #PS4share\n\nhttps://t.co/r5p6U4ygSu https://t.co/YvdnpuIRQ9",
+        "RT @Alioune85: Jiren meaty overhead link #PS4share\n\nhttps://t.co/uB3uR9llYc https://t.co/8ghU7wKT7B",
+        "@LookAtLollyy I will say this..... if the item is \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 at least repost them , and tag em . That repost is just like a referral, and will help them get more biz! Now if the product is trash then no don\u2019t tag or repost!",
+        "RT @dbongino: Someone better get a Beano product for cows out on the market STAT to save the cows from the AOC farting-cow death squads. #S\u2026",
+        "RT @DannyRoars: Step 1: Find a $10 product\n\nStep 2: Put a logo on it\n\nStep 3: Sell it for $40 https://t.co/LcgLblTJuy",
+        "RT @LarinaDana7: Guys we need to spread the tvc on social media. Share sa twitter, fb at IG kung maari sa original uploader. Remember we ar\u2026",
+        "RT @ShinobiNinja: GET YOUR FRESH &amp; NEW SUPER LITTY Zombie Ninja Shirt https://t.co/ppZUjzWAEM designed by @alexeykotolevskiyart https://t.c\u2026",
+        "RT @snowboyhennessy: @XLLGXRLS x @CLOTHINGCRYBABY \n\nLinked up with some Atlanta friends and made some cool product!! \n\nCheck it out on \ud83e\udd70htt\u2026",
+        "Price: $72.68 | Product: New Elegant Spring Autumn Fashion Knee length Dress Suit | #me #likeforlike\nhttps://t.co/gwaE4NCr6a",
+        "Overwatch play of the game featuring Miora #PS4share #Overwatch \n\nhttps://t.co/l5ofMz2WOG https://t.co/fYdbdKR1mo",
+        "RT @Pluto886: Today Bunny used his own LINE sticker in #KissBoysTH \ud83e\udd23\ud83d\ude02 I like his sticker, I downloaded since last year. I really hope he wi\u2026",
+        "RT @arkayscreations: Arrowhead Pendant, Tribal Necklace, Wire Wrapped Jewelry https://t.co/nDPegFvDX1 https://t.co/4DsrwgS4iN",
+        "@JTSEO9 I\u2019m biased, but it\u2019s a stock I bought bc I like the product so much. Otherwise, I stick with value plays and own no other tech.",
+        "RT @_Northern_Gamer: Mirage has some issues sounding out the big words... Poor guy. #ApexLegends #PS4share\n\nhttps://t.co/OEz2oHzfFF https:/\u2026",
+        "Momma Bunny https://t.co/EXPkl6lUxW https://t.co/0VbdlaoTf5",
+        "@GreatLove91 @WWECritics You have a point. Certain aspects of it though made it so great. The pyro, engaged crowd, backstage segments, different matches each week, hardcore title, gimmicks... Today's product doesnt need swearing, half naked women or even blood... just the small stuff that is missed.",
+        "@StephenEspinoza @7DaysOfBoxing In n out smashes on Whataburger that place puts no care into their product.",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/M3trVDv3eu https://t.co/uQR606pNW6",
+        "RT @XOYamiOX: Hey twitter\n\njust gonna leave this here you know what to do\nhttps://t.co/3lqk6OEusO https://t.co/zUwbs86oPb",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/tXDSW8NG2x https://t.co/n4nzztfoIB",
+        "@naadineneww Cause there\u2019s NO WAY the designers down to the manufacturers didn\u2019t have an inkling that the product was inappropriate",
+        "GET YOUR FRESH &amp; NEW SUPER LITTY Zombie Ninja Shirt https://t.co/ppZUjzWAEM designed by @alexeykotolevskiyart https://t.co/FwEQ5MsjDg",
+        "RT @ShinobiNinja: GET YOUR FRESH &amp; NEW SUPER LITTY Zombie Ninja Shirt https://t.co/ppZUjzWAEM designed by @alexeykotolevskiyart  @ The Will\u2026",
+        "RT @OxanaShy: https://t.co/5bAd1SE7ld\nAlready in my Store, tomorrow on my video section!\n@chubbychaserau  @C0ekieM0nster @absoluteme48   @2\u2026",
+        "RT @aaziefkhalid: First off, yes. BeauTyra products are made in a factory. You know, like every other cosmetics product. In the entire worl\u2026",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/tyaNFnFuau https://t.co/DWPgVFfNRK",
+        "RT @Diegor_Barros: 1, 2 or 3?? \ud83d\ude0f\n.\n\ud83d\udd30Not too long until we launch the coconut underwear, pre-order yours NOW (Buy a coconut product and get\u2026",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/92OhECRkFu https://t.co/sdb23vlOd1",
+        "RT @theproductguy: Product Management for AI/ML https://t.co/FMGdkZDcsb #prodmgmt",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/JMverZrmfG https://t.co/fihqanmzOd",
+        "RT @fauxmess: Ohhhh you dumb bitch. The original oem product and the other rip off brand rebranding looks nothing like Beautyra's brand. At\u2026",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/I3h9YR3ghb https://t.co/5MV3UZjJc9",
+        "Be active :)@ActionTheTeam\n\nhttps://t.co/Lap4Tx1YnW https://t.co/4fz4IpD86i",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/LIKMoQliQi https://t.co/h3bWs1x45Q",
+        "RT @CaptureRealityy: We hit those\n\nhttps://t.co/6mziKMtVKk https://t.co/G1UNz1DCzA",
+        "RT @MissLouMae: Product Review Mom: Review: Our Sugary Sweet Candytopia Atlanta Experience with Video #Candytopia https://t.co/flFfIhLKpy",
+        "RT @GammaGuts: https://t.co/dcpeHlBuqd this article is fucking me up.\nThe largest industry user of glitter:\n-doesnt want to be named, becau\u2026",
+        "Win a baby product prize pack (Baby Magic and Boudreaux\u2019s Paste) from @MommyPR! //www.mommypr.com/baby-magic-and-boudreauxs-baby-products-giveaway/comment-page-1/",
+        "@printyourpet SCAM! SCAM! SCAM! SCAM! GIVE ME A REFUND. THIS IS THE 5th TIME I HAVE ASKED FOR MY MONEY BACK. ALMOST $200 on A PRODUCT THAT DOES NOT EXIST. HORRIBLE CUSTOMER SERVICE. GROSS! THIS COMPANY NEEDS TO BE SHUT DOWN.",
+        "RT @dbongino: Someone better get a Beano product for cows out on the market STAT to save the cows from the AOC farting-cow death squads. Sa\u2026",
+        "GET YOUR FRESH &amp; NEW SUPER LITTY Zombie Ninja Shirt https://t.co/ppZUjzWAEM designed by @alexeykotolevskiyart  @ The WillyB Lab. \u2014 at The WillyB Lab. https://t.co/1ffdZwUlgd",
+        "Join NYLA BU BABY PRODUCT to get in touch and stay updated on the go. Download the Wix app to join: https://t.co/lB7ImdtiFA or use this code: BM3KZV",
+        "Putting in work tho #FRIDAY \n\ud83c\udf11Keep out of reach of children.\n\ud83c\udf18 Adult use only, 21+\n\ud83c\udf12 Cannabis product\n\ud83c\udf13 BaM: Body and Mind Quality Cannabis Company.\n\ud83c\udf14The perfect balance of body and mind\n\ud83c\udf15Use responsibly https://t.co/rWSilFEe4z",
+        "RT @Trendmood: This makeup look tho \ud83d\ude0d\u2764\ufe0f Looking so fresh, glowy, romantic... STUNNING!!!!! \u2764\ufe0f @Natasha_Denona is giving us a #SneakPeek \ud83d\udc40\ud83d\udc40\u2026",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/8K8g73Gmjr https://t.co/rjezaQp1TA",
+        "Personalised Full of Love Pestle &amp; Mortar Gift Shop https://t.co/2cHBCKTHnJ",
+        "CoStar News - BB&amp;T's $66 Billion SunTrust Purchase to Shake Up Real Estate Footprints Across the US Southeast https://t.co/QCB84tsczp https://t.co/xUSPmqk9el",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/uKvA8ew50K https://t.co/cixtkuZuli",
+        "RT @paulaannev: Photographic wall art in my online Redbubble shop https://t.co/TihUPEyhkH   Animals, flowers, temples, Japanese culture and\u2026",
+        "RT @GammaGuts: https://t.co/dcpeHlBuqd this article is fucking me up.\nThe largest industry user of glitter:\n-doesnt want to be named, becau\u2026",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/Gnju7TsCyl https://t.co/H6NPXT2szA",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/6R9NBY2T1C https://t.co/mbPYBNTMjE",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/O9yrPBOkIE https://t.co/etgHvfR3pg",
+        "The Big One\u00ae\ufe0f\ufe0f Supersoft Plush Throw https://t.co/0kAR7ka2xf https://t.co/9YCa264ziQ",
+        "RT @Diegor_Barros: 1,2,3 or 4?? \ud83e\udd14\nhttps://t.co/6QLWKqBGTo\n\n\ud83d\udd30Not too long until we launch the coconut underwear, pre-order yours NOW (Buy a\u2026",
+        "RT @_janjerome: Who needs guns? PUT THE TEAM ON MY BACK! #PS4share\n\nhttps://t.co/ioShl4LVYO https://t.co/sZKVkZAYSf",
+        "QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life.  By John G. Miller  https://t.co/uBYWgIEjvf",
+        "@LiliVessTweets MaRo said modern players were gonna like his product for the end of February",
+        "\ud83d\ude21WHITEWASHED\nBlack &amp; brilliant- so historians said they were white!\nHidden from us for centuries, a powerful and inspiring story of black resistance\nand final victory.\nClick to see the book: https://t.co/Y3ZZ34WCAj \n\n#blackmen https://t.co/Uikg9ZZ1rg",
+        "\u2764\ufe0fTHE VIRGIN QUEEN'S BLACK LOVER\nHe was the most experienced person she knew, the most astute - and the most utterly \ndedicated. He had also made her pregnant, and a black heir to the throne was due in \nSeptember... https://t.co/Y3ZZ34WCAj\u00a0\n\n#meme https://t.co/zVTBjQaqT7",
+        "RT @matty_TruTH: #Blackout  #PS4share @de_cNile i know im bugging you now but...\n\nhttps://t.co/7n68LjWS0t https://t.co/lDSksMSSGK",
+        "RT @nasuslee_: This was a piece I tried finishing many many times. Finally I am able to share the finished product with you all! I did all\u2026",
+        "RT @paulaannev: Photographic wall art in my online Redbubble shop  https://t.co/TihUPEyhkH   Animals, flowers, temples, Japanese  culture a\u2026",
+        "Pack of 2 Castor Oil, only $10.99   \n\nhttps://t.co/G8AdTRwCUV https://t.co/TR2ueRCvqM",
+        "RT @paulaannev: Photographic wall art in my online Redbubble shop  https://t.co/TihUPEyhkH   Animals, flowers, temples, Japanese  culture a\u2026",
+        "#JUMEE @JumeeMusic Featured In #MusicLov3rz Magazine January edition! https://t.co/KNhaP5m9wp https://t.co/avg1DsZ5C3\nhttps://t.co/5mxbSO2k12\n-&gt;",
+        "#JUMEE @JumeeMusic Featured In #MusicLov3rz Magazine January edition! https://t.co/268HlcYcTg https://t.co/rOvFCDrNFt\nhttps://t.co/WWyoW7moZc\n-&gt;",
+        "RT @TwitterSafety: Safety is our top priority. Last year, we launched over 70 product and policy updates to build a healthier Twitter.\n\nWe\u2019\u2026",
+        "RT @byosko: Launching a new product isn\u2019t a \u201cshock and awe\u201d campaign. Great analysis on what @SuperhumanCo is doing (I have to book my call\u2026",
+        "Featured on the cover of #MusicLov3rz Magazine January 2019 - @KevinRayNichols &amp; his #NewAlbum God Is My Song https://t.co/IPL0c8vcOE https://t.co/JToz10C3IH\u200b #Christian #Worship #Album \u200bhttps://t.co/y8OLEwOBem\n-&gt;",
+        "@AnttDave But keep your eyes on the site as we update stock daily. You might be able to find something similar - try entering a basic product description in the search bar. You can refine the search results using the options at the top of the page. 2/2",
+        "RT @paulaannev: Photographic wall art in my online Redbubble shop  https://t.co/TihUPEyhkH   Animals, flowers, temples, Japanese  culture a\u2026"
+    ],
+    "source": [
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://www.playstation.com\" rel=\"nofollow\">PlayStation(R)4</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://tweetmyjobs.com\" rel=\"nofollow\">SafeTweet by TweetMyJOBS</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"https://www.uberbuyer.com\" rel=\"nofollow\">uberbuyer</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://www.playstation.com\" rel=\"nofollow\">PlayStation(R)4</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://www.outfy.com\" rel=\"nofollow\">Outfy</a>",
+        "<a href=\"http://www.playstation.com\" rel=\"nofollow\">PlayStation(R)4</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://www.playstation.com\" rel=\"nofollow\">PlayStation(R)4</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://giftsshop.co.uk\" rel=\"nofollow\">Gifts Shop</a>",
+        "<a href=\"http://www.everyonesocial.com\" rel=\"nofollow\">EveryoneSocial</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://meetedgar.com\" rel=\"nofollow\">Meet Edgar</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://www.gnatta.com\" rel=\"nofollow\">gnatta.com</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+    ],
+    "coordinates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+            "type": "Point",
+            "coordinates": [
+                -96.7969879,
+                32.7766642
+            ]
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "language": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "hashtags": [
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "PS4share",
+                "indices": [
+                    30,
+                    39
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "ValentinesDay",
+                "indices": [
+                    31,
+                    45
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Marketing",
+                "indices": [
+                    146,
+                    156
+                ]
+            },
+            {
+                "text": "Dallas",
+                "indices": [
+                    157,
+                    164
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "OhHeDead",
+                "indices": [
+                    13,
+                    22
+                ]
+            },
+            {
+                "text": "TeaTime",
+                "indices": [
+                    23,
+                    31
+                ]
+            },
+            {
+                "text": "TacAttack",
+                "indices": [
+                    32,
+                    42
+                ]
+            },
+            {
+                "text": "Fortnite",
+                "indices": [
+                    43,
+                    52
+                ]
+            },
+            {
+                "text": "VictoryRoyale",
+                "indices": [
+                    53,
+                    67
+                ]
+            },
+            {
+                "text": "PS4share",
+                "indices": [
+                    68,
+                    77
+                ]
+            }
+        ],
+        [
+            {
+                "text": "PS4share",
+                "indices": [
+                    41,
+                    50
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "me",
+                "indices": [
+                    84,
+                    87
+                ]
+            },
+            {
+                "text": "likeforlike",
+                "indices": [
+                    88,
+                    100
+                ]
+            }
+        ],
+        [
+            {
+                "text": "PS4share",
+                "indices": [
+                    43,
+                    52
+                ]
+            },
+            {
+                "text": "Overwatch",
+                "indices": [
+                    53,
+                    63
+                ]
+            }
+        ],
+        [
+            {
+                "text": "KissBoysTH",
+                "indices": [
+                    55,
+                    66
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "ApexLegends",
+                "indices": [
+                    84,
+                    96
+                ]
+            },
+            {
+                "text": "PS4share",
+                "indices": [
+                    97,
+                    106
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "prodmgmt",
+                "indices": [
+                    72,
+                    81
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Candytopia",
+                "indices": [
+                    102,
+                    113
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "FRIDAY",
+                "indices": [
+                    20,
+                    27
+                ]
+            }
+        ],
+        [
+            {
+                "text": "SneakPeek",
+                "indices": [
+                    125,
+                    135
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "PS4share",
+                "indices": [
+                    57,
+                    66
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "blackmen",
+                "indices": [
+                    221,
+                    230
+                ]
+            }
+        ],
+        [
+            {
+                "text": "meme",
+                "indices": [
+                    242,
+                    247
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Blackout",
+                "indices": [
+                    17,
+                    26
+                ]
+            },
+            {
+                "text": "PS4share",
+                "indices": [
+                    28,
+                    37
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "JUMEE",
+                "indices": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "text": "MusicLov3rz",
+                "indices": [
+                    31,
+                    43
+                ]
+            }
+        ],
+        [
+            {
+                "text": "JUMEE",
+                "indices": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "text": "MusicLov3rz",
+                "indices": [
+                    31,
+                    43
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "MusicLov3rz",
+                "indices": [
+                    25,
+                    37
+                ]
+            },
+            {
+                "text": "NewAlbum",
+                "indices": [
+                    89,
+                    98
+                ]
+            },
+            {
+                "text": "Christian",
+                "indices": [
+                    163,
+                    173
+                ]
+            },
+            {
+                "text": "Worship",
+                "indices": [
+                    174,
+                    182
+                ]
+            },
+            {
+                "text": "Album",
+                "indices": [
+                    183,
+                    189
+                ]
+            }
+        ],
+        [],
+        []
+    ]
+}

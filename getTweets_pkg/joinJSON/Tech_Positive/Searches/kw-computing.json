@@ -1,0 +1,1286 @@
+{
+    "user": [
+        "bbcideas",
+        "OKEx",
+        "PrideInLondon",
+        "TopStartupsUSA",
+        "HPCwire",
+        "SiliconWebX",
+        "BowlerBarrister",
+        "OpenFog",
+        "fintechna",
+        "JPgetssocial",
+        "sycramore",
+        "Pardoe_AI",
+        "sanketdoshi579",
+        "aDiddyy",
+        "BowlerBarrister",
+        "ljw870910",
+        "jschrater",
+        "Ashot_",
+        "7NewsSydney",
+        "rchiuppi",
+        "PawseyCentre",
+        "danielas_bot",
+        "Relay_Tx",
+        "pazafuera",
+        "_birds_eye",
+        "NayaYates",
+        "geeknewslink",
+        "stanamor",
+        "7NewsMelbourne",
+        "meikoutoryou",
+        "ColocationUSA",
+        "terrychristiani",
+        "danielas_bot",
+        "toddakavincent",
+        "GoNorthStack",
+        "SindSec",
+        "Corp_Tweetbot",
+        "DrJM_Fernandez",
+        "drgemmadiaries",
+        "PamelaHolding",
+        "hackinthebox",
+        "Last_Lawbender",
+        "alexstfu",
+        "twitrpitrpatr",
+        "cryptoajt",
+        "Cloud_SDN",
+        "Tentoads4truth",
+        "GoogleTrendsOn1",
+        "corp_marcos",
+        "botconference",
+        "bug_less",
+        "susankitchens",
+        "vandemorteln",
+        "StartupsBot",
+        "Cloud_SDN",
+        "AdvancedHPC",
+        "MQMathsStats",
+        "davidroxdad",
+        "nbbirch22",
+        "CloudCoopItaly",
+        "Snarkathon",
+        "campuscodi",
+        "Panneko88013933",
+        "MariaIs84081075",
+        "terzima",
+        "Cloud_SDN",
+        "group_hj",
+        "Cloud_SDN",
+        "EagleStarNET",
+        "Cloud_SDN",
+        "snavenai",
+        "ServerlessFan",
+        "PCKJ3627",
+        "stackeryio",
+        "tech_explosion",
+        "atruent",
+        "cteo_day1",
+        "TheCuriousLuke",
+        "wcs_computing",
+        "pdrini_guardian",
+        "sal_salvadori",
+        "ModFigsPodcast",
+        "Shenoda_B",
+        "Sion_Smith",
+        "wordfinga",
+        "violentcactus",
+        "misfitsec",
+        "TechNativeWire",
+        "sal_salvadori",
+        "robthbrown",
+        "akronohioanon2",
+        "rozmar11",
+        "Jennifer_Worrel",
+        "Edwinsson",
+        "aimtiaz",
+        "seanbreeden",
+        "akronohioanon1",
+        "MargaretWallace",
+        "adrijovin"
+    ],
+    "date": [
+        "Thu Feb 07 09:20:01 +0000 2019",
+        "Thu Feb 07 03:01:19 +0000 2019",
+        "Wed Feb 06 07:51:57 +0000 2019",
+        "Fri Feb 08 00:54:54 +0000 2019",
+        "Fri Feb 08 00:54:48 +0000 2019",
+        "Fri Feb 08 00:54:11 +0000 2019",
+        "Fri Feb 08 00:54:10 +0000 2019",
+        "Fri Feb 08 00:53:20 +0000 2019",
+        "Fri Feb 08 00:52:59 +0000 2019",
+        "Fri Feb 08 00:52:53 +0000 2019",
+        "Fri Feb 08 00:52:52 +0000 2019",
+        "Fri Feb 08 00:52:30 +0000 2019",
+        "Fri Feb 08 00:52:12 +0000 2019",
+        "Fri Feb 08 00:51:07 +0000 2019",
+        "Fri Feb 08 00:50:43 +0000 2019",
+        "Fri Feb 08 00:50:12 +0000 2019",
+        "Fri Feb 08 00:50:00 +0000 2019",
+        "Fri Feb 08 00:49:41 +0000 2019",
+        "Fri Feb 08 00:49:25 +0000 2019",
+        "Fri Feb 08 00:49:15 +0000 2019",
+        "Fri Feb 08 00:48:54 +0000 2019",
+        "Fri Feb 08 00:47:59 +0000 2019",
+        "Fri Feb 08 00:47:24 +0000 2019",
+        "Fri Feb 08 00:46:43 +0000 2019",
+        "Fri Feb 08 00:46:34 +0000 2019",
+        "Fri Feb 08 00:46:18 +0000 2019",
+        "Fri Feb 08 00:46:01 +0000 2019",
+        "Fri Feb 08 00:45:10 +0000 2019",
+        "Fri Feb 08 00:44:55 +0000 2019",
+        "Fri Feb 08 00:44:22 +0000 2019",
+        "Fri Feb 08 00:44:01 +0000 2019",
+        "Fri Feb 08 00:42:56 +0000 2019",
+        "Fri Feb 08 00:42:20 +0000 2019",
+        "Fri Feb 08 00:42:06 +0000 2019",
+        "Fri Feb 08 00:41:33 +0000 2019",
+        "Fri Feb 08 00:41:25 +0000 2019",
+        "Fri Feb 08 00:40:51 +0000 2019",
+        "Fri Feb 08 00:40:22 +0000 2019",
+        "Fri Feb 08 00:39:57 +0000 2019",
+        "Fri Feb 08 00:39:46 +0000 2019",
+        "Fri Feb 08 00:39:38 +0000 2019",
+        "Fri Feb 08 00:38:41 +0000 2019",
+        "Fri Feb 08 00:38:16 +0000 2019",
+        "Fri Feb 08 00:38:09 +0000 2019",
+        "Fri Feb 08 00:36:30 +0000 2019",
+        "Fri Feb 08 00:36:21 +0000 2019",
+        "Fri Feb 08 00:36:09 +0000 2019",
+        "Fri Feb 08 00:36:00 +0000 2019",
+        "Fri Feb 08 00:35:59 +0000 2019",
+        "Fri Feb 08 00:35:44 +0000 2019",
+        "Fri Feb 08 00:35:36 +0000 2019",
+        "Fri Feb 08 00:34:52 +0000 2019",
+        "Fri Feb 08 00:34:42 +0000 2019",
+        "Fri Feb 08 00:34:02 +0000 2019",
+        "Fri Feb 08 00:33:57 +0000 2019",
+        "Fri Feb 08 00:33:53 +0000 2019",
+        "Fri Feb 08 00:33:31 +0000 2019",
+        "Fri Feb 08 00:33:22 +0000 2019",
+        "Fri Feb 08 00:33:05 +0000 2019",
+        "Fri Feb 08 00:32:41 +0000 2019",
+        "Fri Feb 08 00:32:39 +0000 2019",
+        "Fri Feb 08 00:32:23 +0000 2019",
+        "Fri Feb 08 00:32:12 +0000 2019",
+        "Fri Feb 08 00:32:01 +0000 2019",
+        "Fri Feb 08 00:31:49 +0000 2019",
+        "Fri Feb 08 00:31:40 +0000 2019",
+        "Fri Feb 08 00:31:31 +0000 2019",
+        "Fri Feb 08 00:31:15 +0000 2019",
+        "Fri Feb 08 00:30:40 +0000 2019",
+        "Fri Feb 08 00:30:35 +0000 2019",
+        "Fri Feb 08 00:30:30 +0000 2019",
+        "Fri Feb 08 00:30:18 +0000 2019",
+        "Fri Feb 08 00:30:16 +0000 2019",
+        "Fri Feb 08 00:30:13 +0000 2019",
+        "Fri Feb 08 00:30:11 +0000 2019",
+        "Fri Feb 08 00:30:08 +0000 2019",
+        "Fri Feb 08 00:30:08 +0000 2019",
+        "Fri Feb 08 00:30:04 +0000 2019",
+        "Fri Feb 08 00:29:39 +0000 2019",
+        "Fri Feb 08 00:29:38 +0000 2019",
+        "Fri Feb 08 00:29:28 +0000 2019",
+        "Fri Feb 08 00:29:19 +0000 2019",
+        "Fri Feb 08 00:29:06 +0000 2019",
+        "Fri Feb 08 00:29:01 +0000 2019",
+        "Fri Feb 08 00:28:35 +0000 2019",
+        "Fri Feb 08 00:28:23 +0000 2019",
+        "Fri Feb 08 00:28:22 +0000 2019",
+        "Fri Feb 08 00:27:55 +0000 2019",
+        "Fri Feb 08 00:27:51 +0000 2019",
+        "Fri Feb 08 00:27:51 +0000 2019",
+        "Fri Feb 08 00:27:38 +0000 2019",
+        "Fri Feb 08 00:27:34 +0000 2019",
+        "Fri Feb 08 00:27:26 +0000 2019",
+        "Fri Feb 08 00:27:23 +0000 2019",
+        "Fri Feb 08 00:27:16 +0000 2019",
+        "Fri Feb 08 00:27:13 +0000 2019",
+        "Fri Feb 08 00:27:07 +0000 2019",
+        "Fri Feb 08 00:26:46 +0000 2019",
+        "Fri Feb 08 00:26:21 +0000 2019"
+    ],
+    "text": [
+        "Women dominated the computing industry in the '50s and '60s - so where did they all go? @histoftech takes a look https://t.co/3c4avnzZkL",
+        "#OKDidYouKnow \nEP 10: Blockchain\n\n\ud83c\udfb2 Answer to Win 20 USDT:\nDoes OKEx have listed projects devoting on distributed computing and storage?\n\nTo Enter\n\u2705Follow\n\u2705RT\n\u2705Tag 3 friends\n\u2705Fill in the form: https://t.co/4WkqwyZm1L\n\n\ud83c\udfc5 We\u2019ll draw 5 winners on Feb 11 (HKT) https://t.co/rErNe6jWw7",
+        "Amazing news that #AlanTuring has been voted #Icons 'Greatest Person of the 20th Century'. He's the father of computing, helped crack the Enigma code that won the war, but wasn't treated like a hero in his lifetime due to his sexuality. Great to see he is getting recognition now. https://t.co/a2C5hNbpcm",
+        "RT @DavidLinthicum: \"Special #Cloud Computing Guests on LATEST PODCAST Shows with @Nelson_Hilliard @DavidLinthicum, #CSuites #CLevels #CTO\u2026",
+        "News: SRC-Funded Center Focuses on Higher-Performance Computing at Lower Cost\nhttps://t.co/bEljT84VvP / #HPC",
+        "Mozilla exec calls on Congress to restore 2015 net neutrality protections  https://t.co/JESsv2cOyX\u00a0\nHackersDude | DigitalTrends https://t.co/cP9MSLCuJg",
+        "The federal parliamentary computing network was hacked overnight.\nThe AFP will not be able to find any evidence of wrongdoing, if you go on their record of investigating parliamentary misbehaviour.",
+        "RT @OpenFog: A new innovation that allows computation to flow anywhere could drop the time it takes to access #IoT #data to less than a mil\u2026",
+        "RT @DavidLinthicum: \"Special #Cloud Computing Guests on LATEST PODCAST Shows with @Nelson_Hilliard @DavidLinthicum, #CSuites #CLevels #CTO\u2026",
+        "RT @macrometacorp: Cloud Computing Doesn't Matter in 2019\nhttps://t.co/qaNI2gq7wo",
+        "RT @CostaSamaras: Google\u2019s R&amp;D investment, in context:\n\nAnnual R&amp;D:\n\u2022 EPA Air &amp; Energy: $0.09B\n\u2022 EPA Chemical Safety: $0.13B\n\u2022 ARPA-E: $0.3\u2026",
+        "RT @DavidLinthicum: \"Special #Cloud Computing Guests on LATEST PODCAST Shows with @Nelson_Hilliard @DavidLinthicum, #CSuites #CLevels #CTO\u2026",
+        "RT @siraj2020: #ArtificialIntelligence Outperforms Human #DataScientists\nhttps://t.co/9QVbwQMdh0",
+        "RT PawseyCentre \"RT argonne_lcf: Proposals for the ASCR Leadership Computing Challenge are due Feb. 13. Open to researchers from industry, academia and gov't agencies, the ALCC program provides access to ENERGY supercomputers to power breakthroughs i\u2026 https://t.co/MUJryFwtQW\"",
+        "RT @7NewsMelbourne: The federal government has launched an investigation after the parliamentary computing network was hacked overnight. #7\u2026",
+        "RT @OKEx: #OKDidYouKnow \nEP 10: Blockchain\n\n\ud83c\udfb2 Answer to Win 20 USDT:\nDoes OKEx have listed projects devoting on distributed computing and s\u2026",
+        "Have you joined the @googlecloud Confidential Computing Challenge? What's your idea for how #Asylo and #IntelSGX can help secure data in the cloud? Sign up now: https://t.co/jmM683Vwgy #IamIntel",
+        "RT @SAMLabs: Check out our new STEAM solutions to get your classes STEAMing ahead in 2019!\n\nhttps://t.co/l9bim3wbqp\n\n#bett2019 #STEAM #STEM\u2026",
+        "The Federal Government has launched an investigation after the Parliamentary computing network was hacked overnight. Officials can't rule out theft of data but say there's no evidence to suggest this was an attempt to influence the outcome of parliamentary or electoral processes. https://t.co/nFTnMLkyOs",
+        "RT @InfoSecHotSpot: Android security flaw enables hackers to execute malicious code - just from a PNG image https://t.co/4Vd3yGgTG9 via @In\u2026",
+        "RT @argonne_lcf: Proposals for the ASCR Leadership Computing Challenge are due Feb. 13. Open to researchers from industry, academia and gov\u2026",
+        "What has been the biggest obstacle to computers improving drug R&amp;D? Computing power, messy data, or a lack of tech talent? Relay Therapeutics\u2019 Sanjiv Patel says all of the above. What do you think? #wsjtechhealth",
+        "RT @danielas_bot: You can\u2019t just push a button on a computer, and have a drug pop out, says Relay Therapeutics\u2019 Sanjiv Patel. Real experime\u2026",
+        "@RubinReport ...he said without an ounce of irony as he typed his opinion into a computing device built by billionaires, on a social platform built by billionaires.",
+        "1. CIA's Deal With Amazon a $600 million computing cloud built by an outside company is a \"radical departure\" for the risk-averse intelligence community.\u00a0\n\n https://t.co/pJsPIvORbq",
+        "RT @techreview: Six questions you were too embarrassed to ask about quantum computing. by @martingiles https://t.co/ILjrJn9unz",
+        "Linux Task Apps: Plenty of Goodies in These Oldies https://t.co/vs6GCHHn04\nvia @technewsworld #computing #linux https://t.co/IFVmYYveD5",
+        "RT @politicsabc: BREAKING. The security breach on Federal Parliament\u2019s computing network is likely to be a state-based attack. The ABC unde\u2026",
+        "The federal government has launched an investigation after the parliamentary computing network was hacked overnight. #7News https://t.co/HigBPyDDpP",
+        "RT @greene: Intel CTO Mike Mayberry on quantum computing, driverless cars and a chip that copies the human brain https://t.co/uEup8Y5H1k vi\u2026",
+        "DYK: Virtualization is, in many ways, what makes #CloudComputing possible. Here's what it means for your business: https://t.co/MudWi4xEnf\n#business #technology https://t.co/5wnU2Ge79I",
+        "RT @revodavid: Azure Machine Learning gets InfoWorld's Editor's Choice award: https://t.co/IoO4BJpyBc",
+        "You can\u2019t just push a button on a computer, and have a drug pop out, says Relay Therapeutics\u2019 Sanjiv Patel. Real experimental data is crucial, in high definition. Computing power is key to make sense of it.  #wsjtechhealth",
+        "@EricHolthaus One question, how does international shipping work without fossil fuels or nuclear power? Are we to go back to sailing Tall Ships? There is a saying in computing, garbage in, garbage out. Proposing preposterous solutions will only lead to unworkable actions.",
+        "RT @stackeryio: Don't miss our recent infographic that charts the interesting journey to #serverless computing in 2019. Find out how we got\u2026",
+        "RT @CostaSamaras: Google\u2019s R&amp;D investment, in context:\n\nAnnual R&amp;D:\n\u2022 EPA Air &amp; Energy: $0.09B\n\u2022 EPA Chemical Safety: $0.13B\n\u2022 ARPA-E: $0.3\u2026",
+        "The hardworking staff at Cerulean Capital (Earth) Syndicate are putting the finishing touches on our next product: digital drones using quantum computing.",
+        "Federal parliamentary computing system users forced to reset passwords after a \u2018sophisticated\u2019 security incident on the network. https://t.co/Obk2uoYXkn",
+        "RT @NCWIT: The second episode of @ModFigsPodcast about Black women in computing is here! Find out what Dr. Stacie LeSure, creator of Engine\u2026",
+        "RT @australian: Australia\u2019s security agencies are investigating a \u201ccyber-security incident\u201d on the parliamentary computing services in Canb\u2026",
+        "Australian government computing network reset following security 'incident' https://t.co/xHYHH7QMtD",
+        "RT @politicsabc: BREAKING. The security breach on Federal Parliament\u2019s computing network is likely to be a state-based attack. The ABC unde\u2026",
+        "RT @bbcideas: Women dominated the computing industry in the '50s and '60s - so where did they all go? @histoftech takes a look https://t.co\u2026",
+        "RT @nassaraf: #DidYouKnow women dominated the computing industry in the 1950s and 1960s? \ud83d\udc69\ud83c\udffd\u200d\ud83d\udcbb\nSo where did they all go? @histoftech takes a\u2026",
+        "RT @OKEx: #OKDidYouKnow \nEP 10: Blockchain\n\n\ud83c\udfb2 Answer to Win 20 USDT:\nDoes OKEx have listed projects devoting on distributed computing and s\u2026",
+        "Middle East &amp; Africa Cloud Infrastructure Services Market 2018-2025 by Deployment (Public, Private, Cloud), Service (PaaS, IaaS, CDN/AND, DRaaS) &amp; Organization -  #cloud_computing",
+        "@AbstractBanking @truenorthpoint @OklahomaPatrio1 Supposedly Salesforce Billionaire Marc Benioff To Buy 'Time' Magazine. Marc Benioff, the billionaire cofounder of cloud computing software firm Salesforce, and his wife, Lynne Benioff, are purchasing Time magazine from Meredith Corp. for $190 million. https://t.co/QXiCBxwnof",
+        "International Connectivity Constraint Computing Market 2019- IBM, Google, Amazon, Microsoft, TATA Consultancy Companies \u2013 Crypto\u00a0Information https://t.co/eSC2wk5MfG",
+        "RT @ESnet: RT @antgrasso: Edge computing allows data produced by internet of things (IoT) devices to be processed closer to where it is cre\u2026",
+        "\"Don't ask why, ask why not. The next Facebook destroys millennials. Fuck omni-context. Quantum computing is the next generation's emoji.\"",
+        "Australian government computing network reset following security 'incident' https://t.co/hKEGGesgWH",
+        "RT @bbcideas: Women dominated the computing industry in the '50s and '60s - so where did they all go? @histoftech takes a look https://t.co\u2026",
+        "RT @VCRebecca: \"The emergence of cloud and mobile computing along with advancements in software has been transformative to the industry\" sa\u2026",
+        "RT @AdvancedHPC: Munich #Startup Uses #AI to Turn 2D Ultrasounds into 3D Images: https://t.co/ACJc2NFQd7\n\n@AdvancedHPC, @NVIDIA Preferred P\u2026",
+        "Fusion Telecommunications (FSNN) Announces 5-Yr $4.25M Single Source Cloud Solutions Agreement with Major Diversified Food Services Company -  #cloud_computing #SaaS",
+        "Munich #Startup Uses #AI to Turn 2D Ultrasounds into 3D Images: https://t.co/ACJc2NFQd7\n\n@AdvancedHPC, @NVIDIA Preferred Partner, can customize a #GPU computing solution to make your #medicalimaging capability world-class. Contact us today: https://t.co/xo3He7pvcI\n\n#ProblemSolved https://t.co/VHFkxgJKQ6",
+        "@computing_mq @Macquarie_Uni @MQSciEng @OptusMQCSH We appreciate your contribution to the department and wish you all the best in your retirement Dr Scott McCallum! \ud83d\udc4f\ud83d\ude4c",
+        "RT @politicsabc: BREAKING. The security breach on Federal Parliament\u2019s computing network is likely to be a state-based attack. The ABC unde\u2026",
+        "@muddled_sage @falafeldiaper1 @Hipster_Trader Dies will just be replaced and they're machine made. Adjustments imply that a computing error or judgement error was made, wouldn't happen by a machine",
+        "RT @stackeryio: Don't miss our recent infographic that charts the interesting journey to #serverless computing in 2019. Find out how we got\u2026",
+        "I was wondering when the \"Chinese hacker\" narrative would be back..\n\"Agencies are looking into whether #China is behind a security breach of the Australian Parliament's computing network..\" https://t.co/zp5BUCvwen #auspol \n\nAt least it wasnt Russia. #smh",
+        "RT @ZDNet: Australian government computing network reset following security 'incident' https://t.co/LFoDhwT6uT by @ashabeeeee",
+        "RT @peterbihr: Noisy devices /\na small number of qubits /\nquantum computing",
+        "RT @JMRConnect_PR: Multi-cloud strategy solutions are becoming the main choice for growth-minded companies. Find out why: https://t.co/h5qo\u2026",
+        "RT @ChadCardenas: Congratulations @CatoNetworks @shlomokr on your latest round! #tech #startup #entrepreneur #venturecapital\nhttps://t.co/V\u2026",
+        "IaaS vs PaaS vs SaaS Cloud Computing Architectures Compared -  #SDN #cloudnetwork",
+        "RT @taylorpfreeman: The future of #VR is going to be imperceivable from reality, unlike anything we can imagine today. I couldn\u2019t agree mor\u2026",
+        "HHS and HSSC Release New Cybersecurity Practices for the Health Care Industry -  #cloudstorage #cloud_computing",
+        "A flaw in e-ticket systems could mean a hacker can print your boarding pass https://t.co/UgfDOXVcDK https://t.co/Qwpl5yUE5j",
+        "The 2019 Digital Infrastructure: Worldwide Forecasts Through 2018-2022 on NFV, SDN and Cloud Computing -  #cloudstorage",
+        "RT @bbcideas: Women dominated the computing industry in the '50s and '60s - so where did they all go? @histoftech takes a look https://t.co\u2026",
+        "RT @stackeryio: Don't miss our recent infographic that charts the interesting journey to #serverless computing in 2019. Find out how we got\u2026",
+        "RT @politicsabc: BREAKING. The security breach on Federal Parliament\u2019s computing network is likely to be a state-based attack. The ABC unde\u2026",
+        "Don't miss our recent infographic that charts the interesting journey to #serverless computing in 2019. Find out how we got here: https://t.co/rF69RmAzmY",
+        "Mozilla exec calls on Congress to restore 2015 net neutrality protections https://t.co/We4vVnlutc https://t.co/uIoua8BrrR",
+        "How #Facebook Has Changed #Computing https://t.co/fjVpklNqxY https://t.co/qwSIoPTqvb",
+        "RT @awscloud: Do you want to learn cloud computing at your own pace? Access our complimentary digital training. https://t.co/zcUhLIJjlJ htt\u2026",
+        "RT @BlockchainConIo: E-Commerce, Payments, Platform, and Product Innovation, #DataScience #MachineLearning #ArtificialIntelligence, Open St\u2026",
+        "RT @WestLoCollege: There are expected to be over 700 new jobs in computing in West Lothian in the next 10 years.\nFind out how you can get t\u2026",
+        "RT @BlockchainConIo: E-Commerce, Payments, Platform, and Product Innovation, #DataScience #MachineLearning #ArtificialIntelligence, Open St\u2026",
+        "@JeffBezos The Details About the CIA's Deal With Amazon\nA $600 million computing cloud built by an outside company is a \"radical departure\" for the risk-averse intelligence community. We won\u2019t make same mistake as they did busn w\u0328federal Reserve. You\u2019ll be the next trouble. @POTUS",
+        "RT @NCWIT: The second episode of @ModFigsPodcast about Black women in computing is here! Find out what Dr. Stacie LeSure, creator of Engine\u2026",
+        "Gartner: Cloud, enterprise software to drive global IT spending increase https://t.co/8ulhbvjcb5",
+        "Amazon FSx for Lustre Offers New Options and Faster Speeds for Working with S3 Data https://t.co/wZLQhWOjaQ #aws #cloud #computing",
+        "RT @JMRConnect_PR: Multi-cloud strategy solutions are becoming the main choice for growth-minded companies. Find out why: https://t.co/h5qo\u2026",
+        "Holy cow! I just got an email from a recruiter for a full time position with Google on their cloud computing team!!!!!!!!!!!!!!!!!!",
+        "RT @HamlinDebbi: Accused hacker Lauri Love to sue National Crime Agency to retrieve confiscated computing kit  https://t.co/ELsBcjhLkT",
+        "RT @ITSonCloud: The cloud industry in 2019 - Three key predictions for the CIO https://t.co/0YW2mLmhiH via @TechNative\n#cloudcomputing #com\u2026",
+        "@JeffBezos But, The Details About the CIA's Deal With Amazon\nA $600 million computing cloud built by an outside company is a \"radical departure\" for the risk-averse intelligence community. We say NO!. You don\u2019t need access to our classified treasure. Next you\u2019ll turn it over to UN. @POTUS",
+        "36 hours to 9 minutes... Forget quantum computing for a minute.  THAT is a huge #augmentedreality generated quantum leap in time...   (\"Quantum Leap\": hey @PTC maybe that's a cool new name... no \"magic\" to it?) https://t.co/gUtFaEw9Aa",
+        "RT @HamlinDebbi: Accused hacker Lauri Love to sue National Crime Agency to retrieve confiscated computing kit  https://t.co/ELsBcjhLkT",
+        "RT @politicsabc: BREAKING. The security breach on Federal Parliament\u2019s computing network is likely to be a state-based attack. The ABC unde\u2026",
+        "@SethAMandel @benshapiro Call me crazy, but I assumed the guy who owned THE LARGEST CLOUD COMPUTING COMPANY IN THE WORLD would either have better security on his phone or know better than to take a dick pic.",
+        "I like them all! With modern computing and graphics you could make quite a professional jacket. https://t.co/E2wP1WjzSo",
+        "RT @Fallibilist1: In order to promote high tech &amp; computer studies, President Alvi @ArifAlvi, in cooperation with IBM, launches Presidentia\u2026",
+        "RT @WevolverApp: The @DAQRI smart glasses can operate wirelessly, using bluetooth and wi-fi technology, with a wait-mounted control box pro\u2026",
+        "RT @HamlinDebbi: Accused hacker Lauri Love to sue National Crime Agency to retrieve confiscated computing kit  https://t.co/ELsBcjhLkT",
+        "RT @WevolverApp: The @DAQRI smart glasses can operate wirelessly, using bluetooth and wi-fi technology, with a wait-mounted control box pro\u2026",
+        "Mayhem, the Machine That Finds Software Vulnerabilities, Then Patches Them https://t.co/nqHpCXnflN"
+    ],
+    "source": [
+        "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "<a href=\"https://amplifr.com\" rel=\"nofollow\">Amplifr</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://twitter.com/ZeroGlutine_it\" rel=\"nofollow\">ZeroGlutineMio</a>",
+        "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://news.fintechna.com\" rel=\"nofollow\">fintrt</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://cricknation.com\" rel=\"nofollow\">Twitter Growth App</a>",
+        "<a href=\"https://twitter.com\" rel=\"nofollow\">Sanket Doshi</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://apollo.korbot.io\" rel=\"nofollow\">Korbot Labs</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"https://www.gretsky.services/\" rel=\"nofollow\">Media_Post_V_1</a>",
+        "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://iamshakes.com\" rel=\"nofollow\">nserverless</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://twitter.com/TaleweaversLoom\" rel=\"nofollow\">The Corporate Tweetbot</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://apps.twitter.com\" rel=\"nofollow\">Twitter iphone7 App</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://www.example.com\" rel=\"nofollow\">BotAnalytic</a>",
+        "<a href=\"https://apps.twitter.com\" rel=\"nofollow\">Twitter iphone7 App</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://www.cloudcoop.it\" rel=\"nofollow\">CloudCoop</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://www.massimilianoterzi.it\" rel=\"nofollow\">Massiapp</a>",
+        "<a href=\"https://apps.twitter.com\" rel=\"nofollow\">Twitter iphone7 App</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"https://apps.twitter.com\" rel=\"nofollow\">Twitter iphone7 App</a>",
+        "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+        "<a href=\"https://apps.twitter.com\" rel=\"nofollow\">Twitter iphone7 App</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://localhost.com\" rel=\"nofollow\">Serverless Tweet/Retweet Bot</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"http://gaggleamp.com/twit/\" rel=\"nofollow\">GaggleAMP</a>",
+        "<a href=\"https://www.youtube.com/channel/UCaStUYj5928DlU3CwqFnVxw\" rel=\"nofollow\">RTML</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://dynamicsignal.com/\" rel=\"nofollow\">Dynamic Signal</a>",
+        "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>"
+    ],
+    "coordinates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "language": [
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en",
+        "en"
+    ],
+    "hashtags": [
+        [],
+        [
+            {
+                "text": "OKDidYouKnow",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        [
+            {
+                "text": "AlanTuring",
+                "indices": [
+                    18,
+                    29
+                ]
+            },
+            {
+                "text": "Icons",
+                "indices": [
+                    45,
+                    51
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Cloud",
+                "indices": [
+                    29,
+                    35
+                ]
+            },
+            {
+                "text": "CSuites",
+                "indices": [
+                    116,
+                    124
+                ]
+            },
+            {
+                "text": "CLevels",
+                "indices": [
+                    125,
+                    133
+                ]
+            },
+            {
+                "text": "CTO",
+                "indices": [
+                    134,
+                    138
+                ]
+            }
+        ],
+        [
+            {
+                "text": "HPC",
+                "indices": [
+                    104,
+                    108
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "IoT",
+                "indices": [
+                    110,
+                    114
+                ]
+            },
+            {
+                "text": "data",
+                "indices": [
+                    115,
+                    120
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Cloud",
+                "indices": [
+                    29,
+                    35
+                ]
+            },
+            {
+                "text": "CSuites",
+                "indices": [
+                    116,
+                    124
+                ]
+            },
+            {
+                "text": "CLevels",
+                "indices": [
+                    125,
+                    133
+                ]
+            },
+            {
+                "text": "CTO",
+                "indices": [
+                    134,
+                    138
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "Cloud",
+                "indices": [
+                    29,
+                    35
+                ]
+            },
+            {
+                "text": "CSuites",
+                "indices": [
+                    116,
+                    124
+                ]
+            },
+            {
+                "text": "CLevels",
+                "indices": [
+                    125,
+                    133
+                ]
+            },
+            {
+                "text": "CTO",
+                "indices": [
+                    134,
+                    138
+                ]
+            }
+        ],
+        [
+            {
+                "text": "ArtificialIntelligence",
+                "indices": [
+                    15,
+                    38
+                ]
+            },
+            {
+                "text": "DataScientists",
+                "indices": [
+                    57,
+                    72
+                ]
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "text": "OKDidYouKnow",
+                "indices": [
+                    10,
+                    23
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Asylo",
+                "indices": [
+                    92,
+                    98
+                ]
+            },
+            {
+                "text": "IntelSGX",
+                "indices": [
+                    103,
+                    112
+                ]
+            },
+            {
+                "text": "IamIntel",
+                "indices": [
+                    185,
+                    194
+                ]
+            }
+        ],
+        [
+            {
+                "text": "bett2019",
+                "indices": [
+                    117,
+                    126
+                ]
+            },
+            {
+                "text": "STEAM",
+                "indices": [
+                    127,
+                    133
+                ]
+            },
+            {
+                "text": "STEM",
+                "indices": [
+                    134,
+                    139
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "wsjtechhealth",
+                "indices": [
+                    202,
+                    216
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "computing",
+                "indices": [
+                    94,
+                    104
+                ]
+            },
+            {
+                "text": "linux",
+                "indices": [
+                    105,
+                    111
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "7News",
+                "indices": [
+                    117,
+                    123
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "CloudComputing",
+                "indices": [
+                    49,
+                    64
+                ]
+            },
+            {
+                "text": "business",
+                "indices": [
+                    139,
+                    148
+                ]
+            },
+            {
+                "text": "technology",
+                "indices": [
+                    149,
+                    160
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "wsjtechhealth",
+                "indices": [
+                    208,
+                    222
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "serverless",
+                "indices": [
+                    89,
+                    100
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "DidYouKnow",
+                "indices": [
+                    14,
+                    25
+                ]
+            }
+        ],
+        [
+            {
+                "text": "OKDidYouKnow",
+                "indices": [
+                    10,
+                    23
+                ]
+            }
+        ],
+        [
+            {
+                "text": "cloud_computing",
+                "indices": [
+                    171,
+                    187
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Startup",
+                "indices": [
+                    24,
+                    32
+                ]
+            },
+            {
+                "text": "AI",
+                "indices": [
+                    38,
+                    41
+                ]
+            }
+        ],
+        [
+            {
+                "text": "cloud_computing",
+                "indices": [
+                    143,
+                    159
+                ]
+            },
+            {
+                "text": "SaaS",
+                "indices": [
+                    160,
+                    165
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Startup",
+                "indices": [
+                    7,
+                    15
+                ]
+            },
+            {
+                "text": "AI",
+                "indices": [
+                    21,
+                    24
+                ]
+            },
+            {
+                "text": "GPU",
+                "indices": [
+                    146,
+                    150
+                ]
+            },
+            {
+                "text": "medicalimaging",
+                "indices": [
+                    183,
+                    198
+                ]
+            },
+            {
+                "text": "ProblemSolved",
+                "indices": [
+                    266,
+                    280
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "serverless",
+                "indices": [
+                    89,
+                    100
+                ]
+            }
+        ],
+        [
+            {
+                "text": "China",
+                "indices": [
+                    103,
+                    109
+                ]
+            },
+            {
+                "text": "auspol",
+                "indices": [
+                    214,
+                    221
+                ]
+            },
+            {
+                "text": "smh",
+                "indices": [
+                    250,
+                    254
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "tech",
+                "indices": [
+                    80,
+                    85
+                ]
+            },
+            {
+                "text": "startup",
+                "indices": [
+                    86,
+                    94
+                ]
+            },
+            {
+                "text": "entrepreneur",
+                "indices": [
+                    95,
+                    108
+                ]
+            },
+            {
+                "text": "venturecapital",
+                "indices": [
+                    109,
+                    124
+                ]
+            }
+        ],
+        [
+            {
+                "text": "SDN",
+                "indices": [
+                    63,
+                    67
+                ]
+            },
+            {
+                "text": "cloudnetwork",
+                "indices": [
+                    68,
+                    81
+                ]
+            }
+        ],
+        [
+            {
+                "text": "VR",
+                "indices": [
+                    34,
+                    37
+                ]
+            }
+        ],
+        [
+            {
+                "text": "cloudstorage",
+                "indices": [
+                    81,
+                    94
+                ]
+            },
+            {
+                "text": "cloud_computing",
+                "indices": [
+                    95,
+                    111
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "cloudstorage",
+                "indices": [
+                    106,
+                    119
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "serverless",
+                "indices": [
+                    89,
+                    100
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "serverless",
+                "indices": [
+                    73,
+                    84
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "Facebook",
+                "indices": [
+                    4,
+                    13
+                ]
+            },
+            {
+                "text": "Computing",
+                "indices": [
+                    26,
+                    36
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "DataScience",
+                "indices": [
+                    77,
+                    89
+                ]
+            },
+            {
+                "text": "MachineLearning",
+                "indices": [
+                    90,
+                    106
+                ]
+            },
+            {
+                "text": "ArtificialIntelligence",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "DataScience",
+                "indices": [
+                    77,
+                    89
+                ]
+            },
+            {
+                "text": "MachineLearning",
+                "indices": [
+                    90,
+                    106
+                ]
+            },
+            {
+                "text": "ArtificialIntelligence",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "aws",
+                "indices": [
+                    108,
+                    112
+                ]
+            },
+            {
+                "text": "cloud",
+                "indices": [
+                    113,
+                    119
+                ]
+            },
+            {
+                "text": "computing",
+                "indices": [
+                    120,
+                    130
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "cloudcomputing",
+                "indices": [
+                    119,
+                    134
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "augmentedreality",
+                "indices": [
+                    80,
+                    97
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ]
+}
