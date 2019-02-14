@@ -8,10 +8,15 @@ import pandas as pd
 
 from helperFunctions import writeAsJSON
 
-DIRECTORY = "Fitness"
-TWITTER_SEARCH = ['yoga', 'crossfit', 'run', 'fitness', 'lifting', 'cardio', 'rock climbing', 'PR', 'MMA', 'boxing', 'dance']
-#TWITTER_SEARCH = ['global warming', 'pollution', 'waste', 'ozone layer', 'water', 'earth', 'climate change', 'plastic', 'marine life', 'turtles', 'deforestation', 'overpopulation', 'biodiversity', 'endangered', 'extinct', 'lanfill']
-#DIRECTORY = "Activism_Environmental"
+DIRECTORY = "Humour"
+TWITTER_SEARCH = ['from:funnyordie', 'from:Dadsaysjokes', 'from:DayliGuyThougts', 'from:FunnyOneLiners', 'from:ApocalypseHow', 'from:PaulyPeligroso', 'from:Disalmanac', 'from:LIFECOACHERS', 'from:thesulk']
+
+# DIRECTORY = "Political"
+# TWITTER_SEARCH = ['Barack Obama', 'Ted Cruz', 'Beto O\'Rourke', 'border Wall Mexico', 'immigration', 'abortion', 'planned parenthood', 'gerrymandering', 'war on drugs', 'net neutrality', 'affirmative action', 'obamacare ACA', 'medicare for all']
+# DIRECTORY = "Fitness"
+# TWITTER_SEARCH = ['yoga', 'crossfit', 'run', 'fitness', 'lifting', 'cardio', 'rock climbing', 'PR', 'MMA', 'boxing', 'dance']
+# TWITTER_SEARCH = ['global warming', 'pollution', 'waste', 'ozone layer', 'water', 'earth', 'climate change', 'plastic', 'marine life', 'turtles', 'deforestation', 'overpopulation', 'biodiversity', 'endangered', 'extinct', 'lanfill']
+# DIRECTORY = "Activism_Environmental"
 
 # Load credentials from JSON file
 with open('twitter_credentials.json', 'r') as file:
@@ -30,7 +35,7 @@ results = {}
 while (len(TWITTER_SEARCH)) > i:
 
     JSON_SAVE_FILE = "joinJSON/" + DIRECTORY + "/data" + str(i + 1) + ".json" 
-    results.update(twitter.search(q=TWITTER_SEARCH[i], result_type='mixed', lang='en', count='25'))
+    results.update(twitter.search(q=TWITTER_SEARCH[i], result_type='mixed', lang='en', count='50'))
 
     # Take only what we want from the results (just a couple attributes for now)
     dict_ = {'user': [], 'date': [], 'text': [], 'source': [], 'coordinates': [], 'language': [], 'hashtags': []}

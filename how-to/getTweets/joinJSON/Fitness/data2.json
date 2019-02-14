@@ -1,205 +1,113 @@
 {
-    "source": [
-        "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
-        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
-        "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
-        "<a href=\"http://workoutwear.us\" rel=\"nofollow\">Workout Clothes</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
-        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
-        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
-        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
-    ],
-    "hashtags": [
-        [],
-        [],
-        [],
-        [],
-        [
-            {
-                "indices": [
-                    30,
-                    38
-                ],
-                "text": "fitlife"
-            },
-            {
-                "indices": [
-                    44,
-                    50
-                ],
-                "text": "fitpo"
-            },
-            {
-                "indices": [
-                    51,
-                    58
-                ],
-                "text": "fitfam"
-            },
-            {
-                "indices": [
-                    59,
-                    67
-                ],
-                "text": "gymlife"
-            },
-            {
-                "indices": [
-                    68,
-                    73
-                ],
-                "text": "yoga"
-            },
-            {
-                "indices": [
-                    74,
-                    88
-                ],
-                "text": "yogachallenge"
-            },
-            {
-                "indices": [
-                    89,
-                    98
-                ],
-                "text": "yogagirl"
-            },
-            {
-                "indices": [
-                    99,
-                    107
-                ],
-                "text": "yogafun"
-            }
-        ],
-        [],
-        [
-            {
-                "indices": [
-                    85,
-                    94
-                ],
-                "text": "teamSOUL"
-            }
-        ],
-        [],
-        [
-            {
-                "indices": [
-                    29,
-                    38
-                ],
-                "text": "Crossfit"
-            }
-        ],
-        [
-            {
-                "indices": [
-                    76,
-                    80
-                ],
-                "text": "jsa"
-            },
-            {
-                "indices": [
-                    81,
-                    88
-                ],
-                "text": "jsagym"
-            },
-            {
-                "indices": [
-                    89,
-                    95
-                ],
-                "text": "jsacf"
-            },
-            {
-                "indices": [
-                    96,
-                    108
-                ],
-                "text": "jsacrossfit"
-            }
-        ],
-        [],
-        [],
-        [],
-        [],
-        [],
-        [
-            {
-                "indices": [
-                    92,
-                    98
-                ],
-                "text": "jsacf"
-            },
-            {
-                "indices": [
-                    99,
-                    111
-                ],
-                "text": "jsacrossfit"
-            }
-        ],
-        [],
-        [],
-        [],
-        [],
-        [],
-        [],
-        [],
-        [],
-        []
-    ],
     "user": [
-        "GMA",
+        "EdgeRatedR",
+        "WWE",
         "CrossFit",
-        "CrossFit",
-        "pointebabe99",
-        "fitmama_in",
-        "DeepakHooda5555",
-        "TheSoulSean",
-        "paloguglielmone",
-        "kathrynsmithmcg",
-        "Jsacrossfit",
-        "patrickcentral",
-        "workout_clothes",
-        "jibblyuniverse4",
-        "WesPiattCF",
-        "mac_townCF",
-        "Jsacrossfit",
-        "AnastasiaVigo",
-        "_TonyHilfiger",
-        "MavsUnicorn",
-        "CrossfitTTown",
-        "woopigsushi",
-        "Jaton336",
-        "Femalefitness14",
-        "Johnwil514",
-        "lamesharden45"
+        "AnthrPerspectve",
+        "ckopyar",
+        "Ema_Toledo",
+        "MicheleADurante",
+        "TstormPdunneyxb",
+        "LivfitI",
+        "aworldoftruth",
+        "beLaurie",
+        "RojasRo17",
+        "paulasul1414",
+        "thezeiders",
+        "CanaryFliesAt",
+        "XFitUncensored",
+        "martinblanco464",
+        "bbl58",
+        "SCOTXC",
+        "Jameseyboy83",
+        "PoseidonFit",
+        "MaseSkyWalker21",
+        "SameWeilRES",
+        "jonijone1",
+        "dhana_mathew"
+    ],
+    "date": [
+        "Fri Feb 08 12:41:20 +0000 2019",
+        "Fri Feb 08 22:01:25 +0000 2019",
+        "Fri Feb 08 15:35:47 +0000 2019",
+        "Sat Feb 09 03:42:00 +0000 2019",
+        "Sat Feb 09 03:41:49 +0000 2019",
+        "Sat Feb 09 03:41:38 +0000 2019",
+        "Sat Feb 09 03:41:28 +0000 2019",
+        "Sat Feb 09 03:41:15 +0000 2019",
+        "Sat Feb 09 03:40:50 +0000 2019",
+        "Sat Feb 09 03:40:31 +0000 2019",
+        "Sat Feb 09 03:39:55 +0000 2019",
+        "Sat Feb 09 03:39:11 +0000 2019",
+        "Sat Feb 09 03:38:53 +0000 2019",
+        "Sat Feb 09 03:38:36 +0000 2019",
+        "Sat Feb 09 03:37:27 +0000 2019",
+        "Sat Feb 09 03:37:02 +0000 2019",
+        "Sat Feb 09 03:36:42 +0000 2019",
+        "Sat Feb 09 03:36:12 +0000 2019",
+        "Sat Feb 09 03:35:02 +0000 2019",
+        "Sat Feb 09 03:34:45 +0000 2019",
+        "Sat Feb 09 03:33:49 +0000 2019",
+        "Sat Feb 09 03:33:41 +0000 2019",
+        "Sat Feb 09 03:33:18 +0000 2019",
+        "Sat Feb 09 03:33:17 +0000 2019",
+        "Sat Feb 09 03:32:56 +0000 2019"
+    ],
+    "text": [
+        "Boom! Bam! Pow! Now on \u2066@EandCPod\u2069 it\u2019s The Architect, The Kingslayer, CrossFit Jesus, man he\u2019s got a lot of nickna\u2026 https://t.co/dAOynTHAN9",
+        "What's it like to do CrossFit with #TheMan? A member of the @WWEUniverse partook in an intense workout with\u2026 https://t.co/GWwsnvo2eQ",
+        "\"This is Suren. He\u2019s almost 90. We\u2019ve been working together since Aug. He told me he couldn\u2019t do a push-up. Then he\u2026 https://t.co/7Lwcwl9tWP",
+        "RT @Jordan_Sather_: The flu shot paralyzes another. https://t.co/HWf7vFyyTO",
+        "\ud83d\ude13 \ud83d\udca6\ud83d\udcaa Someday i\u2019ll be dangerous when I have my pull-ups! AMRAP 4\n- 5 CTB/Pullups\n- 5 Ball Slams (100lb)\n- 20 Double\u2026 https://t.co/d5OPd4zDyh",
+        "RT @CrossFit: Under the new pilot program at Orlando Health, CrossFit trainers learn about the unique needs of the spinal cord injury popul\u2026",
+        "#crossfitcamo #part2 #wod #tgif @ CrossFit CAMO Farmingdale https://t.co/0HQ4lRcTUe",
+        "RT @WWE: What's it like to do CrossFit with #TheMan? A member of the @WWEUniverse partook in an intense workout with @BeckyLynchWWE to find\u2026",
+        "NO MUSCLE GROWTH ?\nNO PROPER WORKOUT?\nNO PROPER DIET ?\nFOLLOW @livfit_in :\nTO KNOW SOLUTIONS NOW ! :\n:\nVISIT ::\u2026 https://t.co/5uK8Qq8oRe",
+        "RT @Jordan_Sather_: The flu shot paralyzes another. https://t.co/HWf7vFyyTO",
+        "I thought crossfit, hiit and trx was something...\n\nbut this lagree method stuff is like a whole different fitness beast. lawd.",
+        "RT @martinblanco464: Quiero hacer crossfit",
+        "RT @Jordan_Sather_: The flu shot paralyzes another. https://t.co/HWf7vFyyTO",
+        "RT @MaseSkyWalker21: Really want to get my #Crossfit in while in Vegas for @AEWrestling. I wonder if any of the wrestlers that are going to\u2026",
+        "RT @GMA: We're still not over 72-year-old Lauren Bruzzone who's been active her whole life: https://t.co/qwkY6ypffo https://t.co/q0c2ukmuM3",
+        "Go to https://t.co/oPtjSExaYX to register for The CrossFit Open. Because you can do it.\nThe Open is tailored to all\u2026 https://t.co/AzWt1orM07",
+        "Quiero hacer crossfit",
+        "RT @Jordan_Sather_: The flu shot paralyzes another. https://t.co/HWf7vFyyTO",
+        "Jillian Michaels Wants You to Stop Doing CrossFit {meh... this would have way more cred if a) she wasn\u2019t selling in\u2026 https://t.co/qwHupw4MRK",
+        "RT @CrossFit: \"This is Suren. He\u2019s almost 90. We\u2019ve been working together since Aug. He told me he couldn\u2019t do a push-up. Then he said it w\u2026",
+        "#running #wealth VSZAP Martial Fitness mma shorts Crossfit Boxing MMa fight Shorts mens Wolf shorts Muay Thai trunk\u2026 https://t.co/FkC47UotpB",
+        "Really want to get my #Crossfit in while in Vegas for @AEWrestling. I wonder if any of the wrestlers that are going\u2026 https://t.co/POWZjDtAAW",
+        "\ud83d\ude2c\n\n#God #Family #GiftsOfSobriety \ud83d\udc41 \u2014 feeling grateful at CrossFit Belmont Heights https://t.co/lfsDIWgVrR",
+        "My coach wants me to sign up for the Crossfit open... competing against other athletes in the world \ud83d\ude29\ud83d\ude29 like hold up sir",
+        "RT @WWE: What's it like to do CrossFit with #TheMan? A member of the @WWEUniverse partook in an intense workout with @BeckyLynchWWE to find\u2026"
+    ],
+    "source": [
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://social.zoho.com\" rel=\"nofollow\">Zoho Social</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"https://socialrabbitplugin.com\" rel=\"nofollow\">SocialRabbit Plugin</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
     ],
     "coordinates": [
-        null,
-        null,
         null,
         null,
         null,
@@ -207,8 +115,16 @@
         {
             "type": "Point",
             "coordinates": [
-                -80.3307309,
-                25.7330118
+                -122.40239,
+                37.79175
+            ]
+        },
+        null,
+        {
+            "type": "Point",
+            "coordinates": [
+                -73.45224,
+                40.72811
             ]
         },
         null,
@@ -257,58 +173,137 @@
         "en",
         "en"
     ],
-    "date": [
-        "Tue Feb 05 23:00:00 +0000 2019",
-        "Mon Feb 04 18:39:40 +0000 2019",
-        "Mon Feb 04 15:45:00 +0000 2019",
-        "Wed Feb 06 04:25:07 +0000 2019",
-        "Wed Feb 06 04:24:53 +0000 2019",
-        "Wed Feb 06 04:24:43 +0000 2019",
-        "Wed Feb 06 04:24:40 +0000 2019",
-        "Wed Feb 06 04:21:31 +0000 2019",
-        "Wed Feb 06 04:21:29 +0000 2019",
-        "Wed Feb 06 04:21:22 +0000 2019",
-        "Wed Feb 06 04:20:44 +0000 2019",
-        "Wed Feb 06 04:20:07 +0000 2019",
-        "Wed Feb 06 04:19:34 +0000 2019",
-        "Wed Feb 06 04:18:41 +0000 2019",
-        "Wed Feb 06 04:17:16 +0000 2019",
-        "Wed Feb 06 04:16:28 +0000 2019",
-        "Wed Feb 06 04:15:07 +0000 2019",
-        "Wed Feb 06 04:11:07 +0000 2019",
-        "Wed Feb 06 04:09:37 +0000 2019",
-        "Wed Feb 06 04:08:58 +0000 2019",
-        "Wed Feb 06 04:07:19 +0000 2019",
-        "Wed Feb 06 04:06:52 +0000 2019",
-        "Wed Feb 06 04:04:33 +0000 2019",
-        "Wed Feb 06 04:03:20 +0000 2019",
-        "Wed Feb 06 04:02:52 +0000 2019"
-    ],
-    "text": [
-        "72-year-old Lauren Bruzzone has been active her whole life, usually taking a dance or step aerobics class two days\u2026 https://t.co/KCkkuh0eWq",
-        "Lauren Ziegler, 21, of CrossFit 616 suffered a massive stroke and could not move the left side of her body. After a\u2026 https://t.co/bMy9vP6X0D",
-        "\"'Scaling' or modifying a workout is always an option at CrossFit! We all have limitations. With simple adjustments\u2026 https://t.co/miYfieeBOD",
-        "RT @thedoctorsofpt: As a CrossFit athlete, do you get a lot of backlash from people all around you for being apart of the sport that has a\u2026",
-        "Be stronger then your excuses #fitlife \n.\n.\n#fitpo #fitfam #gymlife #yoga #yogachallenge #yogagirl #yogafun\u2026 https://t.co/R8UKaLMre1",
-        "Beast MODE \ud83d\udd1b\nBattle challenges. Battle yourself. Battle ropes. Battle everything what stands in between you and you\u2026 https://t.co/eeuEdCoCnW",
-        "Team Soul Barbell called for a 5RM on weighted dips. Felt good hitting 90lbs today. \n#teamSOUL @crossfitsoul @ Cros\u2026 https://t.co/skGjAhWNar",
-        "@hess_abril Sale crossfit?\ud83d\ude0f\ud83d\ude0f plisssss https://t.co/VtLYVQJPZ8",
-        "Crossfit Open - here I come! #Crossfit  https://t.co/PqHTZAtCWn",
-        "A full day of fitness @Jsacrossfit with the absolute most amazing people\ud83d\udc4a\ud83c\udffb \n#jsa #jsagym #jsacf #jsacrossfit\u2026 https://t.co/ROlIFDymmT",
-        "Everybody was making jokes tonight about the horrific hypothetical implied by Rick Perry being designated survivor.\u2026 https://t.co/yY1UsjHraz",
-        "Follow Us For Great Fitness Looks  Latex Crossfit resistance bands fitness bo ... https://t.co/TLe7P2yBOt https://t.co/6WglTGiL9N",
-        "@joltikon Yoga instructor keith and crossfit shiro",
-        "Fitness was hard today. @ Coast Range CrossFit https://t.co/73OL2r3e2w",
-        "It\u2019s possible and it happens in CrossFit gyms all over the world. We have witnessed weight loss, strength gains, li\u2026 https://t.co/n22VjYCgrN",
-        "JSA teens on \ud83d\udd25 tonight! So impressed by the effort and attitude this group puts in daily \ud83d\udcaa\ud83c\udffb #jsacf #jsacrossfit\u2026 https://t.co/21tVxQpiAM",
-        "@xoValeriexo This is such a classic CrossFit story \ud83d\ude02",
-        "RT @MavsUnicorn: I\u2019m down 32 pounds total. A little hospital stay and since then I\u2019ve joined CrossFit and Yoga and Spin Cycle. I\u2019m slimming\u2026",
-        "I\u2019m down 32 pounds total. A little hospital stay and since then I\u2019ve joined CrossFit and Yoga and Spin Cycle. I\u2019m s\u2026 https://t.co/zGVKkcvWJ7",
-        "Join us this Friday, February 8th @ 6:00pm for another CrossFit Girls Night! T-Town will be hosting! We can\u2019t wait\u2026 https://t.co/MnvIpr8Pi2",
-        "@ramzpaul Doing crossfit",
-        "RT @TopDawg_C: \u201cIdc if you just finished CrossFit. I\u2019m horny now\u201d https://t.co/TzDqxBflhc",
-        "RT @Femalefitness14: Her Fitness Fight : working out hard and keeping the diet in check but still no progress 3 biggest Fitness mistakes st\u2026",
-        "@Unk0wn__ Nope, Crossfit con Carlos",
-        "RT @TopDawg_C: \u201cIdc if you just finished CrossFit. I\u2019m horny now\u201d https://t.co/TzDqxBflhc"
+    "hashtags": [
+        [],
+        [
+            {
+                "text": "TheMan",
+                "indices": [
+                    35,
+                    42
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "crossfitcamo",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "text": "part2",
+                "indices": [
+                    14,
+                    20
+                ]
+            },
+            {
+                "text": "wod",
+                "indices": [
+                    21,
+                    25
+                ]
+            },
+            {
+                "text": "tgif",
+                "indices": [
+                    26,
+                    31
+                ]
+            }
+        ],
+        [
+            {
+                "text": "TheMan",
+                "indices": [
+                    44,
+                    51
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Crossfit",
+                "indices": [
+                    43,
+                    52
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "running",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "text": "wealth",
+                "indices": [
+                    9,
+                    16
+                ]
+            }
+        ],
+        [
+            {
+                "text": "Crossfit",
+                "indices": [
+                    22,
+                    31
+                ]
+            }
+        ],
+        [
+            {
+                "text": "God",
+                "indices": [
+                    3,
+                    7
+                ]
+            },
+            {
+                "text": "Family",
+                "indices": [
+                    8,
+                    15
+                ]
+            },
+            {
+                "text": "GiftsOfSobriety",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "TheMan",
+                "indices": [
+                    44,
+                    51
+                ]
+            }
+        ]
     ]
 }
