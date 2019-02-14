@@ -1,293 +1,111 @@
 {
-    "source": [
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-        "<a href=\"https://socialrabbitplugin.com\" rel=\"nofollow\">SocialRabbit Plugin</a>",
-        "<a href=\"http://www.edgetheory.com\" rel=\"nofollow\">EdgeTheory</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "<a href=\"https://www.frugl.com\" rel=\"nofollow\">Frugl Deals and Offers</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
-        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://www.solomofy.com\" rel=\"nofollow\">Solomofy</a>",
-        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "<a href=\"https://www.artfine.net\" rel=\"nofollow\">MyApp210562</a>",
-        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>"
-    ],
-    "hashtags": [
-        [],
-        [],
-        [],
-        [
-            {
-                "indices": [
-                    43,
-                    50
-                ],
-                "text": "sports"
-            },
-            {
-                "indices": [
-                    51,
-                    59
-                ],
-                "text": "fitness"
-            },
-            {
-                "indices": [
-                    60,
-                    64
-                ],
-                "text": "gym"
-            },
-            {
-                "indices": [
-                    65,
-                    73
-                ],
-                "text": "workout"
-            },
-            {
-                "indices": [
-                    74,
-                    83
-                ],
-                "text": "training"
-            },
-            {
-                "indices": [
-                    84,
-                    95
-                ],
-                "text": "motivation"
-            },
-            {
-                "indices": [
-                    96,
-                    109
-                ],
-                "text": "bodybuilding"
-            }
-        ],
-        [],
-        [],
-        [],
-        [],
-        [],
-        [
-            {
-                "indices": [
-                    30,
-                    38
-                ],
-                "text": "fitlife"
-            },
-            {
-                "indices": [
-                    44,
-                    50
-                ],
-                "text": "fitpo"
-            },
-            {
-                "indices": [
-                    51,
-                    58
-                ],
-                "text": "fitfam"
-            },
-            {
-                "indices": [
-                    59,
-                    67
-                ],
-                "text": "gymlife"
-            },
-            {
-                "indices": [
-                    68,
-                    73
-                ],
-                "text": "yoga"
-            },
-            {
-                "indices": [
-                    74,
-                    88
-                ],
-                "text": "yogachallenge"
-            },
-            {
-                "indices": [
-                    89,
-                    98
-                ],
-                "text": "yogagirl"
-            },
-            {
-                "indices": [
-                    99,
-                    107
-                ],
-                "text": "yogafun"
-            }
-        ],
-        [],
-        [
-            {
-                "indices": [
-                    85,
-                    94
-                ],
-                "text": "vitamins"
-            },
-            {
-                "indices": [
-                    95,
-                    102
-                ],
-                "text": "muscle"
-            },
-            {
-                "indices": [
-                    103,
-                    111
-                ],
-                "text": "fitness"
-            },
-            {
-                "indices": [
-                    112,
-                    119
-                ],
-                "text": "health"
-            }
-        ],
-        [],
-        [],
-        [
-            {
-                "indices": [
-                    62,
-                    70
-                ],
-                "text": "homebiz"
-            },
-            {
-                "indices": [
-                    71,
-                    87
-                ],
-                "text": "workfromhomemom"
-            },
-            {
-                "indices": [
-                    88,
-                    105
-                ],
-                "text": "workfromanywhere"
-            },
-            {
-                "indices": [
-                    106,
-                    119
-                ],
-                "text": "WorkFromHome"
-            },
-            {
-                "indices": [
-                    120,
-                    127
-                ],
-                "text": "momof5"
-            },
-            {
-                "indices": [
-                    128,
-                    139
-                ],
-                "text": "momsover40"
-            }
-        ],
-        [],
-        [
-            {
-                "indices": [
-                    89,
-                    97
-                ],
-                "text": "fitness"
-            },
-            {
-                "indices": [
-                    98,
-                    106
-                ],
-                "text": "workout"
-            }
-        ],
-        [
-            {
-                "indices": [
-                    33,
-                    42
-                ],
-                "text": "JustDoIt"
-            },
-            {
-                "indices": [
-                    43,
-                    48
-                ],
-                "text": "NIKE"
-            }
-        ],
-        [],
-        [],
-        [],
-        [],
-        [],
-        [],
-        []
-    ],
     "user": [
-        "JacobAWohl",
-        "primalpoly",
+        "TheOnion",
+        "PhilipRucker",
         "JudicialWatch",
-        "Epic_Sporting",
-        "txurbanfarmgirl",
-        "emilzabazso",
-        "mayamcbride14",
-        "NwandoWoman",
-        "mplewer",
-        "fitmama_in",
-        "jakewaytweetswb",
-        "workttech",
-        "frugl",
-        "DeepakHooda5555",
-        "manwasfat",
-        "IsaOnMain",
-        "Pete_Neumann",
-        "Hurt_Alert",
-        "SpikeReeds",
-        "FlLakers",
-        "subhiksh_monet",
-        "liljeffhiphop",
-        "wash_cloth",
-        "1stGV",
-        "boyintrunks97"
+        "kayykayyyy_",
+        "NewLifeHealth4",
+        "StanginNbangin",
+        "idejkhjcra",
+        "RantMistress",
+        "LivinItGoodMag",
+        "Pearl_Jam512",
+        "Krishan66033626",
+        "Fitness10X",
+        "BstWirelessMart",
+        "prncesscharm",
+        "logan4000",
+        "DGriffin1980",
+        "TFWMODELS",
+        "TightFitness",
+        "Ashley4Kdotcom",
+        "majorprepsports",
+        "AuroraILJobs1",
+        "SeanB_Fitness",
+        "p_auggusto",
+        "MorrisBai_",
+        "chaotickim"
+    ],
+    "date": [
+        "Fri Feb 08 14:49:07 +0000 2019",
+        "Thu Feb 07 23:58:15 +0000 2019",
+        "Sat Feb 09 02:00:00 +0000 2019",
+        "Sat Feb 09 03:44:51 +0000 2019",
+        "Sat Feb 09 03:44:33 +0000 2019",
+        "Sat Feb 09 03:44:20 +0000 2019",
+        "Sat Feb 09 03:44:17 +0000 2019",
+        "Sat Feb 09 03:44:16 +0000 2019",
+        "Sat Feb 09 03:44:03 +0000 2019",
+        "Sat Feb 09 03:43:49 +0000 2019",
+        "Sat Feb 09 03:43:27 +0000 2019",
+        "Sat Feb 09 03:43:24 +0000 2019",
+        "Sat Feb 09 03:43:14 +0000 2019",
+        "Sat Feb 09 03:43:13 +0000 2019",
+        "Sat Feb 09 03:43:13 +0000 2019",
+        "Sat Feb 09 03:43:01 +0000 2019",
+        "Sat Feb 09 03:42:59 +0000 2019",
+        "Sat Feb 09 03:42:55 +0000 2019",
+        "Sat Feb 09 03:42:45 +0000 2019",
+        "Sat Feb 09 03:42:29 +0000 2019",
+        "Sat Feb 09 03:42:22 +0000 2019",
+        "Sat Feb 09 03:42:20 +0000 2019",
+        "Sat Feb 09 03:42:03 +0000 2019",
+        "Sat Feb 09 03:41:58 +0000 2019",
+        "Sat Feb 09 03:41:56 +0000 2019"
+    ],
+    "text": [
+        "Logitech Introduces High-Resistance Keyboard For Fitness-Minded Typists https://t.co/qqhInmkOA6 https://t.co/t8dSQ3lV4D",
+        "With Trump getting his physical tomorrow, @JDiamond1 &amp; @Kevinliptakcnn serve up some details on Trump's diet and fi\u2026 https://t.co/CedPnNq5bS",
+        "Considering her record &amp; her clear history of poor ethical/moral fitness, it's outrageous that Maxine Waters was ch\u2026 https://t.co/vFq0WTgKLY",
+        "there making a planet fitness right by my house thank god i keep my pass",
+        "The Beer Brands to Reach For When You're Watching Your Weight https://t.co/IKvPiR8IwE https://t.co/bv9n0coQCn",
+        "home #gymmotivation #fitness #benchpress #squats #deadlifts #shoulderpress #legpress #running #rowing #gymshark\u2026 https://t.co/5W7NLdiS5p",
+        "Women Leggings Sports Solid Plain Stretchy Sportswear Fitness Workout Yoga Skinny Bodycon Pants Trousers | Check th\u2026 https://t.co/zbLchvvGsn",
+        "Is this the year that half the world went on a fitness journey? Half of twitter is before and after pictures.",
+        "All the Health and Fitness Gear Keeping Us Inspired This February https://t.co/HsTo9QaAJv https://t.co/V5GnZoYsHv",
+        "I\u2019m so excited about the fitness program I put together for ACD this year \ud83d\ude01\ud83d\ude0b\n#20grindteen",
+        "RT @mytentaran: Benefits of Drinking Lemon Water in Morning Empty Stomach\n#DailyHealthTips #EatClean #EatLocal #FitFood #GlutenFree #Health\u2026",
+        "RT @GenerationIron: These are the reasons why bodybuilders are more shredded than powerlifters. #bodybuilding #powerlifting #fitness #jacke\u2026",
+        "Smart Wrist Touch Screen Fitness Trackers #wristbands #wristbandsgh #SmartwatchesToday #wearables #speakers https://t.co/Rpjb8HvaDg",
+        "@melissasprofile Hey don\u2019t say that about yourself....fitness is not about the looks it\u2019s about the feeling. Feelin\u2026 https://t.co/HbVt5nwp9h",
+        "RT @Ashley4Kdotcom: Never skip the gym on #FitnessFriday :-)\nIf you want to look and feel 100% its going to take 100% effort!\n#Fitness #Fit\u2026",
+        "RT @Denise_Masino: Bicep flexing &amp; fun with my members last night on cam. It\u2019s a privilege to hang with my people, I am grateful for all of\u2026",
+        "Entrenamiento funcional en INFINITY Fitness &amp; Dance https://t.co/j4HNP7ZEOB",
+        "So, you may have been seeing a little bit of Steph lately. She has been training with us at Tight Fitness Solutions\u2026 https://t.co/rpaCaxxxKm",
+        "Never skip the gym on #FitnessFriday :-)\nIf you want to look and feel 100% its going to take 100% effort!\n#Fitness\u2026 https://t.co/eeXjUXOol4",
+        "RT @TeamThad21: \ud83d\ude80STARTS TOMORROW\ud83d\ude80 THE FUTURE, your time has come to be a part of the #TTN Powerhouse!! \n\n7\ufe0f\u20e3th &amp; 8\ufe0f\u20e3th graders get ready fo\u2026",
+        "JOB: Bolingbrook IL USA - Corporate Fitness Trainer - Corporate Fitness Trainer WeatherTech a leading man: Corporat\u2026 https://t.co/6VfYGjBGa2",
+        "Money don\u2019t solve problems\nIt just prolongs it",
+        "@maanylima Fitness",
+        "Inspiring..and stronger than me. \ud83d\ude02\ud83e\udd23 #fitness #motivational https://t.co/dAwRXIuapr",
+        "RT @FrankAH3: @EliStokols @maggieNYT @ByBrianBennett Physical? What physical? Oh, you mean when Donnie tells Ronny, \"here's what you're gon\u2026"
+    ],
+    "source": [
+        "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+        "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"https://socialrabbitplugin.com\" rel=\"nofollow\">SocialRabbit Plugin</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
     ],
     "coordinates": [
         null,
@@ -295,7 +113,13 @@
         null,
         null,
         null,
-        null,
+        {
+            "type": "Point",
+            "coordinates": [
+                -123.0857,
+                49.0176
+            ]
+        },
         null,
         null,
         null,
@@ -343,58 +167,257 @@
         "en",
         "en"
     ],
-    "date": [
-        "Mon Feb 04 13:48:37 +0000 2019",
-        "Mon Feb 04 14:17:03 +0000 2019",
-        "Tue Feb 05 07:45:00 +0000 2019",
-        "Wed Feb 06 04:25:15 +0000 2019",
-        "Wed Feb 06 04:25:12 +0000 2019",
-        "Wed Feb 06 04:25:08 +0000 2019",
-        "Wed Feb 06 04:25:05 +0000 2019",
-        "Wed Feb 06 04:25:01 +0000 2019",
-        "Wed Feb 06 04:24:58 +0000 2019",
-        "Wed Feb 06 04:24:53 +0000 2019",
-        "Wed Feb 06 04:24:53 +0000 2019",
-        "Wed Feb 06 04:24:52 +0000 2019",
-        "Wed Feb 06 04:24:46 +0000 2019",
-        "Wed Feb 06 04:24:43 +0000 2019",
-        "Wed Feb 06 04:24:41 +0000 2019",
-        "Wed Feb 06 04:24:40 +0000 2019",
-        "Wed Feb 06 04:24:38 +0000 2019",
-        "Wed Feb 06 04:24:36 +0000 2019",
-        "Wed Feb 06 04:24:33 +0000 2019",
-        "Wed Feb 06 04:24:32 +0000 2019",
-        "Wed Feb 06 04:24:31 +0000 2019",
-        "Wed Feb 06 04:24:21 +0000 2019",
-        "Wed Feb 06 04:24:20 +0000 2019",
-        "Wed Feb 06 04:24:20 +0000 2019",
-        "Wed Feb 06 04:24:16 +0000 2019"
-    ],
-    "text": [
-        "Justice Ruth Bader Ginsburg has been absent from the Supreme Court for weeks \n\nEnough is enough. \n\nIt\u2019s time for RB\u2026 https://t.co/tNGwB3XKYr",
-        "Why don't men wear jackets when it's cold?\n\nEvolutionary psych: 'Maybe they're signaling health, stoicism, and fitn\u2026 https://t.co/rvxCH2yaQv",
-        "Considering her record &amp; her documented history of poor ethical + moral fitness, it\u2019s outrageous that Maxine Waters\u2026 https://t.co/Pb72k5UrfD",
-        "Alpha Flag Athleti-Fit&amp;#x2122; T-Shirt #sports #fitness #gym #workout #training #motivation #bodybuilding\u2026 https://t.co/yuj4neQ7yY",
-        "Healthy habits start earlier than you think. Get your kids moving with these tips: https://t.co/uYqy2e45cU\u2026 https://t.co/oNQNZeur47",
-        "@paige94babe I used to have a membership with Idaho fitness but there isn\u2019t one that\u2019s close by crunch is right dow\u2026 https://t.co/ptqX6iKWNu",
-        "does anyone know of any local programs for kids, teens and young adults with disabilities.. whether it may be a sen\u2026 https://t.co/yd8vmgc2kH",
-        "RT @KBEP: CALLING ALL TEENS!!! Join us on Friday Feb 22nd at 1pm at @GFRRec for a hip hop dance fitness class! Come dressed to sweat!! Chec\u2026",
-        "The look that says \"Please can we run now\".. \n\nOff to keep the fur kid happy and me from getting fat.\nBack for the\u2026 https://t.co/I2AgYVQuO3",
-        "Be stronger then your excuses #fitlife \n.\n.\n#fitpo #fitfam #gymlife #yoga #yogachallenge #yogagirl #yogafun\u2026 https://t.co/R8UKaLMre1",
-        "RT @WSDNews: Wednesday, February 6: All Waterford Schools are CLOSED, including the  Waterford Senior Center &amp; Pool and Fitness Centers. Th\u2026",
-        "*Good Vitamins For Sore Muscles After Working Out* &gt;&gt; https://t.co/V7OewP7UfA\n\n#vitamins #muscle #fitness #health\u2026 https://t.co/NOnrUz8WOE",
-        "Fitness Tracker with Blood Oxygen &amp; Heart Rate Monitor - 4 Colours!\nPrice : \u00a319.00  - 86% OFF!\n https://t.co/y0yxQhjFBM",
-        "Beast MODE \ud83d\udd1b\nBattle challenges. Battle yourself. Battle ropes. Battle everything what stands in between you and you\u2026 https://t.co/eeuEdCoCnW",
-        "RT @TaraAnneJ: Confidence is contagious. Catch it. Spread it. #homebiz #workfromhomemom #workfromanywhere #WorkFromHome #momof5 #momsover40\u2026",
-        "RT @mewTripled: A few years ago, my mom kicked cancer in the ass through a whole change of her health and fitness lifestyle. I used to work\u2026",
-        "Chilly for Los Angeles...low 50s and windy. Haley is now family...crushed her 3rd one!!! #fitness #workout\u2026 https://t.co/GAKoPsPXoJ",
-        "Great Workout and Hoop Session!! #JustDoIt #NIKE @ LA Fitness - HOUSTON TX - N SHEPHERD DR https://t.co/L3fUzzfGgA",
-        "RT @tayoshi2: Lebron is the only superstar who is not allowed to gradually get back into match fitness after the worst injury of his career\u2026",
-        "RT @RSPerformance: Try one of our 4-week 'body weight only' online fitness plans!  https://t.co/wktgSRZTI2 https://t.co/kWA6lANi1r",
-        "The mug you want in hand from season to season.\nTo shop, contact us on 9315401145 or email us at info@subhiksh.com\u2026 https://t.co/5Ha2zDJvQa",
-        "@veronicatho Just go to Smoothie World &amp; Xtreme Fitness Nutrition \n822 Newport Ave Pawtucket \n4015434255\nThey deliver smoothies \ud83d\udc4d\ud83c\udffc",
-        "Seems like women everywhere have a fetish for white guys.  Personally, I blame the works of Anthony Minghella (The\u2026 https://t.co/7gL8V6bSGT",
-        "Barcelona v Real Madrid: Barca \u2018waiting until last moment\u2019 over Lionel Messi fitness https://t.co/mq9TEwjiHO",
-        "RT @AdrianNguNgu: Remember my friend from before? He's now my nutritionist and fitness coach, and something more (; https://t.co/H3DpWk61sP"
+    "hashtags": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "gymmotivation",
+                "indices": [
+                    5,
+                    19
+                ]
+            },
+            {
+                "text": "fitness",
+                "indices": [
+                    20,
+                    28
+                ]
+            },
+            {
+                "text": "benchpress",
+                "indices": [
+                    29,
+                    40
+                ]
+            },
+            {
+                "text": "squats",
+                "indices": [
+                    41,
+                    48
+                ]
+            },
+            {
+                "text": "deadlifts",
+                "indices": [
+                    49,
+                    59
+                ]
+            },
+            {
+                "text": "shoulderpress",
+                "indices": [
+                    60,
+                    74
+                ]
+            },
+            {
+                "text": "legpress",
+                "indices": [
+                    75,
+                    84
+                ]
+            },
+            {
+                "text": "running",
+                "indices": [
+                    85,
+                    93
+                ]
+            },
+            {
+                "text": "rowing",
+                "indices": [
+                    94,
+                    101
+                ]
+            },
+            {
+                "text": "gymshark",
+                "indices": [
+                    102,
+                    111
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "20grindteen",
+                "indices": [
+                    77,
+                    89
+                ]
+            }
+        ],
+        [
+            {
+                "text": "DailyHealthTips",
+                "indices": [
+                    74,
+                    90
+                ]
+            },
+            {
+                "text": "EatClean",
+                "indices": [
+                    91,
+                    100
+                ]
+            },
+            {
+                "text": "EatLocal",
+                "indices": [
+                    101,
+                    110
+                ]
+            },
+            {
+                "text": "FitFood",
+                "indices": [
+                    111,
+                    119
+                ]
+            },
+            {
+                "text": "GlutenFree",
+                "indices": [
+                    120,
+                    131
+                ]
+            }
+        ],
+        [
+            {
+                "text": "bodybuilding",
+                "indices": [
+                    96,
+                    109
+                ]
+            },
+            {
+                "text": "powerlifting",
+                "indices": [
+                    110,
+                    123
+                ]
+            },
+            {
+                "text": "fitness",
+                "indices": [
+                    124,
+                    132
+                ]
+            }
+        ],
+        [
+            {
+                "text": "wristbands",
+                "indices": [
+                    42,
+                    53
+                ]
+            },
+            {
+                "text": "wristbandsgh",
+                "indices": [
+                    54,
+                    67
+                ]
+            },
+            {
+                "text": "SmartwatchesToday",
+                "indices": [
+                    68,
+                    86
+                ]
+            },
+            {
+                "text": "wearables",
+                "indices": [
+                    87,
+                    97
+                ]
+            },
+            {
+                "text": "speakers",
+                "indices": [
+                    98,
+                    107
+                ]
+            }
+        ],
+        [],
+        [
+            {
+                "text": "FitnessFriday",
+                "indices": [
+                    42,
+                    56
+                ]
+            },
+            {
+                "text": "Fitness",
+                "indices": [
+                    126,
+                    134
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "FitnessFriday",
+                "indices": [
+                    22,
+                    36
+                ]
+            },
+            {
+                "text": "Fitness",
+                "indices": [
+                    106,
+                    114
+                ]
+            }
+        ],
+        [
+            {
+                "text": "TTN",
+                "indices": [
+                    85,
+                    89
+                ]
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "fitness",
+                "indices": [
+                    36,
+                    44
+                ]
+            },
+            {
+                "text": "motivational",
+                "indices": [
+                    45,
+                    58
+                ]
+            }
+        ],
+        []
     ]
 }

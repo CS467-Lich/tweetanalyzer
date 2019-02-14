@@ -11,10 +11,10 @@ from helperFunctions import writeAsJSON
 from jsonmerge import Merger
 
 
-MY_DATA_FOLDER = "joinJSON/"
+MY_DATA_FOLDER = "joinJSON"
 
-MY_DATA_SUBFOLDER = "Fitness"
-MY_FINAL_DATA = 'Fitness_Final_Positive'
+MY_DATA_SUBFOLDER = "Humour"
+MY_FINAL_DATA = 'Humour_Final_Positive'
 
 #MY_DATA_SUBFOLDER = "Activism_Environmental"
 #MY_FINAL_DATA = 'Activism_Final_Positive'
@@ -47,8 +47,8 @@ for filename in os.listdir(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER):
 # store final json data
 writeAsJSON(finalJSON, MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER + '/' + MY_FINAL_DATA)
 
-df = pd.read_json(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER + '/' + MY_FINAL_DATA)
-df.to_csv(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER + '/' + MY_FINAL_DATA + ".csv")
+#df = pd.read_json(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER + '/' + MY_FINAL_DATA)
+#df.to_csv(MY_DATA_FOLDER + '/' + MY_DATA_SUBFOLDER + '/' + MY_FINAL_DATA + ".csv")
 
 # References
 # https://pypi.org/project/jsonmerge/
