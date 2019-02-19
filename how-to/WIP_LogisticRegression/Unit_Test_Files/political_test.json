@@ -1,0 +1,67 @@
+{
+	"user": [
+		"political1",
+		"political2",
+		"political3",
+		"political4",
+		"political5"
+	],
+	"date": [
+		"Fri Feb 05 15:15:15 +0000 2019",
+		"Fri Feb 05 15:15:15 +0000 2019",
+		"Fri Feb 05 15:15:15 +0000 2019",
+		"Fri Feb 05 15:15:15 +0000 2019",
+		"Fri Feb 05 15:15:15 +0000 2019"
+	],
+	"text": [
+		"Politics text 1",
+		"Politics text 2",
+		"Politics text 3",
+		"Politics text 4",
+		"Politics text 5"
+	],
+	"source": [
+		"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+	],
+	"coordinates": [
+		null,
+		null,
+		null,
+		null,
+		null
+	],
+	"language": [
+		"en",
+		"en",
+		"en",
+		"en",
+		"en"
+	],
+	"hashtags": [
+		[],
+		[
+			{
+				"indices": [
+					0,
+					9
+				],
+				"text": "politics"
+			}
+		],
+		[],
+		[
+			{
+				"indices": [
+					1,
+					10
+				],
+				"text": "politics"
+			}
+		],
+		[]
+	]
+}

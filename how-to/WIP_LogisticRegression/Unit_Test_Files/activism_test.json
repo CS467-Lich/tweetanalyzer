@@ -1,0 +1,67 @@
+{
+	"date": [
+		"Mon Feb 01 11:11:11 +0000 2019",
+		"Mon Feb 01 11:11:11 +0000 2019",
+		"Mon Feb 01 11:11:11 +0000 2019",
+		"Mon Feb 01 11:11:11 +0000 2019",
+		"Mon Feb 01 11:11:11 +0000 2019"
+	],
+	"text": [
+		"Activism text 1",
+		"Activism text 2",
+		"Activism text 3",
+		"Activism text 4",
+		"Activism text 5"
+	],
+	"hashtags": [
+		[],
+		[
+			{
+				"indices": [
+					0,
+					9
+				],
+				"text": "activism"
+			}
+		],
+		[],
+		[
+			{
+				"indices": [
+					1,
+					10
+				],
+				"text": "activism"
+			}
+		],
+		[]
+	],
+	"coordinates": [
+		null,
+		null,
+		null,
+		null,
+		null
+	],
+	"source": [
+		"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+	],
+	"user": [
+		"activist1",
+		"activist2",
+		"activist3",
+		"activist4",
+		"activist5"
+	],
+	"language": [
+		"en",
+		"en",
+		"en",
+		"en",
+		"en"
+	]
+}

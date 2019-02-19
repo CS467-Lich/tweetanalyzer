@@ -1,0 +1,67 @@
+{
+	"user": [
+		"fitness1",
+		"fitness2",
+		"fitness3",
+		"fitness4",
+		"fitness5"
+	],
+	"date": [
+		"Wed Feb 03 13:13:13 +0000 2019",
+		"Wed Feb 03 13:13:13 +0000 2019",
+		"Wed Feb 03 13:13:13 +0000 2019",
+		"Wed Feb 03 13:13:13 +0000 2019",
+		"Wed Feb 03 13:13:13 +0000 2019"
+	],
+	"text": [
+		"Fitness text 1",
+		"Fitness text 2",
+		"Fitness text 3",
+		"Fitness text 4",
+		"Fitness text 5"
+	],
+	"source": [
+		"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+	],
+	"coordinates": [
+		null,
+		null,
+		null,
+		null,
+		null
+	],
+	"language": [
+		"en",
+		"en",
+		"en",
+		"en",
+		"en"
+	],
+	"hashtags": [
+		[],
+		[
+			{
+				"indices": [
+					0,
+					8
+				],
+				"text": "fitness"
+			}
+		],
+		[],
+		[
+			{
+				"indices": [
+					1,
+					9
+				],
+				"text": "fitness"
+			}
+		],
+		[]
+	]
+}

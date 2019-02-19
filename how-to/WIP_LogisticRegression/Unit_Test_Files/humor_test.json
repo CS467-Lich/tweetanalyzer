@@ -1,0 +1,67 @@
+{
+	"user": [
+		"humor1",
+		"humor2",
+		"humor3",
+		"humor4",
+		"humor5"
+	],
+	"date": [
+		"Thu Feb 04 14:14:14 +0000 2019",
+		"Thu Feb 04 14:14:14 +0000 2019",
+		"Thu Feb 04 14:14:14 +0000 2019",
+		"Thu Feb 04 14:14:14 +0000 2019",
+		"Thu Feb 04 14:14:14 +0000 2019"
+	],
+	"text": [
+		"Humor text 1",
+		"Humor text 2",
+		"Humor text 3",
+		"Humor text 4",
+		"Humor text 5"
+	],
+	"source": [
+		"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+	],
+	"coordinates": [
+		null,
+		null,
+		null,
+		null,
+		null
+	],
+	"language": [
+		"en",
+		"en",
+		"en",
+		"en",
+		"en"
+	],
+	"hashtags": [
+		[],
+		[
+			{
+				"indices": [
+					0,
+					6
+				],
+				"text": "humor"
+			}
+		],
+		[],
+		[
+			{
+				"indices": [
+					1,
+					7
+				],
+				"text": "humor"
+			}
+		],
+		[]
+	]
+}

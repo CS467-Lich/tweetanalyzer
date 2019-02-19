@@ -1,0 +1,51 @@
+{
+	"user": [
+		"tech1",
+		"tech2",
+		"tech3",
+		"tech4",
+		"tech5"
+	],
+	"date": [
+		"2/6/2019 16:16",
+		"2/6/2019 16:16",
+		"2/6/2019 16:16",
+		"2/6/2019 16:16",
+		"2/6/2019 16:16"
+	],
+	"text": [
+		"Tech test 1",
+		"Tech test 2",
+		"Tech test 3",
+		"Tech test 4",
+		"Tech test 5"
+	],
+	"source": [
+		"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+	],
+	"coordinates": [
+		NaN,
+		NaN,
+		NaN,
+		NaN,
+		NaN
+	],
+	"language": [
+		"en",
+		"en",
+		"en",
+		"en",
+		"en"
+	],
+	"hashtags": [
+		"[{'text': 'tech', 'indices': [1, 6]}]",
+		"[]",
+		"[]",
+		"[{'text': 'tech', 'indices': [0, 5]}]",
+		"[]"
+	]
+}
