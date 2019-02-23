@@ -1,3 +1,7 @@
+"""
+WIP, only partially implemented
+-Emily
+"""
 import unittest
 import sys
 from io import StringIO

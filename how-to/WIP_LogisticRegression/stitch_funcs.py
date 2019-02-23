@@ -13,7 +13,6 @@ def fatalError(errorMsg='Fatal Error: Undefined'):
 	Arguments:
 	errorMsg -- (string) Message to print (default 'Fatal Error: Undefined')
 	"""
-
 	print('Fatal Error: ' + errorMsg, file=sys.stderr)
 	sys.exit(1)
 
@@ -64,30 +63,36 @@ def combineUsersAndText(users, text):
 
 
 def stitch(dataFolder, files):
-	"""Returns a dictionary containing the combined tweets and their categories
-	from ./datafolder/files. Each tweet is formed using an '@' symbol, the user,
-	a space, and then the tweet text.
-
-	Imports data from the JSON files named in the `files` array located in 
-	the subdirectory `dataFolder` and combines them into a single dictionary.
-	All the JSON files must be of the format:
-	{
-		'key': [...],
-		'key2': [...],
-		<etc.>
-	}
-	IMPORTANT: Each of the arrays is expected to have the same number of 
-	elements.
+	"""Takes all the files in the subfolder `dataFolder` and with file names
+	matching those in the array `files` and combines them. Returns a tuple 
+	consisting of: 
+	(1)	a dictionary with the keys 'tweet' and 'category'. Each tweet is a
+		string formed using an '@' symbol, the user, a space, and then the 
+		tweet text. Each category is the index of the tweet's category in
+		(2)
+	(2)	an array of category names. Each tweet's category in (1) is its index in
+		this array. 
 
 	Arguments:
 	dataFolder -- (string) The subfolder where the files in `files` are
 		located
 	files -- (array of strings) An array of file names containing JSON objects
 		of key/value pairs to stitch together.
+		All the JSON files in files[] must be of the format:
+		{
+			'key': [...],
+			'key2': [...],
+			<etc.>
+		}
+		IMPORTANT: Each of the arrays is expected to have the same number of 
+		elements.
 	"""
 	combinedData = getBaseDict()
 
-	for category in files:
+	legend = []
+
+	for idx, category in enumerate(files):
+		legend.append(category)
 		if files[category]:
 			filepath = dataFolder + files[category]
 			try:
@@ -106,7 +111,7 @@ def stitch(dataFolder, files):
 			# Combine username and text and add the category
 			tweets = combineUsersAndText(fileData['user'], fileData['text'])
 			combinedData['tweet'].extend(tweets)
-			catlist = [category] * len(fileData['user'])
+			catlist = [idx] * len(fileData['user'])
 			combinedData['category'].extend(catlist)
 
-	return combinedData
+	return combinedData, legend
