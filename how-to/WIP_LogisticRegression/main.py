@@ -3,8 +3,9 @@ import os
 from Logistic_Regression import *
 from Spinner import *
 from Dataset import *
-from Confusion_Matrix import *
-from Bar_Graph import *
+#from Confusion_Matrix import *
+#from Bar_Graph import *
+from Plots import *
 
 # Set DEBUG_MODE=True to make the data split the same way every time (should
 # yield same % accuracy every time) and print some debug information to the 

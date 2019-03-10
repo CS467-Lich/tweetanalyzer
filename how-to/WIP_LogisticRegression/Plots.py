@@ -1,9 +1,26 @@
+import matplotlib.pyplot as plt
+import matplotlib.cm as cm
+import pandas as pd
+import seaborn as sns
 from sklearn.metrics import confusion_matrix
 from numpy import newaxis
-import matplotlib.pyplot as plt
-import seaborn as sns
+
+def barGraph(subfolder, combinedData, labels):
+	plt.clf()
+	df = pd.DataFrame.from_dict(combinedData)
+	label_dict = dict(enumerate(labels))
+	df['y'] = df['y'].map(label_dict)
+	colors = []
+
+	fig = plt.figure(figsize=(10,11))
+	df.groupby('y').x_str.count().plot.bar(ylim=0)
+	plt.title("All Data (Train & Test Sets) by Category ", fontsize='xx-large', pad=40)
+	plt.ylabel("Qty Tweets", fontsize='large', labelpad=20)
+	plt.xlabel("Category", fontsize='large', labelpad=20)
+	plt.savefig(subfolder + "/category_counts.png")
 
 def confusionMatrix(subfolder, labels, test_y, predicted_y, normalized=True, total_score=None):
+	plt.clf()
 	c_matrix = confusion_matrix(test_y, predicted_y)
 	if normalized:
 		c_matrix = c_matrix.astype('float') / c_matrix.sum(axis=1)[:, newaxis]
