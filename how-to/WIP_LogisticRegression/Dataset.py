@@ -2,10 +2,11 @@ import json
 import unicodedata
 import re
 import pandas as pd
+import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
-#import stitch_funcs
+from sklearn.feature_selection import chi2
 
 class Dataset:
 	def __init__(self, data_folder, files, vectorizer='CountVectorizer', 
@@ -154,12 +155,6 @@ class Dataset:
 			'random_state': None
 		}
 		if seed: params['random_state'] = seed
-		"""
-		self.train, self.test = train_test_split(data, 
-												 test_size=percent_test, 
-												 shuffle=True,
-												 random_state=None)
-		"""
 		self.train, self.test = train_test_split(data, **params)
 
 	def vectorize(self, ngram_range):
@@ -190,6 +185,17 @@ class Dataset:
 		self.test_x_vect = vect.transform(self.test.x_str)
 		self.test_y = list(self.test.y)
 		self.vocabulary = vect.vocabulary_
+
+		# While we're at it, let's save the most-correlated features for each
+		# category within the ngram range.
+		self.correlated_features = {}
+		for cat_id, category in enumerate(self.labels):
+			features_chi2 = chi2(self.train_x_vect, np.array(self.train_y) == cat_id)
+			indices = np.argsort(features_chi2[0])
+			feature_names = np.array(vect.get_feature_names())[indices]
+			self.correlated_features[category] = {}
+			for n in range(ngram_range[0], ngram_range[1] + 1):
+				self.correlated_features[category][n] = [v for v in feature_names if len(v.split(' ')) == n]
 
 	def dump_vocabulary(self, filepath='vocab.json'):
 		vocab_dict = pd.Series(self.vocabulary).to_dict()
