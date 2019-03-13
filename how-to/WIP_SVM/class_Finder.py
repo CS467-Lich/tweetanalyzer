@@ -13,7 +13,6 @@ def classification(classification):
         act_data = json.load(f)
         d1_act = len(act_data['text'])
 
-
     with open('Data/Ads_Final_Positive.json') as f:
         ads_data = json.load(f)
         d2_ads = len(ads_data['text'])
@@ -57,6 +56,4 @@ def classification(classification):
         for i in range(d5_pol, sum):
             clazz[i] = 1
 
-
-
-classification('Tech')
+    return clazz

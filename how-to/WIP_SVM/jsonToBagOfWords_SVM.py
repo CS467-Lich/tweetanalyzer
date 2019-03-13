@@ -13,11 +13,15 @@ def jsonToBagOfWords_SVM(filepath):
 
     # separate the text column for now.
     textData = df['text']
+    # print(textData)
+    print(type(textData))
 
     # create a vectorizer and start preparing the data.
     vectorizer = CountVectorizer(strip_accents='ascii', ngram_range=(1,2)) #playing around with ngram - we can definitely keep it simple and get rid of this
+    vectorizer.fit(textData)  # .fit() finds every unique word to create a word array
     return vectorizer.transform(textData)
 
+jsonToBagOfWords_SVM('Data/final.json')
 
 # https://stackoverflow.com/questions/48806010/bag-of-words-with-json-array
 # https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
