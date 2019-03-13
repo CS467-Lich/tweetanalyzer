@@ -83,9 +83,19 @@ vectorizer.fit(data_series) # .fit() finds every unique word to create a word ar
 vector = vectorizer.transform(data_series) # transform creates our array
 vectorArray = vector.toarray()
 
+#reshape the data
+numeric_columns = vectorizer.get_feature_names()
+print(numeric_columns[0])
+print(vectorArray[:, 0])
+print(vectorArray[0])
+X = {}
+for i in range(0, np.size(vectorArray, 1)):
+    X[numeric_columns[i]] = vectorArray[:, i]
+
+print(X)
 
 
-X_train_act, X_test_act, y_train_act, y_test_act = train_test_split(vectorArray, act_clazz, train_size=0.8)
+X_train_act, X_test_act, y_train_act, y_test_act = train_test_split(X, act_clazz, train_size=0.8)
 #X_train_ads, X_test_ads, y_train_ads, y_test_ads = train_test_split(vectorArray, ads_clazz, train_size=0.8)
 #X_train_fit, X_test_fit, y_train_fit, y_test_fit = train_test_split(vectorArray, fit_clazz, train_size=0.8)
 #X_train_hum, X_test_hum, y_train_hum, y_test_hum = train_test_split(vectorArray, hum_clazz, train_size=0.8)
@@ -103,7 +113,7 @@ input_fn_train = tf.estimator.inputs.numpy_input_fn(x=X_train_act, y=y_train_act
 #########################################################################################
 # Define the feature columns
 #########################################################################################
-numeric_columns = vectorizer.get_feature_names()
+#numeric_columns = vectorizer.get_feature_names()
 numeric_features = [tf.feature_column.numeric_column(key=column) for column in numeric_columns]
 
 #########################################################################################

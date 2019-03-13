@@ -41,10 +41,12 @@ delta = 0.5 / np.sqrt(2.0)
 x1_coords = x1_coords + ((0 - clazz) * delta) + ((1-clazz) * delta)
 x2_coords = x2_coords + (clazz * delta) + ((clazz - 1) * delta)
 
+print(x1_coords)
+
 # create dictionary of numpy arrays for input function
 x = {'x1': x1_coords, 'x2': x2_coords}
 y = clazz
-
+#print(clazz)
 
 #########################################################################################
 
