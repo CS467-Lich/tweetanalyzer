@@ -41,24 +41,29 @@ delta = 0.5 / np.sqrt(2.0)
 x1_coords = x1_coords + ((0 - clazz) * delta) + ((1-clazz) * delta)
 x2_coords = x2_coords + (clazz * delta) + ((clazz - 1) * delta)
 
-print(x1_coords)
+#print(x1_coords)
 
 # create dictionary of numpy arrays for input function
-x = {'x1': x1_coords, 'x2': x2_coords}
+X = {'x1': x1_coords, 'x2': x2_coords}
 y = clazz
 #print(clazz)
 
-#########################################################################################
+print('X values:')
+print(X['x1'][0])
+print(type(X['x1'][0]))
+print(len(X['x1']))
 
-# plot data to test
-# plt.scatter(x1_coords, x2_coords, c=clazz)
-# plt.show()
+print('y values:')
+print(len(y))
+
+#X_train_act, X_test_act, y_train_act, y_test_act = train_test_split(X, y, train_size=0.8)
+
 
 #########################################################################################
 # prepare input functions to put data into estimator
 #########################################################################################
 
-input_fn_train = tf.estimator.inputs.numpy_input_fn(x=x, y=y, batch_size=10, num_epochs=4,shuffle=True)
+input_fn_train = tf.estimator.inputs.numpy_input_fn(x=X, y=y, batch_size=10, num_epochs=4,shuffle=True)
 
 """
 input_fn_test = tf.estimator.inputs.pandas_input_fn(x=X_test,

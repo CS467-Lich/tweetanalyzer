@@ -25,7 +25,7 @@ def classification(classification):
         hum_data = json.load(f)
         d4_hum = len(hum_data['text'])
 
-    with open('Data/Political_Final_Positive.json') as f:
+    with open('Data/Political_Final_Positive_Slim.json') as f:
         pol_data = json.load(f)
         d5_pol = len(pol_data['text'])
 

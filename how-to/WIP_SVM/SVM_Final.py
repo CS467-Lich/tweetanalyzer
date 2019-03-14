@@ -51,7 +51,7 @@ with open('Data/Humour_Final_Positive.json') as f:
     hum_data = json.load(f)
     hum_data = hum_data['text']
     hum_df = pd.DataFrame(hum_data)
-with open('Data/Political_Final_Positive.json') as f:
+with open('Data/Political_Final_Positive_Slim.json') as f:
     pol_data = json.load(f)
     pol_data = pol_data['text']
     pol_df = pd.DataFrame(pol_data)
@@ -78,24 +78,26 @@ tec_clazz = classification('Tec')
 
 # create the vectorizer so we can turn this text into a bag of words.
 data_series = data_df.T.squeeze() #turn the dataframe into a series for vectorizer
-vectorizer = CountVectorizer(strip_accents='ascii', ngram_range=(1,2))
+vectorizer = CountVectorizer(strip_accents='ascii', ngram_range=(1,1))
 vectorizer.fit(data_series) # .fit() finds every unique word to create a word array
 vector = vectorizer.transform(data_series) # transform creates our array
 vectorArray = vector.toarray()
 
 #reshape the data
 numeric_columns = vectorizer.get_feature_names()
-print(numeric_columns[0])
-print(vectorArray[:, 0])
-print(vectorArray[0])
-X = {}
-for i in range(0, np.size(vectorArray, 1)):
-    X[numeric_columns[i]] = vectorArray[:, i]
-
-print(X)
+#print(numeric_columns[0])
+#print(vectorArray[:, 0])
+#print(vectorArray[0])
+#print('vectorArray:')
+#print(type(vectorArray))
 
 
-X_train_act, X_test_act, y_train_act, y_test_act = train_test_split(X, act_clazz, train_size=0.8)
+#print(type(X))
+#print(len(X['00']))
+#print(len(act_clazz))
+
+# split array into train,test,split sets
+X_train_act, X_test_act, y_train_act, y_test_act = train_test_split(vectorArray, act_clazz, train_size=0.8)
 #X_train_ads, X_test_ads, y_train_ads, y_test_ads = train_test_split(vectorArray, ads_clazz, train_size=0.8)
 #X_train_fit, X_test_fit, y_train_fit, y_test_fit = train_test_split(vectorArray, fit_clazz, train_size=0.8)
 #X_train_hum, X_test_hum, y_train_hum, y_test_hum = train_test_split(vectorArray, hum_clazz, train_size=0.8)
@@ -103,12 +105,40 @@ X_train_act, X_test_act, y_train_act, y_test_act = train_test_split(X, act_clazz
 #X_train_tec, X_test_tec, y_train_tec, y_test_tec = train_test_split(vectorArray, tec_clazz, train_size=0.8)
 
 
+# sweet mercy, this is hideous. I promise I'll never analyze data from Json again; I'll use csv, I swear.
+X_train_dict = {}
+for i in range(0, np.size(X_train_act, 1)):
+    X_train_dict[numeric_columns[i]] = X_train_act[:, i]
+
+for i in numeric_columns:
+    X_temp = np.zeros(shape=(len(y_train_act), 1))
+    for j in X_train_dict[i]:
+        X_temp[j] = [X_train_dict[i][j]]
+    X_train_dict[i] = X_temp
+    print(i)
+
+
+
+#print(X_train_dict)
+print('X values:')
+print(X_train_dict['00'][0])
+print(type(X_train_dict['00'][0]))
+print(len(X_train_dict['00']))
+
+print('y values:')
+print(len(y_train_act))
+
+print('number of columns:')
+print(len(numeric_columns))
+
 #########################################################################################
 # prepare input functions to put data into estimator
 #########################################################################################
+print('making input function...')
+input_fn_train = tf.estimator.inputs.numpy_input_fn(x=X_train_dict, y=y_train_act, batch_size=10, num_epochs=4, shuffle=True)
+print('done')
 
-input_fn_train = tf.estimator.inputs.numpy_input_fn(x=X_train_act, y=y_train_act, batch_size=10, num_epochs=4, shuffle=True)
-
+input_fn_test = tf.estimator.inputs.numpy_input_fn(x=X_test_act, y=y_test_act, batch_size=10, num_epochs=1, shuffle=True)
 
 #########################################################################################
 # Define the feature columns
@@ -119,16 +149,19 @@ numeric_features = [tf.feature_column.numeric_column(key=column) for column in n
 #########################################################################################
 # Instantiate the relevant pre-made Estimator
 #########################################################################################
+print('instantiate estimator...')
 linear_classifier = tf.estimator.LinearClassifier(feature_columns=numeric_features)
-
+print('done')
 #########################################################################################
 # Train the estimator
 #########################################################################################
+print('training...')
 linear_classifier.train(input_fn=input_fn_train, steps=50)
-
+print('done')
 #########################################################################################
 # Test the estimator
 #########################################################################################
+print('testing...')
 results = linear_classifier.evaluate(input_fn=input_fn_train)
 print(results)
 
