@@ -35,19 +35,19 @@ tf.logging.set_verbosity(tf.logging.FATAL)
 #########################################################################################
 
 # pull data from json files and turn into pandas DataFrame
-with open('Data/Activism_Final_Positive.json') as f:
+with open('Data/Activism_Final_Positive_Slim.json') as f:
     act_data = json.load(f)
     act_data = act_data['text']
     act_df = pd.DataFrame(act_data)
-with open('Data/Ads_Final_Positive.json') as f:
+with open('Data/Ads_Final_Positive_Slim.json') as f:
     ads_data = json.load(f)
     ads_data = ads_data['text']
     ads_df = pd.DataFrame(ads_data)
-with open('Data/Fitness_Final_Positive.json') as f:
+with open('Data/Fitness_Final_Positive_Slim.json') as f:
     fit_data = json.load(f)
     fit_data = fit_data['text']
     fit_df = pd.DataFrame(fit_data)
-with open('Data/Humour_Final_Positive.json') as f:
+with open('Data/Humour_Final_Positive_Slim.json') as f:
     hum_data = json.load(f)
     hum_data = hum_data['text']
     hum_df = pd.DataFrame(hum_data)
@@ -55,7 +55,7 @@ with open('Data/Political_Final_Positive_Slim.json') as f:
     pol_data = json.load(f)
     pol_data = pol_data['text']
     pol_df = pd.DataFrame(pol_data)
-with open('Data/Tech_Final_Positive.json') as f:
+with open('Data/Tech_Final_Positive_Slim.json') as f:
     tec_data = json.load(f)
     tec_data = tec_data['text']
     tec_df = pd.DataFrame(tec_data)
@@ -115,7 +115,7 @@ for i in numeric_columns:
     for j in X_train_dict[i]:
         X_temp[j] = [X_train_dict[i][j]]
     X_train_dict[i] = X_temp
-    print(i)
+    # print(i)
 
 
 
@@ -135,10 +135,10 @@ print(len(numeric_columns))
 # prepare input functions to put data into estimator
 #########################################################################################
 print('making input function...')
-input_fn_train = tf.estimator.inputs.numpy_input_fn(x=X_train_dict, y=y_train_act, batch_size=10, num_epochs=4, shuffle=True)
+input_fn_train = tf.estimator.inputs.numpy_input_fn(x=X_train_dict, y=y_train_act, batch_size=50, num_epochs=2, shuffle=True)
 print('done')
 
-input_fn_test = tf.estimator.inputs.numpy_input_fn(x=X_test_act, y=y_test_act, batch_size=10, num_epochs=1, shuffle=True)
+input_fn_test = tf.estimator.inputs.numpy_input_fn(x=X_test_act, y=y_test_act, batch_size=50, num_epochs=1, shuffle=True)
 
 #########################################################################################
 # Define the feature columns
@@ -150,13 +150,14 @@ numeric_features = [tf.feature_column.numeric_column(key=column) for column in n
 # Instantiate the relevant pre-made Estimator
 #########################################################################################
 print('instantiate estimator...')
-linear_classifier = tf.estimator.LinearClassifier(feature_columns=numeric_features)
+linear_classifier = tf.estimator.LinearClassifier(feature_columns=numeric_features, optimizer=tf.train.FtrlOptimizer(
+        learning_rate=0.1))
 print('done')
 #########################################################################################
 # Train the estimator
 #########################################################################################
 print('training...')
-linear_classifier.train(input_fn=input_fn_train, steps=50)
+linear_classifier.train(input_fn=input_fn_train, max_steps=3)
 print('done')
 #########################################################################################
 # Test the estimator
