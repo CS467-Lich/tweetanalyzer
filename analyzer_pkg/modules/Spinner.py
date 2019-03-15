@@ -49,28 +49,28 @@ class Spinner:
 		sys.stdout.flush()
 
 def spinnerTask(task, *args, message=''):
-""" Use the function spinnerTask to carry out a time-consuming function on a 
-separate thread while a cursor spins on the command line.
+	""" Use the function spinnerTask to carry out a time-consuming function on a 
+	separate thread while a cursor spins on the command line.
 
-Arguments:
-	task = function to carry out. This function must NOT print anything to
-		stdout or stderr or it will mess up the spinner.
-	args = any required arguments for task(). For instance, if task(a, b), call
-		spinnerTask(task, a, b, message="This will take some time...")
-	message = optional string message to display to the left of the spinner.
-"""
-		spinner = Spinner()
-		try:
-			msg = '\n' + message
-			spinner.start(msg)
-			returned = task(*args)
-		except KeyboardInterrupt:
-			spinner.stop()
-			print('\nExiting...')
-			sys.exit(0)
-		except Exception as e:
-			spinner.stop()
-			raise e
+	Arguments:
+		task = function to carry out. This function must NOT print anything to
+			stdout or stderr or it will mess up the spinner.
+		args = any required arguments for task(). For instance, if task(a, b), call
+			spinnerTask(task, a, b, message="This will take some time...")
+		message = optional string message to display to the left of the spinner.
+	"""
+	spinner = Spinner()
+	try:
+		msg = '\n' + message
+		spinner.start(msg)
+		returned = task(*args)
+	except KeyboardInterrupt:
 		spinner.stop()
-		del spinner
-		return returned
+		print('\nExiting...')
+		sys.exit(0)
+	except Exception as e:
+		spinner.stop()
+		raise e
+	spinner.stop()
+	del spinner
+	return returned
