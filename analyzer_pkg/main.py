@@ -7,7 +7,7 @@ Oregon State University
 
 import sys
 import os
-import logging
+import traceback
 import modules.Config as config
 import modules.UI as ui
 import modules.Dataset as data
@@ -46,10 +46,10 @@ def fatal_error(msg):
 	print(msg, file=sys.stderr)
 	sys.exit(1)
 
-def excepthook(type_, value, traceback):
+def excepthook(type_, value, tb):
 	print("Uncaught Exception:", type_)
 	print("Message:", value)
-	print(traceback)
+	traceback.print_tb(tb)
 	sys.exit(1)
 
 ################################################################################
@@ -91,8 +91,13 @@ def run_NB(dataset):
 						dataset.test_x_vect, dataset.test_y, message=spinner_msg)
 	return model
 
-def run_SVM():
-	print("\n<STUB FOR SVM>")
+def run_SVM(dataset):
+	# Run SVM with spinner-- may take a little bit.
+	model = SVM.SVM()
+	spinner_msg = "Running SVM on tweet data..."
+	spinner.spinnerTask(model.run, dataset.train_x_vect, dataset.train_y, 
+						dataset.test_x_vect, dataset.test_y, message=spinner_msg)
+	return model
 
 
 ################################################################################
@@ -173,7 +178,16 @@ def main():
 
 			# SVM
 			if alg_choice == 3 or alg_choice == 4:
-				run_SVM()	# stub
+				model = run_SVM(dataset)
+				print("SVM % Accuracy:", model.percent_score)
+				plots.confusionMatrix(subfolder=output_dir,
+									  alg_name="SVM",
+									  alg_abbrev="SVM",
+									  labels=dataset.labels, 
+									  test_y=dataset.test_y, 
+									  predicted_y=model.predicted, 
+									  normalized=True, 
+									  total_score=model.percent_score)
 
 			# Ask user to quit or start over-- helpful for PyInstaller
 			# executable so console will remain open until user wants it to 
