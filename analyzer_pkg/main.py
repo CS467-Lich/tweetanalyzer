@@ -104,17 +104,17 @@ def run_SVM(dataset):
 # Main Method
 ################################################################################
 def main():
-	# Load settings from config file or global DEFAULTS if file absent
-	try:
-		settings = config.parse_settings(**DEFAULTS)
-		if DEBUG: print(settings)
-	except Exception as e:
-		fatal_error(str(e))
-
 	# Title
 	ui.print_title()
 
 	while True:
+		# Load settings from config file or global DEFAULTS if file absent
+		try:
+			settings = config.parse_settings(**DEFAULTS)
+			if DEBUG: print(settings)
+		except Exception as e:
+			fatal_error(str(e))
+
 		# Initial Menu: 1 = run analysis, 2 = reset config file to defaults
 		menu_choice = ui.initial_menu()
 		if DEBUG: print("Menu Choice:", menu_choice)
