@@ -4,7 +4,8 @@ This file contains function for plotting our data.
 Plots modified from:
 https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
 """
-
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 import pandas as pd
