@@ -9,28 +9,27 @@ import numpy as np
 
 def classification(classification):
 
-    with open('Data/Activism_Final_Positive.json') as f:
+    with open('Data/Activism_Final_Positive_Slim.json') as f:
         act_data = json.load(f)
         d1_act = len(act_data['text'])
 
-
-    with open('Data/Ads_Final_Positive.json') as f:
+    with open('Data/Ads_Final_Positive_Slim.json') as f:
         ads_data = json.load(f)
         d2_ads = len(ads_data['text'])
 
-    with open('Data/Fitness_Final_Positive.json') as f:
+    with open('Data/Fitness_Final_Positive_Slim.json') as f:
         fit_data = json.load(f)
         d3_fit = len(fit_data['text'])
 
-    with open('Data/Humour_Final_Positive.json') as f:
+    with open('Data/Humour_Final_Positive_Slim.json') as f:
         hum_data = json.load(f)
         d4_hum = len(hum_data['text'])
 
-    with open('Data/Political_Final_Positive.json') as f:
+    with open('Data/Political_Final_Positive_Slim.json') as f:
         pol_data = json.load(f)
         d5_pol = len(pol_data['text'])
 
-    with open('Data/Tech_Final_Positive.json') as f:
+    with open('Data/Tech_Final_Positive_Slim.json') as f:
         tec_data = json.load(f)
         d6_tec = len(tec_data['text'])
 
@@ -57,6 +56,4 @@ def classification(classification):
         for i in range(d5_pol, sum):
             clazz[i] = 1
 
-
-
-classification('Tech')
+    return clazz

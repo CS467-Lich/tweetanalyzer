@@ -11,7 +11,7 @@ from jsonmerge import Merger
 
 
 MY_DATA_FOLDER = "Data"
-MY_FINAL_DATA = 'Final_Positive.json'
+MY_FINAL_DATA = 'Final.json'
 
 # storing all the json data here
 
