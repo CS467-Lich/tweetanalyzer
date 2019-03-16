@@ -41,20 +41,32 @@ delta = 0.5 / np.sqrt(2.0)
 x1_coords = x1_coords + ((0 - clazz) * delta) + ((1-clazz) * delta)
 x2_coords = x2_coords + (clazz * delta) + ((clazz - 1) * delta)
 
-#print(x1_coords)
+#test data
+min_y = min_x = -5
+max_y = max_x = 5
+x1_coords_test = np.random.uniform(min_x,max_x, (500, 1))
+x2_coords_test = np.random.uniform(min_y, max_y, (500,1))
+clazz_test = np.greater(x2_coords_test, x1_coords_test).astype(int)
+delta = 0.5 / np.sqrt(2.0)
+x1_coords_test = x1_coords_test + ((0 - clazz_test) * delta) + ((1-clazz_test) * delta)
+x2_coords_test = x2_coords_test + (clazz_test * delta) + ((clazz_test - 1) * delta)
+
 
 # create dictionary of numpy arrays for input function
 X = {'x1': x1_coords, 'x2': x2_coords}
 y = clazz
+
+X_test = {'x1': x1_coords_test, 'x2': x2_coords_test}
+y_test = clazz_test
 #print(clazz)
 
-print('X values:')
-print(X['x1'][0])
-print(type(X['x1'][0]))
-print(len(X['x1']))
+#print('X values:')
+#print(X['x1'][0])
+#print(type(X['x1'][0]))
+#print(len(X['x1']))
 
-print('y values:')
-print(len(y))
+#print('y values:')
+#print(len(y))
 
 #X_train_act, X_test_act, y_train_act, y_test_act = train_test_split(X, y, train_size=0.8)
 
@@ -65,13 +77,8 @@ print(len(y))
 
 input_fn_train = tf.estimator.inputs.numpy_input_fn(x=X, y=y, batch_size=10, num_epochs=4,shuffle=True)
 
-"""
-input_fn_test = tf.estimator.inputs.pandas_input_fn(x=X_test,
-                                               y=y_test,
-                                               batch_size=32,
-                                               shuffle=False,
-                                               num_epochs=1)
-"""
+input_fn_test = tf.estimator.inputs.numpy_input_fn(x=X_test, y=y_test, batch_size=10, shuffle=False, num_epochs=1)
+
 #########################################################################################
 # Define the feature columns
 #########################################################################################
@@ -91,7 +98,8 @@ linear_classifier.train(input_fn=input_fn_train, steps=50)
 #########################################################################################
 # Test the estimator
 #########################################################################################
-results = linear_classifier.evaluate(input_fn=input_fn_train)
+results = linear_classifier.evaluate(input_fn=input_fn_test)
+print("Tensorflow linear classifier test results:")
 print(results)
 
 
