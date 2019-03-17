@@ -28,7 +28,7 @@ $ pip3 install -r requirements.txt
 
 ### twitter_credentials.json
 
-The main method will look for your 'twitter_credentials.json' file in /getTweets_pkg. If you need to change this, redefine the credentialsPath global variable at the beginning of 'main.py':
+The main method will look for your 'twitter_credentials.json' file in project root directory. If you need to change this, redefine the credentialsPath global variable at the beginning of 'main.py':
 ```
 credentialsPath = ...
 ```
