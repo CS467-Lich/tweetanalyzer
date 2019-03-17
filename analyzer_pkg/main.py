@@ -22,13 +22,16 @@ DEBUG = False
 DEFAULTS = {
 	"config_file": "config.ini",
 	"subdir": "data",
+	#"files": {
+	#		"Activism": "activism.json",
+	#		"Advertising": "ads.json",
+	#		"Comedy": "comedy.json",
+	#		"Fitness": "fitness.json",
+	#		"Politics": "politics.json",
+	#		"Technology": "tech.json"
+	#},
 	"files": {
-			"Activism": "activism.json",
-			"Advertising": "ads.json",
-			"Comedy": "comedy.json",
-			"Fitness": "fitness.json",
-			"Politics": "politics.json",
-			"Technology": "tech.json"
+			"All": "All_Positive.csv"
 	},
 	"test_train_split": (20, 80),
 	"vectorizer": "count",
@@ -61,7 +64,9 @@ def get_Dataset(settings):
 						   vectorizer=settings["vectorizer"], 
 						   remove_stopwords=settings["remove_stopwords"],
 						   preserve_symbols=settings["preserve_symbols"])
-	dataset.load()
+	#dataset.load() 	# Clunkier load-from-multiple-JSONs implementaion;
+						# we prever loading from one CSV.
+	dataset.load_csv()
 	dataset.clean()
 	dataset.split(settings["test_train_split"][0] / 100)
 	dataset.vectorize(ngram_range=(1, settings["max_ngram"]))

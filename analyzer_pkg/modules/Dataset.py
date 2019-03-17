@@ -1,8 +1,6 @@
 """
 This file defines the Dataset class which loads our data from file(s), cleans
 it according to our advanced settings, and vectorizes the text.
-
-To-do: Implement Sandhya's import from single csv-- that's simpler and faster.
 """
 
 import json
@@ -125,6 +123,52 @@ class Dataset:
 
 				catlist = [idx] * len(fileData['text'])
 				self.data['y'].extend(catlist)
+
+	def load_csv(self):
+		""" Loads data from self.files[keys[0]] (string) in self.data_folder 
+		(string).
+
+		Outcomes:
+		1. Saves array of tweet text from all files to self.data['x_str']
+		2. Saves corresponding array of category codes to self.data['y'].
+		   Both self.data['x_str'] and self.data['y'] are the same length;
+		   self.data['x_str'][someIndex] has the category code stored at
+		   self.data['y'][someIndex].
+		3. Saves category names in the array self.labels. The index of the 
+		   category in the array (0..num categories - 1) is the category's
+		   integer code. 
+
+		Prerequisites:
+		Expects self.files to contain one key and the value corresponding to
+		that key to be the name of a file that can be parsed as a CSV.
+		"""
+
+		# Input training data into a dataframe
+		file = self.files[list(self.files.keys())[0]]
+		path = self.data_folder + file
+		try:
+			df = pd.read_csv(path)
+		except Exception:
+			msg = ("(Dataset.load_csv) Error: Couldn't open {0}. Are you "
+				   "sure the file exists?").format(path)
+			raise IOError(msg)
+
+		# Create a subset of data that includes our text and category because 
+		# this algorithm will be learning based off of those two data points.
+		col = ['text', 'Category']
+		df = df[col]
+		df.columns = ['text', 'Category']
+		
+		# Turn categories into numerical IDs
+		df['category_id'] = df['Category'].factorize()[0]
+
+		self.data['x_str'] = df['text'].tolist()
+		self.data['y'] = df['category_id'].tolist()
+
+		# Convert dataframe to list
+		category_id_df = df[['Category','category_id']].drop_duplicates().sort_values('category_id')
+		labels = category_id_df['Category'].tolist()
+		self.labels = labels
 
 	def clean(self):
 		""" Scikit has its own punctuation cleaning process that we can use if
