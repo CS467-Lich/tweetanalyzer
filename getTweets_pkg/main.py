@@ -6,7 +6,7 @@ import interface
 import searchTweets
 import sampleTweets
 
-credentialsPath = 'twitter_credentials.json'
+credentialsPath = '../twitter_credentials.json'
 
 outputJSON = 'data.json'
 outputCSV = 'data.csv'

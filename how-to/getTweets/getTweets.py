@@ -19,7 +19,7 @@ TWITTER_SEARCH = ['from:funnyordie', 'from:Dadsaysjokes', 'from:DayliGuyThougts'
 # DIRECTORY = "Activism_Environmental"
 
 # Load credentials from JSON file
-with open('twitter_credentials.json', 'r') as file:
+with open('../../twitter_credentials.json', 'r') as file:
     creds = json.load(file)
 print('CONSUMER_KEY = ' + creds['CONSUMER_KEY'])
 print('CONSUMER_SECRET = ' + creds['CONSUMER_SECRET'])
