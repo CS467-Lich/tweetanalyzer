@@ -15,7 +15,7 @@ kiwisolver==1.0.1
 Markdown==3.0.1
 matplotlib
 mock==2.0.0
-numpy==1.16.1
+numpy==1.22.0
 oauthlib==3.0.1
 pandas
 pbr==5.1.3
